@@ -16,3 +16,13 @@ if (reducedMotion || !("IntersectionObserver" in window)) {
   }, { threshold: 0.12 });
   revealItems.forEach((item) => observer.observe(item));
 }
+
+// Scrollbar stays invisible until the page is actually moving.
+let scrollTimer;
+window.addEventListener("scroll", () => {
+  document.documentElement.classList.add("scrolling");
+  clearTimeout(scrollTimer);
+  scrollTimer = setTimeout(() => {
+    document.documentElement.classList.remove("scrolling");
+  }, 700);
+}, { passive: true });
