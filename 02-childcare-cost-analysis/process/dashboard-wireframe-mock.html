@@ -1,0 +1,617 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Childcare Prices Dashboard (Mockup) - Milestone 2</title>
+  <style>
+    :root{
+      --bg:#f1f5f9;         /* slate-100 */
+      --card:#ffffff;
+      --text:#0f172a;       /* slate-900 */
+      --muted:#475569;      /* slate-600 */
+      --muted2:#64748b;     /* slate-500 */
+      --border:#e2e8f0;     /* slate-200 */
+      --soft:#f8fafc;       /* slate-50 */
+      --pill:#f1f5f9;
+      --shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+      --radius:16px;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      background:var(--bg);
+      color:var(--text);
+    }
+    .wrap{ max-width:1200px; margin:0 auto; padding:24px; }
+    h1{ margin:0; font-size:22px; font-weight:700; }
+    .sub{ margin-top:6px; color:var(--muted); font-size:14px; line-height:1.4; }
+    .pills{ display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+    .pill{
+      background:var(--pill);
+      border:1px solid var(--border);
+      padding:6px 10px;
+      border-radius:999px;
+      font-size:12px;
+      color:var(--muted);
+    }
+
+    .grid{
+      display:grid;
+      grid-template-columns: 320px 1fr;
+      gap:16px;
+      margin-top:18px;
+    }
+    @media (max-width: 980px){
+      .grid{ grid-template-columns:1fr; }
+    }
+
+    .card{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding:16px;
+    }
+    .cardHeader{
+      display:flex;
+      justify-content:space-between;
+      gap:10px;
+      align-items:flex-start;
+    }
+    .cardTitle{ font-size:13px; font-weight:700; }
+    .cardSub{ font-size:12px; color:var(--muted2); margin-top:3px; }
+    .cardBody{ margin-top:12px; }
+
+    .filters{ display:flex; flex-direction:column; gap:12px; }
+    label{ display:block; }
+    .lbl{ font-size:12px; color:var(--muted); margin-bottom:6px; font-weight:600; }
+    select{
+      width:100%;
+      padding:10px 10px;
+      border-radius:12px;
+      border:1px solid var(--border);
+      background:#fff;
+      font-size:14px;
+      color:var(--text);
+      outline:none;
+    }
+    select:focus{
+      border-color:#cbd5e1;
+      box-shadow:0 0 0 3px rgba(148,163,184,0.35);
+    }
+
+    .kpis{
+      display:grid;
+      grid-template-columns:1fr;
+      gap:10px;
+      margin-top:14px;
+    }
+    .kpi{
+      background:var(--soft);
+      border:1px solid var(--border);
+      border-radius:14px;
+      padding:12px;
+    }
+    .kpi .k{ font-size:12px; color:var(--muted); }
+    .kpi .v{ margin-top:6px; font-size:18px; font-weight:800; }
+    .kpi .h{ margin-top:6px; font-size:12px; color:var(--muted2); }
+
+    .rightCol{ display:flex; flex-direction:column; gap:16px; }
+
+    .row2{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:16px;
+    }
+    @media (max-width: 980px){
+      .row2{ grid-template-columns:1fr; }
+    }
+
+    .mapMock{
+      background: var(--soft);
+      border: 2px dashed #cbd5e1;
+      border-radius:14px;
+      padding:14px;
+      height:280px;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+    }
+    .mapTop{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:10px;
+    }
+    .mapCenter{
+      flex:1;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      text-align:center;
+      padding:10px;
+    }
+    .mapCenter .big{ font-weight:800; }
+    .mapCenter .small{ margin-top:8px; font-size:12px; color:var(--muted2); line-height:1.35; }
+
+    canvas{
+      width:100%;
+      height:260px;
+      border-radius:14px;
+      border:1px solid var(--border);
+      background:#fff;
+    }
+
+    ul{ margin:0; padding-left:18px; }
+    li{ margin:8px 0; color:#334155; font-size:14px; line-height:1.45; }
+
+    .cta{
+      margin-top:12px;
+      background:var(--soft);
+      border:1px solid var(--border);
+      border-radius:14px;
+      padding:12px;
+    }
+    .cta .t{ font-size:12px; font-weight:800; color:#334155; }
+    .cta .b{ margin-top:6px; font-size:14px; color:#334155; line-height:1.45; }
+
+    .footerNote{
+      margin-top:10px;
+      font-size:12px;
+      color:var(--muted2);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Childcare Prices Dashboard (Mockup)</h1>
+      <div class="sub">
+        Weekly, full-time childcare prices. Placeholder values for Milestone 2 planning only.
+      </div>
+      <div class="pills">
+        <span class="pill">Audience: Working parents</span>
+        <span class="pill">Goal: Clarify cost differences by age, provider type, and location</span>
+        <span class="pill">Call to action: Will use local numbers to advocate for support</span>
+      </div>
+    </header>
+
+    <main class="grid">
+      <!-- Left -->
+      <section>
+        <div class="card">
+          <div class="cardHeader">
+            <div>
+              <div class="cardTitle">Filters</div>
+              <div class="cardSub">Choose a county and compare costs</div>
+            </div>
+          </div>
+
+          <div class="cardBody filters">
+            <label>
+              <div class="lbl">County</div>
+              <select id="county"></select>
+            </label>
+            <label>
+              <div class="lbl">Provider type</div>
+              <select id="provider"></select>
+            </label>
+            <label>
+              <div class="lbl">Percentile</div>
+              <select id="percentile"></select>
+            </label>
+            <label>
+              <div class="lbl">Age group focus</div>
+              <select id="age"></select>
+            </label>
+
+            <div class="footerNote">
+              Mock note: In the final dashboard, these filters will drive real charts built from the dataset.
+            </div>
+          </div>
+        </div>
+
+        <div class="kpis">
+          <div class="kpi">
+            <div class="k">Selected weekly price</div>
+            <div class="v" id="kpiWeekly">—</div>
+            <div class="h" id="kpiWeeklyHint">—</div>
+          </div>
+          <div class="kpi">
+            <div class="k">Monthly estimate</div>
+            <div class="v" id="kpiMonthly">—</div>
+            <div class="h">Weekly × 4.33</div>
+          </div>
+          <div class="kpi">
+            <div class="k">County median household income (context)</div>
+            <div class="v" id="kpiMhi">—</div>
+            <div class="h">County-level context</div>
+          </div>
+          <div class="kpi">
+            <div class="k">Cost share of weekly income (proxy)</div>
+            <div class="v" id="kpiShare">—</div>
+            <div class="h">Price ÷ (MHI/52)</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right -->
+      <section class="rightCol">
+        <div class="card">
+          <div class="cardHeader">
+            <div>
+              <div class="cardTitle">Location</div>
+              <div class="cardSub">Map placeholder for Milestone 2</div>
+            </div>
+            <span class="pill" id="pillCounty">—</span>
+          </div>
+
+          <div class="cardBody">
+            <div class="mapMock">
+              <div class="mapTop">
+                <div class="pill">Map (mock)</div>
+                <div class="pill">Click county shapes later</div>
+              </div>
+              <div class="mapCenter">
+                <div>
+                  <div class="big" id="mapCounty">—</div>
+                  <div class="small">
+                    Replace with a real county map later (Tableau/Power BI or a JS map library). I'll decide later.<br/>
+                    For Milestone 2, this just shows layout and intent.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row2">
+          <div class="card">
+            <div class="cardHeader">
+              <div>
+                <div class="cardTitle">Price by age group</div>
+                <div class="cardSub">Weekly prices across ages</div>
+              </div>
+            </div>
+            <div class="cardBody">
+              <canvas id="barChart" width="800" height="520"></canvas>
+              <div class="footerNote">Design intent: make the age step-down obvious (infant → school-age).</div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="cardHeader">
+              <div>
+                <div class="cardTitle">Trend over time</div>
+                <div class="cardSub">Simple time view for context</div>
+              </div>
+            </div>
+            <div class="cardBody">
+              <canvas id="lineChart" width="800" height="520"></canvas>
+              <div class="footerNote">Final version can use real years/quarters if available.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="cardHeader">
+            <div>
+              <div class="cardTitle">Interpretation panel</div>
+              <div class="cardSub">Plain-language explanation for working parents</div>
+            </div>
+          </div>
+          <div class="cardBody">
+            <ul>
+              <li id="interp1">—</li>
+              <li>Use the age chart to compare your current stage against what comes next.</li>
+              <li>If the share-of-income estimate is high, the final story points users toward employer support and policy options.</li>
+            </ul>
+
+            <div class="cta">
+              <div class="t">Call to action (mock)</div>
+              <div class="b">
+                Bring your county’s numbers to your employer (HR), school board, or local leaders to support childcare assistance,
+                flexible schedules, and subsidy funding.
+              </div>
+            </div>
+
+            <div class="footerNote">
+              Data note (mock): Replace with dataset measures labeled as weekly, full-time.
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    // ------- Placeholder data (for Milestone 2 mockup only) -------
+    const counties = [
+      "Jefferson County, AL",
+      "Shelby County, AL",
+      "Madison County, AL",
+      "Mobile County, AL"
+    ];
+
+    const providerTypes = ["Center-based", "Family-based"];
+    const percentiles = ["Median", "75th percentile"];
+    const ageGroups = [
+      "Infant (0–23m)",
+      "Toddler (24–35m)",
+      "Preschool (3–5)",
+      "School-age (6–12)"
+    ];
+
+    // Fake baseline weekly prices by age (median-ish), will be scaled by provider/percentile selections
+    const baseByAge = {
+      "Infant (0–23m)": 250,
+      "Toddler (24–35m)": 210,
+      "Preschool (3–5)": 185,
+      "School-age (6–12)": 140
+    };
+
+    // Fake county MHI for layout/context only
+    const mhiByCounty = {
+      "Jefferson County, AL": 60000,
+      "Shelby County, AL": 82000,
+      "Madison County, AL": 76000,
+      "Mobile County, AL": 56000
+    };
+
+    // Month labels for time chart
+    const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+    // ------- DOM helpers -------
+    const $ = (id) => document.getElementById(id);
+
+    function populateSelect(selectEl, options){
+      selectEl.innerHTML = "";
+      options.forEach(opt => {
+        const o = document.createElement("option");
+        o.value = opt;
+        o.textContent = opt;
+        selectEl.appendChild(o);
+      });
+    }
+
+    function formatCurrency(n){
+      if (typeof n !== "number" || Number.isNaN(n)) return "—";
+      return n.toLocaleString("en-US", { style:"currency", currency:"USD", maximumFractionDigits:0 });
+    }
+
+    // ------- Simple Canvas charting (no libraries) -------
+    function clearCanvas(ctx, w, h){
+      ctx.clearRect(0,0,w,h);
+      ctx.fillStyle = "#fff";
+      ctx.fillRect(0,0,w,h);
+    }
+
+    function drawAxes(ctx, chart){
+      const { x0, y0, x1, y1 } = chart;
+      ctx.strokeStyle = "#e2e8f0";
+      ctx.lineWidth = 1;
+
+      // Y axis
+      ctx.beginPath();
+      ctx.moveTo(x0, y0);
+      ctx.lineTo(x0, y1);
+      ctx.stroke();
+
+      // X axis
+      ctx.beginPath();
+      ctx.moveTo(x0, y1);
+      ctx.lineTo(x1, y1);
+      ctx.stroke();
+    }
+
+    function drawYTicks(ctx, chart, minV, maxV, steps){
+      const { x0, y0, y1 } = chart;
+      ctx.fillStyle = "#64748b";
+      ctx.font = "12px system-ui";
+      ctx.strokeStyle = "#f1f5f9";
+
+      for (let i=0; i<=steps; i++){
+        const t = i/steps;
+        const v = maxV - t*(maxV-minV);
+        const y = y0 + t*(y1-y0);
+
+        ctx.beginPath();
+        ctx.moveTo(x0, y);
+        ctx.lineTo(chart.x1, y);
+        ctx.stroke();
+
+        ctx.fillText(Math.round(v), x0 - 36, y + 4);
+      }
+    }
+
+    function drawBarChart(canvas, labels, values){
+      const ctx = canvas.getContext("2d");
+      const w = canvas.width, h = canvas.height;
+
+      const pad = { l:60, r:20, t:20, b:55 };
+      const chart = { x0:pad.l, y0:pad.t, x1:w-pad.r, y1:h-pad.b };
+
+      clearCanvas(ctx, w, h);
+
+      const maxV = Math.max(...values) * 1.15;
+      const minV = 0;
+
+      drawAxes(ctx, chart);
+      drawYTicks(ctx, chart, minV, maxV, 4);
+
+      const n = values.length;
+      const gap = 14;
+      const chartW = chart.x1 - chart.x0;
+      const barW = (chartW - gap*(n-1)) / n;
+
+      ctx.fillStyle = "#0f172a";
+
+      // Bars
+      for (let i=0; i<n; i++){
+        const v = values[i];
+        const x = chart.x0 + i*(barW + gap);
+        const barH = (v - minV) / (maxV - minV) * (chart.y1 - chart.y0);
+        const y = chart.y1 - barH;
+
+        // bar fill
+        ctx.fillStyle = "#0f172a";
+        ctx.globalAlpha = 0.9;
+        ctx.fillRect(x, y, barW, barH);
+        ctx.globalAlpha = 1;
+
+        // value label
+        ctx.fillStyle = "#0f172a";
+        ctx.font = "12px system-ui";
+        ctx.fillText("$" + Math.round(v), x + 6, y - 8);
+
+        // x labels (wrapped)
+        ctx.fillStyle = "#475569";
+        ctx.font = "12px system-ui";
+        const lbl = labels[i];
+        const parts = lbl.replace(" (", "\n(").split("\n");
+        const baseY = chart.y1 + 18;
+        parts.forEach((p, idx) => {
+          ctx.fillText(p, x, baseY + idx*14);
+        });
+      }
+    }
+
+    function drawLineChart(canvas, labels, values){
+      const ctx = canvas.getContext("2d");
+      const w = canvas.width, h = canvas.height;
+
+      const pad = { l:60, r:20, t:20, b:55 };
+      const chart = { x0:pad.l, y0:pad.t, x1:w-pad.r, y1:h-pad.b };
+
+      clearCanvas(ctx, w, h);
+
+      const maxV = Math.max(...values) * 1.15;
+      const minV = Math.min(...values) * 0.90;
+
+      drawAxes(ctx, chart);
+      drawYTicks(ctx, chart, minV, maxV, 4);
+
+      const n = values.length;
+      const chartW = chart.x1 - chart.x0;
+      const chartH = chart.y1 - chart.y0;
+
+      // Path
+      ctx.strokeStyle = "#0f172a";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      for (let i=0; i<n; i++){
+        const t = i/(n-1);
+        const x = chart.x0 + t*chartW;
+        const v = values[i];
+        const y = chart.y1 - ((v - minV) / (maxV - minV)) * chartH;
+
+        if (i === 0) ctx.moveTo(x,y);
+        else ctx.lineTo(x,y);
+      }
+      ctx.stroke();
+
+      // X labels
+      ctx.fillStyle = "#475569";
+      ctx.font = "12px system-ui";
+      for (let i=0; i<n; i++){
+        if (i % 2 !== 0) continue; // label every other month to reduce clutter
+        const t = i/(n-1);
+        const x = chart.x0 + t*chartW;
+        ctx.fillText(labels[i], x - 10, chart.y1 + 22);
+      }
+
+      // Point markers (subtle)
+      ctx.fillStyle = "#0f172a";
+      for (let i=0; i<n; i++){
+        const t = i/(n-1);
+        const x = chart.x0 + t*chartW;
+        const v = values[i];
+        const y = chart.y1 - ((v - minV) / (maxV - minV)) * chartH;
+        ctx.globalAlpha = 0.35;
+        ctx.beginPath();
+        ctx.arc(x,y,3,0,Math.PI*2);
+        ctx.fill();
+        ctx.globalAlpha = 1;
+      }
+    }
+
+    // ------- Dashboard logic -------
+    const state = {
+      county: counties[0],
+      provider: providerTypes[0],
+      percentile: percentiles[0],
+      age: ageGroups[0]
+    };
+
+    function computePrice(age, provider, percentile){
+      const base = baseByAge[age] ?? 0;
+      const providerMult = provider === "Center-based" ? 1.15 : 0.95;
+      const percMult = percentile === "75th percentile" ? 1.25 : 1.0;
+      return Math.round(base * providerMult * percMult);
+    }
+
+    function computeSeries(price){
+      // Fake monthly wobble around chosen price
+      return months.map((m, i) => {
+        const wobble = Math.round((Math.sin(i / 2) + 1) * 6); // 0..12
+        return price + wobble - 6;
+      });
+    }
+
+    function update(){
+      const price = computePrice(state.age, state.provider, state.percentile);
+      const mhi = mhiByCounty[state.county] ?? 65000;
+
+      // KPIs
+      $("kpiWeekly").textContent = formatCurrency(price);
+      $("kpiWeeklyHint").textContent = `${state.provider} • ${state.percentile} • ${state.age}`;
+      $("kpiMonthly").textContent = formatCurrency(Math.round(price * 4.33));
+      $("kpiMhi").textContent = formatCurrency(mhi);
+
+      const weeklyIncome = mhi / 52;
+      const share = weeklyIncome > 0 ? (price / weeklyIncome) : 0;
+      $("kpiShare").textContent = `${Math.round(share * 100)}%`;
+
+      // Map area
+      $("pillCounty").textContent = state.county;
+      $("mapCounty").textContent = state.county;
+
+      // Interpretation
+      $("interp1").textContent =
+        `You selected ${state.county}. The weekly, full-time cost for ${state.age} is about ${formatCurrency(price)} for ${state.provider} care at the ${state.percentile}.`;
+
+      // Bar chart: all ages for current provider + percentile
+      const barLabels = ageGroups;
+      const barValues = ageGroups.map(ag => computePrice(ag, state.provider, state.percentile));
+      drawBarChart($("barChart"), barLabels, barValues);
+
+      // Line chart: monthly trend for selected age
+      const lineValues = computeSeries(price);
+      drawLineChart($("lineChart"), months, lineValues);
+    }
+
+    function onChange(){
+      state.county = $("county").value;
+      state.provider = $("provider").value;
+      state.percentile = $("percentile").value;
+      state.age = $("age").value;
+      update();
+    }
+
+    // Init
+    populateSelect($("county"), counties);
+    populateSelect($("provider"), providerTypes);
+    populateSelect($("percentile"), percentiles);
+    populateSelect($("age"), ageGroups);
+
+    $("county").addEventListener("change", onChange);
+    $("provider").addEventListener("change", onChange);
+    $("percentile").addEventListener("change", onChange);
+    $("age").addEventListener("change", onChange);
+
+    update();
+  </script>
+</body>
+</html>

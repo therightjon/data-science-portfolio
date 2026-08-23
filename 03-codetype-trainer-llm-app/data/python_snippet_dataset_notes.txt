@@ -1,0 +1,29 @@
+Python Code Snippet Dataset (Chat Fine-Tune Format)
+====================================================
+File: python_code_snippets_chat.jsonl
+
+Each line is a JSON object:
+{
+  "messages": [
+    {"role": "system", "content": "You are a helpful Python coding assistant. Return only valid Python code."},
+    {"role": "user", "content": "# Task: ...\n# Level: ...\n# Context: ...\n# Write Python code that solves the task."},
+    {"role": "assistant", "content": "<PYTHON CODE HERE>"}
+  ],
+  "metadata": {
+    "level": "basic|intermediate|advanced",
+    "title": "<short task title>",
+    "tags": ["topic1","topic2"],
+    "id": "<level-incrementing id>",
+    "created_utc": "<ISO8601>"
+  }
+}
+
+Counts by level in this file:
+- basic: 10
+- intermediate: 10
+- advanced: 10
+
+Suggested training tips:
+- Mix with your in-domain tasks for better generalization.
+- Consider adding tests or expected outputs in the context for execution-based evaluation.
+- If you need instruction-following behavior beyond code-only responses, relax the system message accordingly.

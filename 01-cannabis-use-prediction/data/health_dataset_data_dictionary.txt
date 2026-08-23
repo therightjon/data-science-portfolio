@@ -1,0 +1,56 @@
+**Data Dictionary for Modified CCHS Dataset**
+
+# **1. Data Dictionary**
+
+| Column Name                     | Description |
+|---------------------------------|-------------|
+| ADM_RNO1                        | Unique administrative record number |
+| Province                        | Province where the respondent resides (see encoding guide below) |
+| Health_region_grouped           | Grouped health region of residence |
+| Gender                          | Respondent's gender |
+| Marital_status                  | Current marital status |
+| Household                       | Type of household composition |
+| Age                             | Age of respondent (years) |
+| Worked_job_business             | Whether the respondent worked at a job or business in the past 12 months |
+| Edu_level                       | Highest level of education attained |
+| Gen_health_state                | General health self-assessment |
+| Life_satisfaction               | Self-rated life satisfaction |
+| Mental_health_state             | Self-rated mental health status |
+| Stress_level                    | Perceived stress level in daily life |
+| Work_stress                     | Stress experienced at work |
+| Sense_belonging                 | Sense of belonging to community |
+| Weight_state                    | Weight status based on BMI categories |
+| BMI_12_17                       | Body Mass Index for respondents aged 12-17 |
+| BMI_18_above                    | Body Mass Index for respondents aged 18 and above |
+| Sleep_apnea                     | Diagnosed with sleep apnea (yes/no) |
+| High_BP                         | Diagnosed with high blood pressure (yes/no) |
+| High_cholesterol                | Diagnosed with high cholesterol (yes/no) |
+| Diabetic                        | Diagnosed with diabetes (yes/no) |
+| Fatigue_syndrome                | Diagnosed with chronic fatigue syndrome (yes/no) |
+| Mood_disorder                   | Diagnosed with a mood disorder (yes/no) |
+| Anxiety_disorder                | Diagnosed with an anxiety disorder (yes/no) |
+| Respiratory_chronic_con         | Diagnosed with chronic respiratory condition (yes/no) |
+| Musculoskeletal_con             | Diagnosed with musculoskeletal condition (yes/no) |
+| Cardiovascular_con              | Diagnosed with cardiovascular condition (yes/no) |
+| Health_utility_index            | Health Utility Index score |
+| Pain_status                     | Frequency and severity of pain |
+| Act_improve_health              | Engaged in activities to improve health |
+| Fruit_veg_con                   | Daily consumption of fruits and vegetables |
+| Smoked                          | Smoking status |
+| Tobacco_use                     | Tobacco product consumption |
+| Weekly_alcohol                  | Frequency of alcohol consumption per week |
+| Cannabis_use                    | Cannabis use in the past 12 months |
+| Drug_use                        | Illicit drug use in the past 12 months |
+| Total_active_time               | Total time spent on physical activities |
+| Total_physical_act_time         | Total duration of physical activities per week |
+| Other_physical_act_time         | Time spent on other physical activities |
+| Physical_vigorous_act_time      | Time spent on vigorous physical activity |
+| Work_hours                      | Number of hours worked per week |
+| Working_status                  | Employment status (employed, unemployed, retired, etc.) |
+| Aboriginal_identity              | Whether the respondent identifies as Aboriginal |
+| Birth_country                   | Country of birth |
+| Immigrant                       | Immigration status |
+| Insurance_cover                 | Type of health insurance coverage |
+| Food_security                   | Household food security status |
+| Income_source                   | Primary source of income |
+| Total_income                    | Total annual income |
