@@ -49,7 +49,7 @@
       </div>
       <aside class="hero-note reveal" aria-label="Portfolio summary">
         <div class="note-number">10</div>
-        <p>Project spaces ready for case studies, code, methods, and results.</p>
+        <p>Projects spanning classification, forecasting, clustering, deep learning, and generative AI.</p>
         <div class="note-mark" aria-hidden="true"></div>
       </aside>
     </section>
@@ -70,21 +70,101 @@
         <div class="section-label">02 / Projects</div>
         <div>
           <h2 id="projects-title">Selected work</h2>
-          <p>Project details will be added as the portfolio develops.</p>
+          <p>Eight complete case studies and two in progress. Each links to the code, data, and written deliverables.</p>
         </div>
       </div>
 
       <div class="project-grid">
-        <article class="project-card reveal"><span class="project-number">01</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the problem, approach, and primary outcome.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">02</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the question explored and the insights produced.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">03</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the dataset, methods, and practical application.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">04</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the challenge, analysis, and key finding.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">05</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the model or technique and its measured result.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">06</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the research goal and the final recommendation.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">07</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the workflow, tools, and value delivered.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">08</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the domain, analytical process, and conclusion.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">09</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the experiment, evaluation, and lessons learned.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
-        <article class="project-card reveal"><span class="project-number">10</span><div><p class="project-type">Project placeholder</p><h3>Project Title</h3><p>Add a brief description of the project scope, contribution, and impact.</p></div><span class="project-arrow" aria-hidden="true">↗</span></article>
+        <article class="project-card reveal">
+          <span class="project-number">01</span>
+          <div>
+            <p class="project-type">Classification</p>
+            <h3><a href="01-cannabis-use-prediction/">Predicting Cannabis Use from Survey Data</a></h3>
+            <p>Logistic regression and decision trees over 108,252 national health survey records. Correcting class imbalance lifted recall on cannabis users from 17% to 64%, and psychosocial factors proved as predictive as demographics.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">02</span>
+          <div>
+            <p class="project-type">Data storytelling</p>
+            <h3><a href="02-childcare-cost-analysis/">Where Families Pay the Most for Childcare</a></h3>
+            <p>One county-level pricing story told three ways — interactive dashboard, infographic, and executive deck. Geography drives a $128 weekly spread between the 10th and 90th percentile counties.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">03</span>
+          <div>
+            <p class="project-type">Generative AI</p>
+            <h3><a href="03-codetype-trainer-llm-app/">CodeType Trainer</a></h3>
+            <p>A fine-tuned GPT-3.5 model that emits clean, executable Python, wrapped in a Streamlit typing trainer. Built the 150-example training set, ran the fine-tune, and shipped the app.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">04</span>
+          <div>
+            <p class="project-type">Time series</p>
+            <h3><a href="04-retail-sales-forecasting/">U.S. Retail Sales Forecasting</a></h3>
+            <p>Prophet forecasting 12 months ahead across 30 years of national sales. The held-out year covers the pandemic demand shock — an honest look at where forecasting breaks down.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">05</span>
+          <div>
+            <p class="project-type">Unsupervised learning</p>
+            <h3><a href="05-patient-subtype-clustering/">Patient Subtype Clustering in ALS</a></h3>
+            <p>K-Means over clinical progression measures, with k chosen by silhouette analysis and validated in PCA space. Subtypes emerge from routine measurements without an outcome label.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">06</span>
+          <div>
+            <p class="project-type">Deep learning</p>
+            <h3><a href="06-handwritten-digit-cnn/">Handwritten Digit Recognition</a></h3>
+            <p>A convolutional network built from scratch in Keras, reaching 97% test accuracy on MNIST — evaluated per digit class rather than on headline accuracy alone.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">07</span>
+          <div>
+            <p class="project-type">Recommender systems</p>
+            <h3><a href="07-movie-recommender/">Content-Based Movie Recommender</a></h3>
+            <p>TF-IDF over genre tags and cosine similarity across 87,000 MovieLens titles, with fuzzy title matching. No cold-start problem, because it never touches user ratings.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal">
+          <span class="project-number">08</span>
+          <div>
+            <p class="project-type">Analysis in R</p>
+            <h3><a href="08-vehicle-theft-trend-analysis/">Vehicle Theft Trend Analysis</a></h3>
+            <p>Separating a targeted Kia/Hyundai theft surge from background growth in auto theft, then costing a prevention recommendation. Six chart types, built in R and ggplot2.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal project-card--wip">
+          <span class="project-number">09</span>
+          <div>
+            <p class="project-type">In progress</p>
+            <h3><a href="09-maternal-health-access/">Maternal Health Access Across U.S. Counties</a></h3>
+            <p>Linking CDC WONDER natality records to HRSA health resource files to find where maternal risk and access gaps overlap. Currently at proposal stage.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project-card reveal project-card--wip">
+          <span class="project-number">10</span>
+          <div>
+            <p class="project-type">In progress</p>
+            <h3><a href="10-capstone-project-two/">Capstone Project II</a></h3>
+            <p>The second end-to-end capstone of the term, carried through modeling to a white paper and recorded presentation. Topic selection underway.</p>
+          </div>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
       </div>
     </section>
   </main>

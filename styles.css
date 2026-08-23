@@ -393,6 +393,34 @@ html.dark .project-card:hover { border-color: rgba(159, 156, 200, .3); }
   transition: color .3s ease;
 }
 
+.project-card h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+/* Stretch the title link over the whole card so the entire row is clickable,
+   while screen readers and keyboard users still get one real link. */
+.project-card h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+.project-card h3 a:focus-visible { outline: none; }
+.project-card h3 a:focus-visible::after {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+/* Projects still underway read as outlines rather than filled cards. */
+.project-card--wip {
+  background: transparent;
+  box-shadow: none;
+}
+.project-card--wip:hover {
+  background: var(--surface);
+  box-shadow: var(--card-shadow);
+}
+
 .project-card div > p:last-child {
   max-width: 44rem;
   margin: .5rem 0 0;
