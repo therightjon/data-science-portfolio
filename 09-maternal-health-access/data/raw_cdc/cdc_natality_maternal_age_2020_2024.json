@@ -1,0 +1,4384 @@
+[
+  {
+    "age_15_19": 569,
+    "age_35_plus": 1974,
+    "age_known": 12549,
+    "county": "Baldwin County, AL",
+    "fips": "01003"
+  },
+  {
+    "age_15_19": 431,
+    "age_35_plus": 679,
+    "age_known": 6439,
+    "county": "Calhoun County, AL",
+    "fips": "01015"
+  },
+  {
+    "age_15_19": 512,
+    "age_35_plus": 610,
+    "age_known": 5867,
+    "county": "Etowah County, AL",
+    "fips": "01055"
+  },
+  {
+    "age_15_19": 489,
+    "age_35_plus": 703,
+    "age_known": 6438,
+    "county": "Houston County, AL",
+    "fips": "01069"
+  },
+  {
+    "age_15_19": 1893,
+    "age_35_plus": 6776,
+    "age_known": 39472,
+    "county": "Jefferson County, AL",
+    "fips": "01073"
+  },
+  {
+    "age_15_19": 456,
+    "age_35_plus": 1445,
+    "age_known": 9683,
+    "county": "Lee County, AL",
+    "fips": "01081"
+  },
+  {
+    "age_15_19": 966,
+    "age_35_plus": 3738,
+    "age_known": 22369,
+    "county": "Madison County, AL",
+    "fips": "01089"
+  },
+  {
+    "age_15_19": 1636,
+    "age_35_plus": 3278,
+    "age_known": 25232,
+    "county": "Mobile County, AL",
+    "fips": "01097"
+  },
+  {
+    "age_15_19": 1067,
+    "age_35_plus": 2076,
+    "age_known": 14698,
+    "county": "Montgomery County, AL",
+    "fips": "01101"
+  },
+  {
+    "age_15_19": 485,
+    "age_35_plus": 820,
+    "age_known": 7305,
+    "county": "Morgan County, AL",
+    "fips": "01103"
+  },
+  {
+    "age_15_19": 333,
+    "age_35_plus": 2201,
+    "age_known": 11624,
+    "county": "Shelby County, AL",
+    "fips": "01117"
+  },
+  {
+    "age_15_19": 726,
+    "age_35_plus": 1613,
+    "age_known": 12602,
+    "county": "Tuscaloosa County, AL",
+    "fips": "01125"
+  },
+  {
+    "age_15_19": 8015,
+    "age_35_plus": 12050,
+    "age_known": 115269,
+    "county": "Unidentified Counties, AL",
+    "fips": "01999"
+  },
+  {
+    "age_15_19": 527,
+    "age_35_plus": 3644,
+    "age_known": 17989,
+    "county": "Anchorage Borough, AK",
+    "fips": "02020"
+  },
+  {
+    "age_15_19": 1245,
+    "age_35_plus": 4903,
+    "age_known": 28153,
+    "county": "Unidentified Counties, AK",
+    "fips": "02999"
+  },
+  {
+    "age_15_19": 410,
+    "age_35_plus": 827,
+    "age_known": 6160,
+    "county": "Cochise County, AZ",
+    "fips": "04003"
+  },
+  {
+    "age_15_19": 312,
+    "age_35_plus": 1228,
+    "age_known": 6461,
+    "county": "Coconino County, AZ",
+    "fips": "04005"
+  },
+  {
+    "age_15_19": 10442,
+    "age_35_plus": 46493,
+    "age_known": 251624,
+    "county": "Maricopa County, AZ",
+    "fips": "04013"
+  },
+  {
+    "age_15_19": 517,
+    "age_35_plus": 1160,
+    "age_known": 8725,
+    "county": "Mohave County, AZ",
+    "fips": "04015"
+  },
+  {
+    "age_15_19": 458,
+    "age_35_plus": 881,
+    "age_known": 6164,
+    "county": "Navajo County, AZ",
+    "fips": "04017"
+  },
+  {
+    "age_15_19": 2232,
+    "age_35_plus": 8581,
+    "age_known": 49599,
+    "county": "Pima County, AZ",
+    "fips": "04019"
+  },
+  {
+    "age_15_19": 1255,
+    "age_35_plus": 3491,
+    "age_known": 25627,
+    "county": "Pinal County, AZ",
+    "fips": "04021"
+  },
+  {
+    "age_15_19": 456,
+    "age_35_plus": 1349,
+    "age_known": 8750,
+    "county": "Yavapai County, AZ",
+    "fips": "04025"
+  },
+  {
+    "age_15_19": 879,
+    "age_35_plus": 1876,
+    "age_known": 14415,
+    "county": "Yuma County, AZ",
+    "fips": "04027"
+  },
+  {
+    "age_15_19": 935,
+    "age_35_plus": 1668,
+    "age_known": 12630,
+    "county": "Unidentified Counties, AZ",
+    "fips": "04999"
+  },
+  {
+    "age_15_19": 772,
+    "age_35_plus": 3052,
+    "age_known": 19196,
+    "county": "Benton County, AR",
+    "fips": "05007"
+  },
+  {
+    "age_15_19": 367,
+    "age_35_plus": 861,
+    "age_known": 7402,
+    "county": "Faulkner County, AR",
+    "fips": "05045"
+  },
+  {
+    "age_15_19": 1498,
+    "age_35_plus": 3803,
+    "age_known": 24470,
+    "county": "Pulaski County, AR",
+    "fips": "05119"
+  },
+  {
+    "age_15_19": 315,
+    "age_35_plus": 912,
+    "age_known": 6898,
+    "county": "Saline County, AR",
+    "fips": "05125"
+  },
+  {
+    "age_15_19": 540,
+    "age_35_plus": 916,
+    "age_known": 7867,
+    "county": "Sebastian County, AR",
+    "fips": "05131"
+  },
+  {
+    "age_15_19": 927,
+    "age_35_plus": 2413,
+    "age_known": 16271,
+    "county": "Washington County, AR",
+    "fips": "05143"
+  },
+  {
+    "age_15_19": 8015,
+    "age_35_plus": 9406,
+    "age_known": 95198,
+    "county": "Unidentified Counties, AR",
+    "fips": "05999"
+  },
+  {
+    "age_15_19": 1462,
+    "age_35_plus": 28791,
+    "age_known": 83081,
+    "county": "Alameda County, CA",
+    "fips": "06001"
+  },
+  {
+    "age_15_19": 372,
+    "age_35_plus": 1883,
+    "age_known": 10022,
+    "county": "Butte County, CA",
+    "fips": "06007"
+  },
+  {
+    "age_15_19": 1138,
+    "age_35_plus": 18774,
+    "age_known": 57308,
+    "county": "Contra Costa County, CA",
+    "fips": "06013"
+  },
+  {
+    "age_15_19": 120,
+    "age_35_plus": 2148,
+    "age_known": 7575,
+    "county": "El Dorado County, CA",
+    "fips": "06017"
+  },
+  {
+    "age_15_19": 3105,
+    "age_35_plus": 12458,
+    "age_known": 68078,
+    "county": "Fresno County, CA",
+    "fips": "06019"
+  },
+  {
+    "age_15_19": 186,
+    "age_35_plus": 1363,
+    "age_known": 5862,
+    "county": "Humboldt County, CA",
+    "fips": "06023"
+  },
+  {
+    "age_15_19": 552,
+    "age_35_plus": 1927,
+    "age_known": 11707,
+    "county": "Imperial County, CA",
+    "fips": "06025"
+  },
+  {
+    "age_15_19": 3357,
+    "age_35_plus": 9770,
+    "age_known": 61178,
+    "county": "Kern County, CA",
+    "fips": "06029"
+  },
+  {
+    "age_15_19": 520,
+    "age_35_plus": 1510,
+    "age_known": 10632,
+    "county": "Kings County, CA",
+    "fips": "06031"
+  },
+  {
+    "age_15_19": 12724,
+    "age_35_plus": 140882,
+    "age_known": 471399,
+    "county": "Los Angeles County, CA",
+    "fips": "06037"
+  },
+  {
+    "age_15_19": 548,
+    "age_35_plus": 1987,
+    "age_known": 10583,
+    "county": "Madera County, CA",
+    "fips": "06039"
+  },
+  {
+    "age_15_19": 164,
+    "age_35_plus": 4941,
+    "age_known": 10852,
+    "county": "Marin County, CA",
+    "fips": "06041"
+  },
+  {
+    "age_15_19": 1012,
+    "age_35_plus": 3126,
+    "age_known": 18844,
+    "county": "Merced County, CA",
+    "fips": "06047"
+  },
+  {
+    "age_15_19": 1379,
+    "age_35_plus": 5718,
+    "age_known": 27203,
+    "county": "Monterey County, CA",
+    "fips": "06053"
+  },
+  {
+    "age_15_19": 121,
+    "age_35_plus": 1767,
+    "age_known": 5916,
+    "county": "Napa County, CA",
+    "fips": "06055"
+  },
+  {
+    "age_15_19": 3130,
+    "age_35_plus": 46694,
+    "age_known": 153626,
+    "county": "Orange County, CA",
+    "fips": "06059"
+  },
+  {
+    "age_15_19": 247,
+    "age_35_plus": 5123,
+    "age_known": 18831,
+    "county": "Placer County, CA",
+    "fips": "06061"
+  },
+  {
+    "age_15_19": 4613,
+    "age_35_plus": 27985,
+    "age_known": 135663,
+    "county": "Riverside County, CA",
+    "fips": "06065"
+  },
+  {
+    "age_15_19": 2322,
+    "age_35_plus": 21463,
+    "age_known": 89452,
+    "county": "Sacramento County, CA",
+    "fips": "06067"
+  },
+  {
+    "age_15_19": 4845,
+    "age_35_plus": 25366,
+    "age_known": 129656,
+    "county": "San Bernardino County, CA",
+    "fips": "06071"
+  },
+  {
+    "age_15_19": 3915,
+    "age_35_plus": 49432,
+    "age_known": 183680,
+    "county": "San Diego County, CA",
+    "fips": "06073"
+  },
+  {
+    "age_15_19": 434,
+    "age_35_plus": 16730,
+    "age_known": 36342,
+    "county": "San Francisco County, CA",
+    "fips": "06075"
+  },
+  {
+    "age_15_19": 1866,
+    "age_35_plus": 9996,
+    "age_known": 48735,
+    "county": "San Joaquin County, CA",
+    "fips": "06077"
+  },
+  {
+    "age_15_19": 356,
+    "age_35_plus": 3083,
+    "age_known": 12021,
+    "county": "San Luis Obispo County, CA",
+    "fips": "06079"
+  },
+  {
+    "age_15_19": 582,
+    "age_35_plus": 14679,
+    "age_known": 37096,
+    "county": "San Mateo County, CA",
+    "fips": "06081"
+  },
+  {
+    "age_15_19": 1713,
+    "age_35_plus": 6050,
+    "age_known": 27317,
+    "county": "Santa Barbara County, CA",
+    "fips": "06083"
+  },
+  {
+    "age_15_19": 1547,
+    "age_35_plus": 31197,
+    "age_known": 94880,
+    "county": "Santa Clara County, CA",
+    "fips": "06085"
+  },
+  {
+    "age_15_19": 334,
+    "age_35_plus": 3490,
+    "age_known": 10955,
+    "county": "Santa Cruz County, CA",
+    "fips": "06087"
+  },
+  {
+    "age_15_19": 357,
+    "age_35_plus": 1639,
+    "age_known": 8991,
+    "county": "Shasta County, CA",
+    "fips": "06089"
+  },
+  {
+    "age_15_19": 646,
+    "age_35_plus": 5852,
+    "age_known": 24022,
+    "county": "Solano County, CA",
+    "fips": "06095"
+  },
+  {
+    "age_15_19": 530,
+    "age_35_plus": 6403,
+    "age_known": 22067,
+    "county": "Sonoma County, CA",
+    "fips": "06097"
+  },
+  {
+    "age_15_19": 1457,
+    "age_35_plus": 6257,
+    "age_known": 34943,
+    "county": "Stanislaus County, CA",
+    "fips": "06099"
+  },
+  {
+    "age_15_19": 1871,
+    "age_35_plus": 5421,
+    "age_known": 33332,
+    "county": "Tulare County, CA",
+    "fips": "06107"
+  },
+  {
+    "age_15_19": 1415,
+    "age_35_plus": 11220,
+    "age_known": 42338,
+    "county": "Ventura County, CA",
+    "fips": "06111"
+  },
+  {
+    "age_15_19": 240,
+    "age_35_plus": 2494,
+    "age_known": 9558,
+    "county": "Yolo County, CA",
+    "fips": "06113"
+  },
+  {
+    "age_15_19": 1912,
+    "age_35_plus": 9281,
+    "age_known": 48284,
+    "county": "Unidentified Counties, CA",
+    "fips": "06999"
+  },
+  {
+    "age_15_19": 1343,
+    "age_35_plus": 5932,
+    "age_known": 31363,
+    "county": "Adams County, CO",
+    "fips": "08001"
+  },
+  {
+    "age_15_19": 1169,
+    "age_35_plus": 8835,
+    "age_known": 37854,
+    "county": "Arapahoe County, CO",
+    "fips": "08005"
+  },
+  {
+    "age_15_19": 287,
+    "age_35_plus": 4230,
+    "age_known": 12169,
+    "county": "Boulder County, CO",
+    "fips": "08013"
+  },
+  {
+    "age_15_19": 1611,
+    "age_35_plus": 12511,
+    "age_known": 45189,
+    "county": "Denver County, CO",
+    "fips": "08031"
+  },
+  {
+    "age_15_19": 150,
+    "age_35_plus": 5385,
+    "age_known": 19034,
+    "county": "Douglas County, CO",
+    "fips": "08035"
+  },
+  {
+    "age_15_19": 1543,
+    "age_35_plus": 7598,
+    "age_known": 45527,
+    "county": "El Paso County, CO",
+    "fips": "08041"
+  },
+  {
+    "age_15_19": 468,
+    "age_35_plus": 8310,
+    "age_known": 27273,
+    "county": "Jefferson County, CO",
+    "fips": "08059"
+  },
+  {
+    "age_15_19": 361,
+    "age_35_plus": 3662,
+    "age_known": 15109,
+    "county": "Larimer County, CO",
+    "fips": "08069"
+  },
+  {
+    "age_15_19": 397,
+    "age_35_plus": 1148,
+    "age_known": 7399,
+    "county": "Mesa County, CO",
+    "fips": "08077"
+  },
+  {
+    "age_15_19": 486,
+    "age_35_plus": 1088,
+    "age_known": 8404,
+    "county": "Pueblo County, CO",
+    "fips": "08101"
+  },
+  {
+    "age_15_19": 952,
+    "age_35_plus": 3670,
+    "age_known": 23546,
+    "county": "Weld County, CO",
+    "fips": "08123"
+  },
+  {
+    "age_15_19": 1575,
+    "age_35_plus": 8448,
+    "age_known": 39624,
+    "county": "Unidentified Counties, CO",
+    "fips": "08999"
+  },
+  {
+    "age_15_19": 1042,
+    "age_35_plus": 16920,
+    "age_known": 50069,
+    "county": "Fairfield County, CT",
+    "fips": "09001"
+  },
+  {
+    "age_15_19": 1121,
+    "age_35_plus": 10930,
+    "age_known": 44192,
+    "county": "Hartford County, CT",
+    "fips": "09003"
+  },
+  {
+    "age_15_19": 98,
+    "age_35_plus": 1872,
+    "age_known": 7205,
+    "county": "Litchfield County, CT",
+    "fips": "09005"
+  },
+  {
+    "age_15_19": 61,
+    "age_35_plus": 1832,
+    "age_known": 6559,
+    "county": "Middlesex County, CT",
+    "fips": "09007"
+  },
+  {
+    "age_15_19": 1264,
+    "age_35_plus": 10714,
+    "age_known": 42222,
+    "county": "New Haven County, CT",
+    "fips": "09009"
+  },
+  {
+    "age_15_19": 288,
+    "age_35_plus": 2656,
+    "age_known": 12427,
+    "county": "New London County, CT",
+    "fips": "09011"
+  },
+  {
+    "age_15_19": 69,
+    "age_35_plus": 1403,
+    "age_known": 5753,
+    "county": "Tolland County, CT",
+    "fips": "09013"
+  },
+  {
+    "age_15_19": 149,
+    "age_35_plus": 947,
+    "age_known": 5159,
+    "county": "Windham County, CT",
+    "fips": "09015"
+  },
+  {
+    "age_15_19": 444,
+    "age_35_plus": 1794,
+    "age_known": 10534,
+    "county": "Kent County, DE",
+    "fips": "10001"
+  },
+  {
+    "age_15_19": 1034,
+    "age_35_plus": 6918,
+    "age_known": 30322,
+    "county": "New Castle County, DE",
+    "fips": "10003"
+  },
+  {
+    "age_15_19": 733,
+    "age_35_plus": 2129,
+    "age_known": 11779,
+    "county": "Sussex County, DE",
+    "fips": "10005"
+  },
+  {
+    "age_15_19": 1295,
+    "age_35_plus": 14333,
+    "age_known": 41121,
+    "county": "District of Columbia, DC",
+    "fips": "11001"
+  },
+  {
+    "age_15_19": 492,
+    "age_35_plus": 2727,
+    "age_known": 12903,
+    "county": "Alachua County, FL",
+    "fips": "12001"
+  },
+  {
+    "age_15_19": 575,
+    "age_35_plus": 1585,
+    "age_known": 10504,
+    "county": "Bay County, FL",
+    "fips": "12005"
+  },
+  {
+    "age_15_19": 936,
+    "age_35_plus": 4937,
+    "age_known": 25962,
+    "county": "Brevard County, FL",
+    "fips": "12009"
+  },
+  {
+    "age_15_19": 2296,
+    "age_35_plus": 28922,
+    "age_known": 101819,
+    "county": "Broward County, FL",
+    "fips": "12011"
+  },
+  {
+    "age_15_19": 200,
+    "age_35_plus": 946,
+    "age_known": 5431,
+    "county": "Charlotte County, FL",
+    "fips": "12015"
+  },
+  {
+    "age_15_19": 279,
+    "age_35_plus": 729,
+    "age_known": 5190,
+    "county": "Citrus County, FL",
+    "fips": "12017"
+  },
+  {
+    "age_15_19": 441,
+    "age_35_plus": 2016,
+    "age_known": 11195,
+    "county": "Clay County, FL",
+    "fips": "12019"
+  },
+  {
+    "age_15_19": 789,
+    "age_35_plus": 3917,
+    "age_known": 16807,
+    "county": "Collier County, FL",
+    "fips": "12021"
+  },
+  {
+    "age_15_19": 2829,
+    "age_35_plus": 11558,
+    "age_known": 63263,
+    "county": "Duval County, FL",
+    "fips": "12031"
+  },
+  {
+    "age_15_19": 1132,
+    "age_35_plus": 2688,
+    "age_known": 18506,
+    "county": "Escambia County, FL",
+    "fips": "12033"
+  },
+  {
+    "age_15_19": 400,
+    "age_35_plus": 1340,
+    "age_known": 8442,
+    "county": "Hernando County, FL",
+    "fips": "12053"
+  },
+  {
+    "age_15_19": 3321,
+    "age_35_plus": 17689,
+    "age_known": 84985,
+    "county": "Hillsborough County, FL",
+    "fips": "12057"
+  },
+  {
+    "age_15_19": 246,
+    "age_35_plus": 1197,
+    "age_known": 6141,
+    "county": "Indian River County, FL",
+    "fips": "12061"
+  },
+  {
+    "age_15_19": 746,
+    "age_35_plus": 3251,
+    "age_known": 18299,
+    "county": "Lake County, FL",
+    "fips": "12069"
+  },
+  {
+    "age_15_19": 1633,
+    "age_35_plus": 7030,
+    "age_known": 37397,
+    "county": "Lee County, FL",
+    "fips": "12071"
+  },
+  {
+    "age_15_19": 583,
+    "age_35_plus": 2624,
+    "age_known": 13908,
+    "county": "Leon County, FL",
+    "fips": "12073"
+  },
+  {
+    "age_15_19": 977,
+    "age_35_plus": 3718,
+    "age_known": 18975,
+    "county": "Manatee County, FL",
+    "fips": "12081"
+  },
+  {
+    "age_15_19": 1014,
+    "age_35_plus": 2593,
+    "age_known": 18119,
+    "county": "Marion County, FL",
+    "fips": "12083"
+  },
+  {
+    "age_15_19": 255,
+    "age_35_plus": 1515,
+    "age_known": 6401,
+    "county": "Martin County, FL",
+    "fips": "12085"
+  },
+  {
+    "age_15_19": 3584,
+    "age_35_plus": 38543,
+    "age_known": 143225,
+    "county": "Miami-Dade County, FL",
+    "fips": "12086"
+  },
+  {
+    "age_15_19": 460,
+    "age_35_plus": 2028,
+    "age_known": 13001,
+    "county": "Okaloosa County, FL",
+    "fips": "12091"
+  },
+  {
+    "age_15_19": 2673,
+    "age_35_plus": 19043,
+    "age_known": 81196,
+    "county": "Orange County, FL",
+    "fips": "12095"
+  },
+  {
+    "age_15_19": 842,
+    "age_35_plus": 4793,
+    "age_known": 24245,
+    "county": "Osceola County, FL",
+    "fips": "12097"
+  },
+  {
+    "age_15_19": 2523,
+    "age_35_plus": 19574,
+    "age_known": 74135,
+    "county": "Palm Beach County, FL",
+    "fips": "12099"
+  },
+  {
+    "age_15_19": 994,
+    "age_35_plus": 5631,
+    "age_known": 28050,
+    "county": "Pasco County, FL",
+    "fips": "12101"
+  },
+  {
+    "age_15_19": 1248,
+    "age_35_plus": 8419,
+    "age_known": 36331,
+    "county": "Pinellas County, FL",
+    "fips": "12103"
+  },
+  {
+    "age_15_19": 2179,
+    "age_35_plus": 6934,
+    "age_known": 44257,
+    "county": "Polk County, FL",
+    "fips": "12105"
+  },
+  {
+    "age_15_19": 198,
+    "age_35_plus": 3442,
+    "age_known": 12197,
+    "county": "St. Johns County, FL",
+    "fips": "12109"
+  },
+  {
+    "age_15_19": 682,
+    "age_35_plus": 3661,
+    "age_known": 17737,
+    "county": "St. Lucie County, FL",
+    "fips": "12111"
+  },
+  {
+    "age_15_19": 381,
+    "age_35_plus": 1553,
+    "age_known": 9890,
+    "county": "Santa Rosa County, FL",
+    "fips": "12113"
+  },
+  {
+    "age_15_19": 428,
+    "age_35_plus": 3345,
+    "age_known": 14705,
+    "county": "Sarasota County, FL",
+    "fips": "12115"
+  },
+  {
+    "age_15_19": 543,
+    "age_35_plus": 5194,
+    "age_known": 22394,
+    "county": "Seminole County, FL",
+    "fips": "12117"
+  },
+  {
+    "age_15_19": 1089,
+    "age_35_plus": 4381,
+    "age_known": 24755,
+    "county": "Volusia County, FL",
+    "fips": "12127"
+  },
+  {
+    "age_15_19": 4114,
+    "age_35_plus": 9650,
+    "age_known": 65617,
+    "county": "Unidentified Counties, FL",
+    "fips": "12999"
+  },
+  {
+    "age_15_19": 330,
+    "age_35_plus": 800,
+    "age_known": 6826,
+    "county": "Bartow County, GA",
+    "fips": "13015"
+  },
+  {
+    "age_15_19": 801,
+    "age_35_plus": 1270,
+    "age_known": 10194,
+    "county": "Bibb County, GA",
+    "fips": "13021"
+  },
+  {
+    "age_15_19": 497,
+    "age_35_plus": 971,
+    "age_known": 7962,
+    "county": "Carroll County, GA",
+    "fips": "13045"
+  },
+  {
+    "age_15_19": 848,
+    "age_35_plus": 3152,
+    "age_known": 18065,
+    "county": "Chatham County, GA",
+    "fips": "13051"
+  },
+  {
+    "age_15_19": 395,
+    "age_35_plus": 3049,
+    "age_known": 14460,
+    "county": "Cherokee County, GA",
+    "fips": "13057"
+  },
+  {
+    "age_15_19": 307,
+    "age_35_plus": 1196,
+    "age_known": 6625,
+    "county": "Clarke County, GA",
+    "fips": "13059"
+  },
+  {
+    "age_15_19": 998,
+    "age_35_plus": 2752,
+    "age_known": 16949,
+    "county": "Clayton County, GA",
+    "fips": "13063"
+  },
+  {
+    "age_15_19": 1277,
+    "age_35_plus": 10732,
+    "age_known": 43963,
+    "county": "Cobb County, GA",
+    "fips": "13067"
+  },
+  {
+    "age_15_19": 205,
+    "age_35_plus": 1735,
+    "age_known": 8420,
+    "county": "Columbia County, GA",
+    "fips": "13073"
+  },
+  {
+    "age_15_19": 300,
+    "age_35_plus": 1359,
+    "age_known": 8251,
+    "county": "Coweta County, GA",
+    "fips": "13077"
+  },
+  {
+    "age_15_19": 2091,
+    "age_35_plus": 11930,
+    "age_known": 49067,
+    "county": "DeKalb County, GA",
+    "fips": "13089"
+  },
+  {
+    "age_15_19": 369,
+    "age_35_plus": 1617,
+    "age_known": 8416,
+    "county": "Douglas County, GA",
+    "fips": "13097"
+  },
+  {
+    "age_15_19": 116,
+    "age_35_plus": 1254,
+    "age_known": 4530,
+    "county": "Fayette County, GA",
+    "fips": "13113"
+  },
+  {
+    "age_15_19": 166,
+    "age_35_plus": 3204,
+    "age_known": 11547,
+    "county": "Forsyth County, GA",
+    "fips": "13117"
+  },
+  {
+    "age_15_19": 2107,
+    "age_35_plus": 16275,
+    "age_known": 61282,
+    "county": "Fulton County, GA",
+    "fips": "13121"
+  },
+  {
+    "age_15_19": 2011,
+    "age_35_plus": 12982,
+    "age_known": 54944,
+    "county": "Gwinnett County, GA",
+    "fips": "13135"
+  },
+  {
+    "age_15_19": 812,
+    "age_35_plus": 2048,
+    "age_known": 13716,
+    "county": "Hall County, GA",
+    "fips": "13139"
+  },
+  {
+    "age_15_19": 549,
+    "age_35_plus": 2804,
+    "age_known": 13988,
+    "county": "Henry County, GA",
+    "fips": "13151"
+  },
+  {
+    "age_15_19": 516,
+    "age_35_plus": 1465,
+    "age_known": 9837,
+    "county": "Houston County, GA",
+    "fips": "13153"
+  },
+  {
+    "age_15_19": 541,
+    "age_35_plus": 918,
+    "age_known": 7893,
+    "county": "Lowndes County, GA",
+    "fips": "13185"
+  },
+  {
+    "age_15_19": 824,
+    "age_35_plus": 1664,
+    "age_known": 13261,
+    "county": "Muscogee County, GA",
+    "fips": "13215"
+  },
+  {
+    "age_15_19": 263,
+    "age_35_plus": 1664,
+    "age_known": 9179,
+    "county": "Paulding County, GA",
+    "fips": "13223"
+  },
+  {
+    "age_15_19": 887,
+    "age_35_plus": 1918,
+    "age_known": 13909,
+    "county": "Richmond County, GA",
+    "fips": "13245"
+  },
+  {
+    "age_15_19": 455,
+    "age_35_plus": 795,
+    "age_known": 6300,
+    "county": "Whitfield County, GA",
+    "fips": "13313"
+  },
+  {
+    "age_15_19": 13535,
+    "age_35_plus": 24838,
+    "age_known": 204511,
+    "county": "Unidentified Counties, GA",
+    "fips": "13999"
+  },
+  {
+    "age_15_19": 433,
+    "age_35_plus": 2458,
+    "age_known": 10275,
+    "county": "Hawaii County, HI",
+    "fips": "15001"
+  },
+  {
+    "age_15_19": 1374,
+    "age_35_plus": 13454,
+    "age_known": 54371,
+    "county": "Honolulu County, HI",
+    "fips": "15003"
+  },
+  {
+    "age_15_19": 285,
+    "age_35_plus": 2048,
+    "age_known": 8213,
+    "county": "Maui County, HI",
+    "fips": "15009"
+  },
+  {
+    "age_15_19": 112,
+    "age_35_plus": 926,
+    "age_known": 3778,
+    "county": "Unidentified Counties, HI",
+    "fips": "15999"
+  },
+  {
+    "age_15_19": 534,
+    "age_35_plus": 5400,
+    "age_known": 25354,
+    "county": "Ada County, ID",
+    "fips": "16001"
+  },
+  {
+    "age_15_19": 376,
+    "age_35_plus": 1174,
+    "age_known": 8981,
+    "county": "Bonneville County, ID",
+    "fips": "16019"
+  },
+  {
+    "age_15_19": 764,
+    "age_35_plus": 2340,
+    "age_known": 16838,
+    "county": "Canyon County, ID",
+    "fips": "16027"
+  },
+  {
+    "age_15_19": 250,
+    "age_35_plus": 1687,
+    "age_known": 9693,
+    "county": "Kootenai County, ID",
+    "fips": "16055"
+  },
+  {
+    "age_15_19": 2146,
+    "age_35_plus": 6839,
+    "age_known": 51132,
+    "county": "Unidentified Counties, ID",
+    "fips": "16999"
+  },
+  {
+    "age_15_19": 525,
+    "age_35_plus": 1853,
+    "age_known": 9992,
+    "county": "Champaign County, IL",
+    "fips": "17019"
+  },
+  {
+    "age_15_19": 8360,
+    "age_35_plus": 71068,
+    "age_known": 264144,
+    "county": "Cook County, IL",
+    "fips": "17031"
+  },
+  {
+    "age_15_19": 155,
+    "age_35_plus": 855,
+    "age_known": 5096,
+    "county": "DeKalb County, IL",
+    "fips": "17037"
+  },
+  {
+    "age_15_19": 664,
+    "age_35_plus": 14094,
+    "age_known": 47920,
+    "county": "DuPage County, IL",
+    "fips": "17043"
+  },
+  {
+    "age_15_19": 1002,
+    "age_35_plus": 6174,
+    "age_known": 27717,
+    "county": "Kane County, IL",
+    "fips": "17089"
+  },
+  {
+    "age_15_19": 270,
+    "age_35_plus": 771,
+    "age_known": 5624,
+    "county": "Kankakee County, IL",
+    "fips": "17091"
+  },
+  {
+    "age_15_19": 126,
+    "age_35_plus": 1739,
+    "age_known": 7449,
+    "county": "Kendall County, IL",
+    "fips": "17093"
+  },
+  {
+    "age_15_19": 954,
+    "age_35_plus": 9000,
+    "age_known": 33121,
+    "county": "Lake County, IL",
+    "fips": "17097"
+  },
+  {
+    "age_15_19": 254,
+    "age_35_plus": 834,
+    "age_known": 5438,
+    "county": "LaSalle County, IL",
+    "fips": "17099"
+  },
+  {
+    "age_15_19": 280,
+    "age_35_plus": 3491,
+    "age_known": 15269,
+    "county": "McHenry County, IL",
+    "fips": "17111"
+  },
+  {
+    "age_15_19": 265,
+    "age_35_plus": 1428,
+    "age_known": 8184,
+    "county": "McLean County, IL",
+    "fips": "17113"
+  },
+  {
+    "age_15_19": 375,
+    "age_35_plus": 748,
+    "age_known": 5686,
+    "county": "Macon County, IL",
+    "fips": "17115"
+  },
+  {
+    "age_15_19": 560,
+    "age_35_plus": 2018,
+    "age_known": 13123,
+    "county": "Madison County, IL",
+    "fips": "17119"
+  },
+  {
+    "age_15_19": 691,
+    "age_35_plus": 1556,
+    "age_known": 10515,
+    "county": "Peoria County, IL",
+    "fips": "17143"
+  },
+  {
+    "age_15_19": 426,
+    "age_35_plus": 1142,
+    "age_known": 7655,
+    "county": "Rock Island County, IL",
+    "fips": "17161"
+  },
+  {
+    "age_15_19": 591,
+    "age_35_plus": 2158,
+    "age_known": 13035,
+    "county": "St. Clair County, IL",
+    "fips": "17163"
+  },
+  {
+    "age_15_19": 508,
+    "age_35_plus": 1723,
+    "age_known": 10100,
+    "county": "Sangamon County, IL",
+    "fips": "17167"
+  },
+  {
+    "age_15_19": 293,
+    "age_35_plus": 857,
+    "age_known": 6292,
+    "county": "Tazewell County, IL",
+    "fips": "17179"
+  },
+  {
+    "age_15_19": 821,
+    "age_35_plus": 7839,
+    "age_known": 34368,
+    "county": "Will County, IL",
+    "fips": "17197"
+  },
+  {
+    "age_15_19": 867,
+    "age_35_plus": 2326,
+    "age_known": 16110,
+    "county": "Winnebago County, IL",
+    "fips": "17201"
+  },
+  {
+    "age_15_19": 4946,
+    "age_35_plus": 12130,
+    "age_known": 97399,
+    "county": "Unidentified Counties, IL",
+    "fips": "17999"
+  },
+  {
+    "age_15_19": 1212,
+    "age_35_plus": 3719,
+    "age_known": 25991,
+    "county": "Allen County, IN",
+    "fips": "18003"
+  },
+  {
+    "age_15_19": 273,
+    "age_35_plus": 970,
+    "age_known": 7241,
+    "county": "Clark County, IN",
+    "fips": "18019"
+  },
+  {
+    "age_15_19": 315,
+    "age_35_plus": 587,
+    "age_known": 5359,
+    "county": "Delaware County, IN",
+    "fips": "18035"
+  },
+  {
+    "age_15_19": 811,
+    "age_35_plus": 1791,
+    "age_known": 14446,
+    "county": "Elkhart County, IN",
+    "fips": "18039"
+  },
+  {
+    "age_15_19": 222,
+    "age_35_plus": 4796,
+    "age_known": 19441,
+    "county": "Hamilton County, IN",
+    "fips": "18057"
+  },
+  {
+    "age_15_19": 186,
+    "age_35_plus": 1741,
+    "age_known": 9220,
+    "county": "Hendricks County, IN",
+    "fips": "18063"
+  },
+  {
+    "age_15_19": 320,
+    "age_35_plus": 1417,
+    "age_known": 9501,
+    "county": "Johnson County, IN",
+    "fips": "18081"
+  },
+  {
+    "age_15_19": 1157,
+    "age_35_plus": 4594,
+    "age_known": 26172,
+    "county": "Lake County, IN",
+    "fips": "18089"
+  },
+  {
+    "age_15_19": 293,
+    "age_35_plus": 735,
+    "age_known": 5544,
+    "county": "La Porte County, IN",
+    "fips": "18091"
+  },
+  {
+    "age_15_19": 423,
+    "age_35_plus": 751,
+    "age_known": 7149,
+    "county": "Madison County, IN",
+    "fips": "18095"
+  },
+  {
+    "age_15_19": 3779,
+    "age_35_plus": 11993,
+    "age_known": 70850,
+    "county": "Marion County, IN",
+    "fips": "18097"
+  },
+  {
+    "age_15_19": 183,
+    "age_35_plus": 988,
+    "age_known": 5242,
+    "county": "Monroe County, IN",
+    "fips": "18105"
+  },
+  {
+    "age_15_19": 198,
+    "age_35_plus": 1464,
+    "age_known": 7933,
+    "county": "Porter County, IN",
+    "fips": "18127"
+  },
+  {
+    "age_15_19": 844,
+    "age_35_plus": 2486,
+    "age_known": 15944,
+    "county": "St. Joseph County, IN",
+    "fips": "18141"
+  },
+  {
+    "age_15_19": 425,
+    "age_35_plus": 1510,
+    "age_known": 9689,
+    "county": "Tippecanoe County, IN",
+    "fips": "18157"
+  },
+  {
+    "age_15_19": 588,
+    "age_35_plus": 1370,
+    "age_known": 10666,
+    "county": "Vanderburgh County, IN",
+    "fips": "18163"
+  },
+  {
+    "age_15_19": 400,
+    "age_35_plus": 535,
+    "age_known": 5538,
+    "county": "Vigo County, IN",
+    "fips": "18167"
+  },
+  {
+    "age_15_19": 7155,
+    "age_35_plus": 16644,
+    "age_known": 141426,
+    "county": "Unidentified Counties, IN",
+    "fips": "18999"
+  },
+  {
+    "age_15_19": 329,
+    "age_35_plus": 1145,
+    "age_known": 7907,
+    "county": "Black Hawk County, IA",
+    "fips": "19013"
+  },
+  {
+    "age_15_19": 158,
+    "age_35_plus": 1906,
+    "age_known": 8269,
+    "county": "Johnson County, IA",
+    "fips": "19103"
+  },
+  {
+    "age_15_19": 404,
+    "age_35_plus": 2150,
+    "age_known": 12835,
+    "county": "Linn County, IA",
+    "fips": "19113"
+  },
+  {
+    "age_15_19": 1192,
+    "age_35_plus": 5599,
+    "age_known": 32065,
+    "county": "Polk County, IA",
+    "fips": "19153"
+  },
+  {
+    "age_15_19": 448,
+    "age_35_plus": 1542,
+    "age_known": 9533,
+    "county": "Scott County, IA",
+    "fips": "19163"
+  },
+  {
+    "age_15_19": 382,
+    "age_35_plus": 986,
+    "age_known": 7058,
+    "county": "Woodbury County, IA",
+    "fips": "19193"
+  },
+  {
+    "age_15_19": 3827,
+    "age_35_plus": 14359,
+    "age_known": 104243,
+    "county": "Unidentified Counties, IA",
+    "fips": "19999"
+  },
+  {
+    "age_15_19": 163,
+    "age_35_plus": 964,
+    "age_known": 4977,
+    "county": "Douglas County, KS",
+    "fips": "20045"
+  },
+  {
+    "age_15_19": 584,
+    "age_35_plus": 8221,
+    "age_known": 34409,
+    "county": "Johnson County, KS",
+    "fips": "20091"
+  },
+  {
+    "age_15_19": 1766,
+    "age_35_plus": 4701,
+    "age_known": 32709,
+    "county": "Sedgwick County, KS",
+    "fips": "20173"
+  },
+  {
+    "age_15_19": 639,
+    "age_35_plus": 1346,
+    "age_known": 9649,
+    "county": "Shawnee County, KS",
+    "fips": "20177"
+  },
+  {
+    "age_15_19": 934,
+    "age_35_plus": 1673,
+    "age_known": 11832,
+    "county": "Wyandotte County, KS",
+    "fips": "20209"
+  },
+  {
+    "age_15_19": 3943,
+    "age_35_plus": 9896,
+    "age_known": 77925,
+    "county": "Unidentified Counties, KS",
+    "fips": "20999"
+  },
+  {
+    "age_15_19": 306,
+    "age_35_plus": 1489,
+    "age_known": 8502,
+    "county": "Boone County, KY",
+    "fips": "21015"
+  },
+  {
+    "age_15_19": 848,
+    "age_35_plus": 3589,
+    "age_known": 18483,
+    "county": "Fayette County, KY",
+    "fips": "21067"
+  },
+  {
+    "age_15_19": 373,
+    "age_35_plus": 877,
+    "age_known": 6692,
+    "county": "Hardin County, KY",
+    "fips": "21093"
+  },
+  {
+    "age_15_19": 2134,
+    "age_35_plus": 8510,
+    "age_known": 47952,
+    "county": "Jefferson County, KY",
+    "fips": "21111"
+  },
+  {
+    "age_15_19": 535,
+    "age_35_plus": 1744,
+    "age_known": 10884,
+    "county": "Kenton County, KY",
+    "fips": "21117"
+  },
+  {
+    "age_15_19": 469,
+    "age_35_plus": 1235,
+    "age_known": 9061,
+    "county": "Warren County, KY",
+    "fips": "21227"
+  },
+  {
+    "age_15_19": 10817,
+    "age_35_plus": 17348,
+    "age_known": 159479,
+    "county": "Unidentified Counties, KY",
+    "fips": "21999"
+  },
+  {
+    "age_15_19": 332,
+    "age_35_plus": 1374,
+    "age_known": 8230,
+    "county": "Ascension Parish, LA",
+    "fips": "22005"
+  },
+  {
+    "age_15_19": 442,
+    "age_35_plus": 1112,
+    "age_known": 7980,
+    "county": "Bossier Parish, LA",
+    "fips": "22015"
+  },
+  {
+    "age_15_19": 1065,
+    "age_35_plus": 1840,
+    "age_known": 13880,
+    "county": "Caddo Parish, LA",
+    "fips": "22017"
+  },
+  {
+    "age_15_19": 818,
+    "age_35_plus": 1585,
+    "age_known": 12800,
+    "county": "Calcasieu Parish, LA",
+    "fips": "22019"
+  },
+  {
+    "age_15_19": 1737,
+    "age_35_plus": 4433,
+    "age_known": 27384,
+    "county": "East Baton Rouge Parish, LA",
+    "fips": "22033"
+  },
+  {
+    "age_15_19": 1303,
+    "age_35_plus": 4949,
+    "age_known": 26126,
+    "county": "Jefferson Parish, LA",
+    "fips": "22051"
+  },
+  {
+    "age_15_19": 922,
+    "age_35_plus": 2511,
+    "age_known": 16683,
+    "county": "Lafayette Parish, LA",
+    "fips": "22055"
+  },
+  {
+    "age_15_19": 456,
+    "age_35_plus": 1133,
+    "age_known": 9375,
+    "county": "Livingston Parish, LA",
+    "fips": "22063"
+  },
+  {
+    "age_15_19": 1102,
+    "age_35_plus": 5049,
+    "age_known": 20175,
+    "county": "Orleans Parish, LA",
+    "fips": "22071"
+  },
+  {
+    "age_15_19": 750,
+    "age_35_plus": 1115,
+    "age_known": 9817,
+    "county": "Ouachita Parish, LA",
+    "fips": "22073"
+  },
+  {
+    "age_15_19": 585,
+    "age_35_plus": 895,
+    "age_known": 7996,
+    "county": "Rapides Parish, LA",
+    "fips": "22079"
+  },
+  {
+    "age_15_19": 526,
+    "age_35_plus": 2885,
+    "age_known": 14407,
+    "county": "St. Tammany Parish, LA",
+    "fips": "22103"
+  },
+  {
+    "age_15_19": 551,
+    "age_35_plus": 1174,
+    "age_known": 9597,
+    "county": "Tangipahoa Parish, LA",
+    "fips": "22105"
+  },
+  {
+    "age_15_19": 483,
+    "age_35_plus": 755,
+    "age_known": 6497,
+    "county": "Terrebonne Parish, LA",
+    "fips": "22109"
+  },
+  {
+    "age_15_19": 6411,
+    "age_35_plus": 9694,
+    "age_known": 88447,
+    "county": "Unidentified Counties, LA",
+    "fips": "22999"
+  },
+  {
+    "age_15_19": 201,
+    "age_35_plus": 969,
+    "age_known": 5647,
+    "county": "Androscoggin County, ME",
+    "fips": "23001"
+  },
+  {
+    "age_15_19": 146,
+    "age_35_plus": 4302,
+    "age_known": 13989,
+    "county": "Cumberland County, ME",
+    "fips": "23005"
+  },
+  {
+    "age_15_19": 178,
+    "age_35_plus": 835,
+    "age_known": 5290,
+    "county": "Kennebec County, ME",
+    "fips": "23011"
+  },
+  {
+    "age_15_19": 214,
+    "age_35_plus": 1029,
+    "age_known": 6355,
+    "county": "Penobscot County, ME",
+    "fips": "23019"
+  },
+  {
+    "age_15_19": 170,
+    "age_35_plus": 1947,
+    "age_known": 9129,
+    "county": "York County, ME",
+    "fips": "23031"
+  },
+  {
+    "age_15_19": 697,
+    "age_35_plus": 3151,
+    "age_known": 18404,
+    "county": "Unidentified Counties, ME",
+    "fips": "23999"
+  },
+  {
+    "age_15_19": 738,
+    "age_35_plus": 8755,
+    "age_known": 33966,
+    "county": "Anne Arundel County, MD",
+    "fips": "24003"
+  },
+  {
+    "age_15_19": 1493,
+    "age_35_plus": 10939,
+    "age_known": 46052,
+    "county": "Baltimore County, MD",
+    "fips": "24005"
+  },
+  {
+    "age_15_19": 127,
+    "age_35_plus": 1990,
+    "age_known": 8547,
+    "county": "Carroll County, MD",
+    "fips": "24013"
+  },
+  {
+    "age_15_19": 236,
+    "age_35_plus": 941,
+    "age_known": 5676,
+    "county": "Cecil County, MD",
+    "fips": "24015"
+  },
+  {
+    "age_15_19": 241,
+    "age_35_plus": 2052,
+    "age_known": 8933,
+    "county": "Charles County, MD",
+    "fips": "24017"
+  },
+  {
+    "age_15_19": 339,
+    "age_35_plus": 4062,
+    "age_known": 15658,
+    "county": "Frederick County, MD",
+    "fips": "24021"
+  },
+  {
+    "age_15_19": 284,
+    "age_35_plus": 2944,
+    "age_known": 12956,
+    "county": "Harford County, MD",
+    "fips": "24025"
+  },
+  {
+    "age_15_19": 209,
+    "age_35_plus": 5330,
+    "age_known": 15722,
+    "county": "Howard County, MD",
+    "fips": "24027"
+  },
+  {
+    "age_15_19": 1166,
+    "age_35_plus": 20374,
+    "age_known": 56933,
+    "county": "Montgomery County, MD",
+    "fips": "24031"
+  },
+  {
+    "age_15_19": 2114,
+    "age_35_plus": 13695,
+    "age_known": 54041,
+    "county": "Prince George's County, MD",
+    "fips": "24033"
+  },
+  {
+    "age_15_19": 188,
+    "age_35_plus": 1259,
+    "age_known": 6855,
+    "county": "St. Mary's County, MD",
+    "fips": "24037"
+  },
+  {
+    "age_15_19": 370,
+    "age_35_plus": 1303,
+    "age_known": 8101,
+    "county": "Washington County, MD",
+    "fips": "24043"
+  },
+  {
+    "age_15_19": 2084,
+    "age_35_plus": 7349,
+    "age_known": 35597,
+    "county": "Baltimore city, MD",
+    "fips": "24510"
+  },
+  {
+    "age_15_19": 1232,
+    "age_35_plus": 4954,
+    "age_known": 27909,
+    "county": "Unidentified Counties, MD",
+    "fips": "24999"
+  },
+  {
+    "age_15_19": 104,
+    "age_35_plus": 2155,
+    "age_known": 7405,
+    "county": "Barnstable County, MA",
+    "fips": "25001"
+  },
+  {
+    "age_15_19": 149,
+    "age_35_plus": 1053,
+    "age_known": 4504,
+    "county": "Berkshire County, MA",
+    "fips": "25003"
+  },
+  {
+    "age_15_19": 766,
+    "age_35_plus": 6298,
+    "age_known": 28193,
+    "county": "Bristol County, MA",
+    "fips": "25005"
+  },
+  {
+    "age_15_19": 1022,
+    "age_35_plus": 11424,
+    "age_known": 42515,
+    "county": "Essex County, MA",
+    "fips": "25009"
+  },
+  {
+    "age_15_19": 985,
+    "age_35_plus": 4547,
+    "age_known": 23563,
+    "county": "Hampden County, MA",
+    "fips": "25013"
+  },
+  {
+    "age_15_19": 62,
+    "age_35_plus": 1386,
+    "age_known": 4493,
+    "county": "Hampshire County, MA",
+    "fips": "25015"
+  },
+  {
+    "age_15_19": 920,
+    "age_35_plus": 28322,
+    "age_known": 79579,
+    "county": "Middlesex County, MA",
+    "fips": "25017"
+  },
+  {
+    "age_15_19": 206,
+    "age_35_plus": 12790,
+    "age_known": 34922,
+    "county": "Norfolk County, MA",
+    "fips": "25021"
+  },
+  {
+    "age_15_19": 415,
+    "age_35_plus": 7961,
+    "age_known": 26438,
+    "county": "Plymouth County, MA",
+    "fips": "25023"
+  },
+  {
+    "age_15_19": 914,
+    "age_35_plus": 12665,
+    "age_known": 41298,
+    "county": "Suffolk County, MA",
+    "fips": "25025"
+  },
+  {
+    "age_15_19": 922,
+    "age_35_plus": 10212,
+    "age_known": 42435,
+    "county": "Worcester County, MA",
+    "fips": "25027"
+  },
+  {
+    "age_15_19": 58,
+    "age_35_plus": 1181,
+    "age_known": 4014,
+    "county": "Unidentified Counties, MA",
+    "fips": "25999"
+  },
+  {
+    "age_15_19": 192,
+    "age_35_plus": 797,
+    "age_known": 6032,
+    "county": "Allegan County, MI",
+    "fips": "26005"
+  },
+  {
+    "age_15_19": 224,
+    "age_35_plus": 581,
+    "age_known": 4518,
+    "county": "Bay County, MI",
+    "fips": "26017"
+  },
+  {
+    "age_15_19": 406,
+    "age_35_plus": 1169,
+    "age_known": 7394,
+    "county": "Berrien County, MI",
+    "fips": "26021"
+  },
+  {
+    "age_15_19": 421,
+    "age_35_plus": 879,
+    "age_known": 7290,
+    "county": "Calhoun County, MI",
+    "fips": "26025"
+  },
+  {
+    "age_15_19": 171,
+    "age_35_plus": 797,
+    "age_known": 5098,
+    "county": "Eaton County, MI",
+    "fips": "26045"
+  },
+  {
+    "age_15_19": 1090,
+    "age_35_plus": 2715,
+    "age_known": 21215,
+    "county": "Genesee County, MI",
+    "fips": "26049"
+  },
+  {
+    "age_15_19": 609,
+    "age_35_plus": 2424,
+    "age_known": 14142,
+    "county": "Ingham County, MI",
+    "fips": "26065"
+  },
+  {
+    "age_15_19": 446,
+    "age_35_plus": 958,
+    "age_known": 7983,
+    "county": "Jackson County, MI",
+    "fips": "26075"
+  },
+  {
+    "age_15_19": 531,
+    "age_35_plus": 2354,
+    "age_known": 13242,
+    "county": "Kalamazoo County, MI",
+    "fips": "26077"
+  },
+  {
+    "age_15_19": 1360,
+    "age_35_plus": 7236,
+    "age_known": 40405,
+    "county": "Kent County, MI",
+    "fips": "26081"
+  },
+  {
+    "age_15_19": 96,
+    "age_35_plus": 1843,
+    "age_known": 8521,
+    "county": "Livingston County, MI",
+    "fips": "26093"
+  },
+  {
+    "age_15_19": 902,
+    "age_35_plus": 8326,
+    "age_known": 43342,
+    "county": "Macomb County, MI",
+    "fips": "26099"
+  },
+  {
+    "age_15_19": 221,
+    "age_35_plus": 1078,
+    "age_known": 7407,
+    "county": "Monroe County, MI",
+    "fips": "26115"
+  },
+  {
+    "age_15_19": 539,
+    "age_35_plus": 1080,
+    "age_known": 9246,
+    "county": "Muskegon County, MI",
+    "fips": "26121"
+  },
+  {
+    "age_15_19": 951,
+    "age_35_plus": 15233,
+    "age_known": 61919,
+    "county": "Oakland County, MI",
+    "fips": "26125"
+  },
+  {
+    "age_15_19": 342,
+    "age_35_plus": 2500,
+    "age_known": 15463,
+    "county": "Ottawa County, MI",
+    "fips": "26139"
+  },
+  {
+    "age_15_19": 532,
+    "age_35_plus": 1237,
+    "age_known": 9577,
+    "county": "Saginaw County, MI",
+    "fips": "26145"
+  },
+  {
+    "age_15_19": 264,
+    "age_35_plus": 1058,
+    "age_known": 7229,
+    "county": "St. Clair County, MI",
+    "fips": "26147"
+  },
+  {
+    "age_15_19": 283,
+    "age_35_plus": 4410,
+    "age_known": 15746,
+    "county": "Washtenaw County, MI",
+    "fips": "26161"
+  },
+  {
+    "age_15_19": 4614,
+    "age_35_plus": 17899,
+    "age_known": 104056,
+    "county": "Wayne County, MI",
+    "fips": "26163"
+  },
+  {
+    "age_15_19": 4148,
+    "age_35_plus": 13992,
+    "age_known": 100070,
+    "county": "Unidentified Counties, MI",
+    "fips": "26999"
+  },
+  {
+    "age_15_19": 309,
+    "age_35_plus": 4457,
+    "age_known": 20117,
+    "county": "Anoka County, MN",
+    "fips": "27003"
+  },
+  {
+    "age_15_19": 388,
+    "age_35_plus": 5984,
+    "age_known": 24430,
+    "county": "Dakota County, MN",
+    "fips": "27037"
+  },
+  {
+    "age_15_19": 1528,
+    "age_35_plus": 20573,
+    "age_known": 72076,
+    "county": "Hennepin County, MN",
+    "fips": "27053"
+  },
+  {
+    "age_15_19": 197,
+    "age_35_plus": 2182,
+    "age_known": 9663,
+    "county": "Olmsted County, MN",
+    "fips": "27109"
+  },
+  {
+    "age_15_19": 975,
+    "age_35_plus": 7894,
+    "age_known": 32864,
+    "county": "Ramsey County, MN",
+    "fips": "27123"
+  },
+  {
+    "age_15_19": 300,
+    "age_35_plus": 1554,
+    "age_known": 8796,
+    "county": "St. Louis County, MN",
+    "fips": "27137"
+  },
+  {
+    "age_15_19": 103,
+    "age_35_plus": 1950,
+    "age_known": 8330,
+    "county": "Scott County, MN",
+    "fips": "27139"
+  },
+  {
+    "age_15_19": 242,
+    "age_35_plus": 1686,
+    "age_known": 10009,
+    "county": "Stearns County, MN",
+    "fips": "27145"
+  },
+  {
+    "age_15_19": 162,
+    "age_35_plus": 3633,
+    "age_known": 13731,
+    "county": "Washington County, MN",
+    "fips": "27163"
+  },
+  {
+    "age_15_19": 111,
+    "age_35_plus": 1849,
+    "age_known": 9253,
+    "county": "Wright County, MN",
+    "fips": "27171"
+  },
+  {
+    "age_15_19": 3213,
+    "age_35_plus": 17214,
+    "age_known": 106396,
+    "county": "Unidentified Counties, MN",
+    "fips": "27999"
+  },
+  {
+    "age_15_19": 598,
+    "age_35_plus": 1649,
+    "age_known": 11079,
+    "county": "DeSoto County, MS",
+    "fips": "28033"
+  },
+  {
+    "age_15_19": 761,
+    "age_35_plus": 1674,
+    "age_known": 12168,
+    "county": "Harrison County, MS",
+    "fips": "28047"
+  },
+  {
+    "age_15_19": 972,
+    "age_35_plus": 1695,
+    "age_known": 13218,
+    "county": "Hinds County, MS",
+    "fips": "28049"
+  },
+  {
+    "age_15_19": 458,
+    "age_35_plus": 1001,
+    "age_known": 7687,
+    "county": "Jackson County, MS",
+    "fips": "28059"
+  },
+  {
+    "age_15_19": 397,
+    "age_35_plus": 1227,
+    "age_known": 8662,
+    "county": "Rankin County, MS",
+    "fips": "28121"
+  },
+  {
+    "age_15_19": 9737,
+    "age_35_plus": 12390,
+    "age_known": 120385,
+    "county": "Unidentified Counties, MS",
+    "fips": "28999"
+  },
+  {
+    "age_15_19": 278,
+    "age_35_plus": 1803,
+    "age_known": 9631,
+    "county": "Boone County, MO",
+    "fips": "29019"
+  },
+  {
+    "age_15_19": 456,
+    "age_35_plus": 2437,
+    "age_known": 14689,
+    "county": "Clay County, MO",
+    "fips": "29047"
+  },
+  {
+    "age_15_19": 266,
+    "age_35_plus": 723,
+    "age_known": 5626,
+    "county": "Franklin County, MO",
+    "fips": "29071"
+  },
+  {
+    "age_15_19": 906,
+    "age_35_plus": 2145,
+    "age_known": 16314,
+    "county": "Greene County, MO",
+    "fips": "29077"
+  },
+  {
+    "age_15_19": 2217,
+    "age_35_plus": 6909,
+    "age_known": 42917,
+    "county": "Jackson County, MO",
+    "fips": "29095"
+  },
+  {
+    "age_15_19": 588,
+    "age_35_plus": 807,
+    "age_known": 7816,
+    "county": "Jasper County, MO",
+    "fips": "29097"
+  },
+  {
+    "age_15_19": 393,
+    "age_35_plus": 1784,
+    "age_known": 11875,
+    "county": "Jefferson County, MO",
+    "fips": "29099"
+  },
+  {
+    "age_15_19": 349,
+    "age_35_plus": 4258,
+    "age_known": 20615,
+    "county": "St. Charles County, MO",
+    "fips": "29183"
+  },
+  {
+    "age_15_19": 1594,
+    "age_35_plus": 11472,
+    "age_known": 51191,
+    "county": "St. Louis County, MO",
+    "fips": "29189"
+  },
+  {
+    "age_15_19": 944,
+    "age_35_plus": 3370,
+    "age_known": 17232,
+    "county": "St. Louis city, MO",
+    "fips": "29510"
+  },
+  {
+    "age_15_19": 8481,
+    "age_35_plus": 16943,
+    "age_known": 144865,
+    "county": "Unidentified Counties, MO",
+    "fips": "29999"
+  },
+  {
+    "age_15_19": 113,
+    "age_35_plus": 1205,
+    "age_known": 5346,
+    "county": "Missoula County, MT",
+    "fips": "30063"
+  },
+  {
+    "age_15_19": 336,
+    "age_35_plus": 1402,
+    "age_known": 9150,
+    "county": "Yellowstone County, MT",
+    "fips": "30111"
+  },
+  {
+    "age_15_19": 1576,
+    "age_35_plus": 7193,
+    "age_known": 41086,
+    "county": "Unidentified Counties, MT",
+    "fips": "30999"
+  },
+  {
+    "age_15_19": 1645,
+    "age_35_plus": 7776,
+    "age_known": 39659,
+    "county": "Douglas County, NE",
+    "fips": "31055"
+  },
+  {
+    "age_15_19": 629,
+    "age_35_plus": 3446,
+    "age_known": 18438,
+    "county": "Lancaster County, NE",
+    "fips": "31109"
+  },
+  {
+    "age_15_19": 254,
+    "age_35_plus": 2238,
+    "age_known": 11958,
+    "county": "Sarpy County, NE",
+    "fips": "31153"
+  },
+  {
+    "age_15_19": 2203,
+    "age_35_plus": 7110,
+    "age_known": 52071,
+    "county": "Unidentified Counties, NE",
+    "fips": "31999"
+  },
+  {
+    "age_15_19": 4886,
+    "age_35_plus": 24953,
+    "age_known": 123254,
+    "county": "Clark County, NV",
+    "fips": "32003"
+  },
+  {
+    "age_15_19": 1006,
+    "age_35_plus": 4917,
+    "age_known": 24782,
+    "county": "Washoe County, NV",
+    "fips": "32031"
+  },
+  {
+    "age_15_19": 761,
+    "age_35_plus": 2476,
+    "age_known": 16652,
+    "county": "Unidentified Counties, NV",
+    "fips": "32999"
+  },
+  {
+    "age_15_19": 374,
+    "age_35_plus": 4614,
+    "age_known": 20736,
+    "county": "Hillsborough County, NH",
+    "fips": "33011"
+  },
+  {
+    "age_15_19": 107,
+    "age_35_plus": 1434,
+    "age_known": 6463,
+    "county": "Merrimack County, NH",
+    "fips": "33013"
+  },
+  {
+    "age_15_19": 110,
+    "age_35_plus": 3680,
+    "age_known": 13728,
+    "county": "Rockingham County, NH",
+    "fips": "33015"
+  },
+  {
+    "age_15_19": 128,
+    "age_35_plus": 1184,
+    "age_known": 5764,
+    "county": "Strafford County, NH",
+    "fips": "33017"
+  },
+  {
+    "age_15_19": 332,
+    "age_35_plus": 2650,
+    "age_known": 13479,
+    "county": "Unidentified Counties, NH",
+    "fips": "33999"
+  },
+  {
+    "age_15_19": 483,
+    "age_35_plus": 2850,
+    "age_known": 13728,
+    "county": "Atlantic County, NJ",
+    "fips": "34001"
+  },
+  {
+    "age_15_19": 404,
+    "age_35_plus": 16253,
+    "age_known": 45007,
+    "county": "Bergen County, NJ",
+    "fips": "34003"
+  },
+  {
+    "age_15_19": 393,
+    "age_35_plus": 5792,
+    "age_known": 23010,
+    "county": "Burlington County, NJ",
+    "fips": "34005"
+  },
+  {
+    "age_15_19": 970,
+    "age_35_plus": 7050,
+    "age_known": 30170,
+    "county": "Camden County, NJ",
+    "fips": "34007"
+  },
+  {
+    "age_15_19": 608,
+    "age_35_plus": 1320,
+    "age_known": 9052,
+    "county": "Cumberland County, NJ",
+    "fips": "34011"
+  },
+  {
+    "age_15_19": 1609,
+    "age_35_plus": 14523,
+    "age_known": 49309,
+    "county": "Essex County, NJ",
+    "fips": "34013"
+  },
+  {
+    "age_15_19": 261,
+    "age_35_plus": 3614,
+    "age_known": 14668,
+    "county": "Gloucester County, NJ",
+    "fips": "34015"
+  },
+  {
+    "age_15_19": 881,
+    "age_35_plus": 14205,
+    "age_known": 45407,
+    "county": "Hudson County, NJ",
+    "fips": "34017"
+  },
+  {
+    "age_15_19": 39,
+    "age_35_plus": 1801,
+    "age_known": 5296,
+    "county": "Hunterdon County, NJ",
+    "fips": "34019"
+  },
+  {
+    "age_15_19": 942,
+    "age_35_plus": 5254,
+    "age_known": 20503,
+    "county": "Mercer County, NJ",
+    "fips": "34021"
+  },
+  {
+    "age_15_19": 810,
+    "age_35_plus": 11864,
+    "age_known": 42285,
+    "county": "Middlesex County, NJ",
+    "fips": "34023"
+  },
+  {
+    "age_15_19": 417,
+    "age_35_plus": 9964,
+    "age_known": 31252,
+    "county": "Monmouth County, NJ",
+    "fips": "34025"
+  },
+  {
+    "age_15_19": 227,
+    "age_35_plus": 8621,
+    "age_known": 24514,
+    "county": "Morris County, NJ",
+    "fips": "34027"
+  },
+  {
+    "age_15_19": 583,
+    "age_35_plus": 11148,
+    "age_known": 51107,
+    "county": "Ocean County, NJ",
+    "fips": "34029"
+  },
+  {
+    "age_15_19": 1071,
+    "age_35_plus": 7397,
+    "age_known": 31334,
+    "county": "Passaic County, NJ",
+    "fips": "34031"
+  },
+  {
+    "age_15_19": 244,
+    "age_35_plus": 5342,
+    "age_known": 15882,
+    "county": "Somerset County, NJ",
+    "fips": "34035"
+  },
+  {
+    "age_15_19": 68,
+    "age_35_plus": 1911,
+    "age_known": 6888,
+    "county": "Sussex County, NJ",
+    "fips": "34037"
+  },
+  {
+    "age_15_19": 908,
+    "age_35_plus": 10042,
+    "age_known": 32933,
+    "county": "Union County, NJ",
+    "fips": "34039"
+  },
+  {
+    "age_15_19": 112,
+    "age_35_plus": 1316,
+    "age_known": 5220,
+    "county": "Warren County, NJ",
+    "fips": "34041"
+  },
+  {
+    "age_15_19": 229,
+    "age_35_plus": 1370,
+    "age_known": 7046,
+    "county": "Unidentified Counties, NJ",
+    "fips": "34999"
+  },
+  {
+    "age_15_19": 1429,
+    "age_35_plus": 6052,
+    "age_known": 32123,
+    "county": "Bernalillo County, NM",
+    "fips": "35001"
+  },
+  {
+    "age_15_19": 912,
+    "age_35_plus": 1752,
+    "age_known": 12755,
+    "county": "Dona Ana County, NM",
+    "fips": "35013"
+  },
+  {
+    "age_15_19": 222,
+    "age_35_plus": 1285,
+    "age_known": 6523,
+    "county": "Sandoval County, NM",
+    "fips": "35043"
+  },
+  {
+    "age_15_19": 434,
+    "age_35_plus": 893,
+    "age_known": 6301,
+    "county": "San Juan County, NM",
+    "fips": "35045"
+  },
+  {
+    "age_15_19": 272,
+    "age_35_plus": 1257,
+    "age_known": 5547,
+    "county": "Santa Fe County, NM",
+    "fips": "35049"
+  },
+  {
+    "age_15_19": 3459,
+    "age_35_plus": 5498,
+    "age_known": 43914,
+    "county": "Unidentified Counties, NM",
+    "fips": "35999"
+  },
+  {
+    "age_15_19": 356,
+    "age_35_plus": 3496,
+    "age_known": 13860,
+    "county": "Albany County, NY",
+    "fips": "36001"
+  },
+  {
+    "age_15_19": 3069,
+    "age_35_plus": 19497,
+    "age_known": 84808,
+    "county": "Bronx County, NY",
+    "fips": "36005"
+  },
+  {
+    "age_15_19": 351,
+    "age_35_plus": 1581,
+    "age_known": 8734,
+    "county": "Broome County, NY",
+    "fips": "36007"
+  },
+  {
+    "age_15_19": 410,
+    "age_35_plus": 746,
+    "age_known": 6003,
+    "county": "Chautauqua County, NY",
+    "fips": "36013"
+  },
+  {
+    "age_15_19": 273,
+    "age_35_plus": 3732,
+    "age_known": 13019,
+    "county": "Dutchess County, NY",
+    "fips": "36027"
+  },
+  {
+    "age_15_19": 1374,
+    "age_35_plus": 9727,
+    "age_known": 45590,
+    "county": "Erie County, NY",
+    "fips": "36029"
+  },
+  {
+    "age_15_19": 345,
+    "age_35_plus": 894,
+    "age_known": 8535,
+    "county": "Jefferson County, NY",
+    "fips": "36045"
+  },
+  {
+    "age_15_19": 3234,
+    "age_35_plus": 49333,
+    "age_known": 167855,
+    "county": "Kings County, NY",
+    "fips": "36047"
+  },
+  {
+    "age_15_19": 1199,
+    "age_35_plus": 8118,
+    "age_known": 36791,
+    "county": "Monroe County, NY",
+    "fips": "36055"
+  },
+  {
+    "age_15_19": 978,
+    "age_35_plus": 22780,
+    "age_known": 68202,
+    "county": "Nassau County, NY",
+    "fips": "36059"
+  },
+  {
+    "age_15_19": 1021,
+    "age_35_plus": 27414,
+    "age_known": 70207,
+    "county": "New York County, NY",
+    "fips": "36061"
+  },
+  {
+    "age_15_19": 411,
+    "age_35_plus": 1694,
+    "age_known": 9579,
+    "county": "Niagara County, NY",
+    "fips": "36063"
+  },
+  {
+    "age_15_19": 514,
+    "age_35_plus": 1995,
+    "age_known": 11442,
+    "county": "Oneida County, NY",
+    "fips": "36065"
+  },
+  {
+    "age_15_19": 890,
+    "age_35_plus": 4907,
+    "age_known": 23224,
+    "county": "Onondaga County, NY",
+    "fips": "36067"
+  },
+  {
+    "age_15_19": 101,
+    "age_35_plus": 1046,
+    "age_known": 4809,
+    "county": "Ontario County, NY",
+    "fips": "36069"
+  },
+  {
+    "age_15_19": 756,
+    "age_35_plus": 6783,
+    "age_known": 27656,
+    "county": "Orange County, NY",
+    "fips": "36071"
+  },
+  {
+    "age_15_19": 278,
+    "age_35_plus": 836,
+    "age_known": 5669,
+    "county": "Oswego County, NY",
+    "fips": "36075"
+  },
+  {
+    "age_15_19": 2360,
+    "age_35_plus": 34228,
+    "age_known": 120510,
+    "county": "Queens County, NY",
+    "fips": "36081"
+  },
+  {
+    "age_15_19": 255,
+    "age_35_plus": 1614,
+    "age_known": 7563,
+    "county": "Rensselaer County, NY",
+    "fips": "36083"
+  },
+  {
+    "age_15_19": 464,
+    "age_35_plus": 6801,
+    "age_known": 24918,
+    "county": "Richmond County, NY",
+    "fips": "36085"
+  },
+  {
+    "age_15_19": 682,
+    "age_35_plus": 8456,
+    "age_known": 31900,
+    "county": "Rockland County, NY",
+    "fips": "36087"
+  },
+  {
+    "age_15_19": 202,
+    "age_35_plus": 734,
+    "age_known": 4852,
+    "county": "St. Lawrence County, NY",
+    "fips": "36089"
+  },
+  {
+    "age_15_19": 140,
+    "age_35_plus": 2576,
+    "age_known": 10024,
+    "county": "Saratoga County, NY",
+    "fips": "36091"
+  },
+  {
+    "age_15_19": 276,
+    "age_35_plus": 1855,
+    "age_known": 8807,
+    "county": "Schenectady County, NY",
+    "fips": "36093"
+  },
+  {
+    "age_15_19": 1702,
+    "age_35_plus": 22268,
+    "age_known": 77984,
+    "county": "Suffolk County, NY",
+    "fips": "36103"
+  },
+  {
+    "age_15_19": 83,
+    "age_35_plus": 992,
+    "age_known": 3252,
+    "county": "Tompkins County, NY",
+    "fips": "36109"
+  },
+  {
+    "age_15_19": 173,
+    "age_35_plus": 1893,
+    "age_known": 7368,
+    "county": "Ulster County, NY",
+    "fips": "36111"
+  },
+  {
+    "age_15_19": 866,
+    "age_35_plus": 18047,
+    "age_known": 49048,
+    "county": "Westchester County, NY",
+    "fips": "36119"
+  },
+  {
+    "age_15_19": 3088,
+    "age_35_plus": 14858,
+    "age_known": 84600,
+    "county": "Unidentified Counties, NY",
+    "fips": "36999"
+  },
+  {
+    "age_15_19": 475,
+    "age_35_plus": 1654,
+    "age_known": 9642,
+    "county": "Alamance County, NC",
+    "fips": "37001"
+  },
+  {
+    "age_15_19": 252,
+    "age_35_plus": 942,
+    "age_known": 5767,
+    "county": "Brunswick County, NC",
+    "fips": "37019"
+  },
+  {
+    "age_15_19": 431,
+    "age_35_plus": 2929,
+    "age_known": 11853,
+    "county": "Buncombe County, NC",
+    "fips": "37021"
+  },
+  {
+    "age_15_19": 491,
+    "age_35_plus": 2612,
+    "age_known": 13350,
+    "county": "Cabarrus County, NC",
+    "fips": "37025"
+  },
+  {
+    "age_15_19": 378,
+    "age_35_plus": 1191,
+    "age_known": 8299,
+    "county": "Catawba County, NC",
+    "fips": "37035"
+  },
+  {
+    "age_15_19": 298,
+    "age_35_plus": 839,
+    "age_known": 6371,
+    "county": "Craven County, NC",
+    "fips": "37049"
+  },
+  {
+    "age_15_19": 1151,
+    "age_35_plus": 3244,
+    "age_known": 25797,
+    "county": "Cumberland County, NC",
+    "fips": "37051"
+  },
+  {
+    "age_15_19": 429,
+    "age_35_plus": 1144,
+    "age_known": 8862,
+    "county": "Davidson County, NC",
+    "fips": "37057"
+  },
+  {
+    "age_15_19": 722,
+    "age_35_plus": 5095,
+    "age_known": 20599,
+    "county": "Durham County, NC",
+    "fips": "37063"
+  },
+  {
+    "age_15_19": 1162,
+    "age_35_plus": 3954,
+    "age_known": 22149,
+    "county": "Forsyth County, NC",
+    "fips": "37067"
+  },
+  {
+    "age_15_19": 645,
+    "age_35_plus": 2211,
+    "age_known": 13713,
+    "county": "Gaston County, NC",
+    "fips": "37071"
+  },
+  {
+    "age_15_19": 1101,
+    "age_35_plus": 5797,
+    "age_known": 28993,
+    "county": "Guilford County, NC",
+    "fips": "37081"
+  },
+  {
+    "age_15_19": 381,
+    "age_35_plus": 1411,
+    "age_known": 9425,
+    "county": "Harnett County, NC",
+    "fips": "37085"
+  },
+  {
+    "age_15_19": 243,
+    "age_35_plus": 968,
+    "age_known": 5048,
+    "county": "Henderson County, NC",
+    "fips": "37089"
+  },
+  {
+    "age_15_19": 384,
+    "age_35_plus": 1732,
+    "age_known": 10112,
+    "county": "Iredell County, NC",
+    "fips": "37097"
+  },
+  {
+    "age_15_19": 532,
+    "age_35_plus": 2416,
+    "age_known": 13943,
+    "county": "Johnston County, NC",
+    "fips": "37101"
+  },
+  {
+    "age_15_19": 2866,
+    "age_35_plus": 17278,
+    "age_known": 75431,
+    "county": "Mecklenburg County, NC",
+    "fips": "37119"
+  },
+  {
+    "age_15_19": 365,
+    "age_35_plus": 2445,
+    "age_known": 10855,
+    "county": "New Hanover County, NC",
+    "fips": "37129"
+  },
+  {
+    "age_15_19": 812,
+    "age_35_plus": 1800,
+    "age_known": 18862,
+    "county": "Onslow County, NC",
+    "fips": "37133"
+  },
+  {
+    "age_15_19": 154,
+    "age_35_plus": 1794,
+    "age_known": 5756,
+    "county": "Orange County, NC",
+    "fips": "37135"
+  },
+  {
+    "age_15_19": 527,
+    "age_35_plus": 1655,
+    "age_known": 10251,
+    "county": "Pitt County, NC",
+    "fips": "37147"
+  },
+  {
+    "age_15_19": 419,
+    "age_35_plus": 1095,
+    "age_known": 7824,
+    "county": "Randolph County, NC",
+    "fips": "37151"
+  },
+  {
+    "age_15_19": 795,
+    "age_35_plus": 1042,
+    "age_known": 9310,
+    "county": "Robeson County, NC",
+    "fips": "37155"
+  },
+  {
+    "age_15_19": 419,
+    "age_35_plus": 1145,
+    "age_known": 7971,
+    "county": "Rowan County, NC",
+    "fips": "37159"
+  },
+  {
+    "age_15_19": 406,
+    "age_35_plus": 2750,
+    "age_known": 12591,
+    "county": "Union County, NC",
+    "fips": "37179"
+  },
+  {
+    "age_15_19": 1620,
+    "age_35_plus": 16671,
+    "age_known": 65253,
+    "county": "Wake County, NC",
+    "fips": "37183"
+  },
+  {
+    "age_15_19": 508,
+    "age_35_plus": 1102,
+    "age_known": 8110,
+    "county": "Wayne County, NC",
+    "fips": "37191"
+  },
+  {
+    "age_15_19": 8922,
+    "age_35_plus": 21956,
+    "age_known": 155400,
+    "county": "Unidentified Counties, NC",
+    "fips": "37999"
+  },
+  {
+    "age_15_19": 259,
+    "age_35_plus": 2171,
+    "age_known": 11990,
+    "county": "Cass County, ND",
+    "fips": "38017"
+  },
+  {
+    "age_15_19": 1306,
+    "age_35_plus": 5274,
+    "age_known": 37020,
+    "county": "Unidentified Counties, ND",
+    "fips": "38999"
+  },
+  {
+    "age_15_19": 399,
+    "age_35_plus": 620,
+    "age_known": 6039,
+    "county": "Allen County, OH",
+    "fips": "39003"
+  },
+  {
+    "age_15_19": 243,
+    "age_35_plus": 609,
+    "age_known": 5037,
+    "county": "Ashtabula County, OH",
+    "fips": "39007"
+  },
+  {
+    "age_15_19": 1017,
+    "age_35_plus": 3474,
+    "age_known": 21377,
+    "county": "Butler County, OH",
+    "fips": "39017"
+  },
+  {
+    "age_15_19": 542,
+    "age_35_plus": 944,
+    "age_known": 7949,
+    "county": "Clark County, OH",
+    "fips": "39023"
+  },
+  {
+    "age_15_19": 420,
+    "age_35_plus": 1800,
+    "age_known": 11027,
+    "county": "Clermont County, OH",
+    "fips": "39025"
+  },
+  {
+    "age_15_19": 250,
+    "age_35_plus": 560,
+    "age_known": 4771,
+    "county": "Columbiana County, OH",
+    "fips": "39029"
+  },
+  {
+    "age_15_19": 2846,
+    "age_35_plus": 12754,
+    "age_known": 64312,
+    "county": "Cuyahoga County, OH",
+    "fips": "39035"
+  },
+  {
+    "age_15_19": 112,
+    "age_35_plus": 2938,
+    "age_known": 10662,
+    "county": "Delaware County, OH",
+    "fips": "39041"
+  },
+  {
+    "age_15_19": 276,
+    "age_35_plus": 1482,
+    "age_known": 8350,
+    "county": "Fairfield County, OH",
+    "fips": "39045"
+  },
+  {
+    "age_15_19": 3150,
+    "age_35_plus": 18209,
+    "age_known": 87062,
+    "county": "Franklin County, OH",
+    "fips": "39049"
+  },
+  {
+    "age_15_19": 272,
+    "age_35_plus": 1383,
+    "age_known": 8427,
+    "county": "Greene County, OH",
+    "fips": "39057"
+  },
+  {
+    "age_15_19": 2565,
+    "age_35_plus": 9635,
+    "age_known": 51133,
+    "county": "Hamilton County, OH",
+    "fips": "39061"
+  },
+  {
+    "age_15_19": 233,
+    "age_35_plus": 2041,
+    "age_known": 10332,
+    "county": "Lake County, OH",
+    "fips": "39085"
+  },
+  {
+    "age_15_19": 346,
+    "age_35_plus": 1486,
+    "age_known": 9303,
+    "county": "Licking County, OH",
+    "fips": "39089"
+  },
+  {
+    "age_15_19": 662,
+    "age_35_plus": 2669,
+    "age_known": 15694,
+    "county": "Lorain County, OH",
+    "fips": "39093"
+  },
+  {
+    "age_15_19": 1405,
+    "age_35_plus": 3341,
+    "age_known": 24064,
+    "county": "Lucas County, OH",
+    "fips": "39095"
+  },
+  {
+    "age_15_19": 590,
+    "age_35_plus": 1689,
+    "age_known": 11488,
+    "county": "Mahoning County, OH",
+    "fips": "39099"
+  },
+  {
+    "age_15_19": 114,
+    "age_35_plus": 1780,
+    "age_known": 8189,
+    "county": "Medina County, OH",
+    "fips": "39103"
+  },
+  {
+    "age_15_19": 227,
+    "age_35_plus": 780,
+    "age_known": 5677,
+    "county": "Miami County, OH",
+    "fips": "39109"
+  },
+  {
+    "age_15_19": 1667,
+    "age_35_plus": 4465,
+    "age_known": 30326,
+    "county": "Montgomery County, OH",
+    "fips": "39113"
+  },
+  {
+    "age_15_19": 211,
+    "age_35_plus": 1095,
+    "age_known": 6744,
+    "county": "Portage County, OH",
+    "fips": "39133"
+  },
+  {
+    "age_15_19": 399,
+    "age_35_plus": 698,
+    "age_known": 6721,
+    "county": "Richland County, OH",
+    "fips": "39139"
+  },
+  {
+    "age_15_19": 1015,
+    "age_35_plus": 2577,
+    "age_known": 19510,
+    "county": "Stark County, OH",
+    "fips": "39151"
+  },
+  {
+    "age_15_19": 1091,
+    "age_35_plus": 4895,
+    "age_known": 26967,
+    "county": "Summit County, OH",
+    "fips": "39153"
+  },
+  {
+    "age_15_19": 554,
+    "age_35_plus": 1227,
+    "age_known": 9757,
+    "county": "Trumbull County, OH",
+    "fips": "39155"
+  },
+  {
+    "age_15_19": 236,
+    "age_35_plus": 2476,
+    "age_known": 12062,
+    "county": "Warren County, OH",
+    "fips": "39165"
+  },
+  {
+    "age_15_19": 216,
+    "age_35_plus": 997,
+    "age_known": 6964,
+    "county": "Wayne County, OH",
+    "fips": "39169"
+  },
+  {
+    "age_15_19": 193,
+    "age_35_plus": 951,
+    "age_known": 6144,
+    "county": "Wood County, OH",
+    "fips": "39173"
+  },
+  {
+    "age_15_19": 7309,
+    "age_35_plus": 16981,
+    "age_known": 144673,
+    "county": "Unidentified Counties, OH",
+    "fips": "39999"
+  },
+  {
+    "age_15_19": 336,
+    "age_35_plus": 1422,
+    "age_known": 10243,
+    "county": "Canadian County, OK",
+    "fips": "40017"
+  },
+  {
+    "age_15_19": 598,
+    "age_35_plus": 2100,
+    "age_known": 13550,
+    "county": "Cleveland County, OK",
+    "fips": "40027"
+  },
+  {
+    "age_15_19": 546,
+    "age_35_plus": 824,
+    "age_known": 7991,
+    "county": "Comanche County, OK",
+    "fips": "40031"
+  },
+  {
+    "age_15_19": 3243,
+    "age_35_plus": 8558,
+    "age_known": 54616,
+    "county": "Oklahoma County, OK",
+    "fips": "40109"
+  },
+  {
+    "age_15_19": 2355,
+    "age_35_plus": 6942,
+    "age_known": 43282,
+    "county": "Tulsa County, OK",
+    "fips": "40143"
+  },
+  {
+    "age_15_19": 7786,
+    "age_35_plus": 11715,
+    "age_known": 110514,
+    "county": "Unidentified Counties, OK",
+    "fips": "40999"
+  },
+  {
+    "age_15_19": 322,
+    "age_35_plus": 4818,
+    "age_known": 18630,
+    "county": "Clackamas County, OR",
+    "fips": "41005"
+  },
+  {
+    "age_15_19": 154,
+    "age_35_plus": 2345,
+    "age_known": 9355,
+    "county": "Deschutes County, OR",
+    "fips": "41017"
+  },
+  {
+    "age_15_19": 205,
+    "age_35_plus": 660,
+    "age_known": 4906,
+    "county": "Douglas County, OR",
+    "fips": "41019"
+  },
+  {
+    "age_15_19": 360,
+    "age_35_plus": 1825,
+    "age_known": 10372,
+    "county": "Jackson County, OR",
+    "fips": "41029"
+  },
+  {
+    "age_15_19": 412,
+    "age_35_plus": 3089,
+    "age_known": 14849,
+    "county": "Lane County, OR",
+    "fips": "41039"
+  },
+  {
+    "age_15_19": 225,
+    "age_35_plus": 1077,
+    "age_known": 7167,
+    "county": "Linn County, OR",
+    "fips": "41043"
+  },
+  {
+    "age_15_19": 860,
+    "age_35_plus": 3318,
+    "age_known": 19596,
+    "county": "Marion County, OR",
+    "fips": "41047"
+  },
+  {
+    "age_15_19": 918,
+    "age_35_plus": 11684,
+    "age_known": 36283,
+    "county": "Multnomah County, OR",
+    "fips": "41051"
+  },
+  {
+    "age_15_19": 564,
+    "age_35_plus": 7901,
+    "age_known": 30062,
+    "county": "Washington County, OR",
+    "fips": "41067"
+  },
+  {
+    "age_15_19": 1884,
+    "age_35_plus": 7744,
+    "age_known": 46213,
+    "county": "Unidentified Counties, OR",
+    "fips": "41999"
+  },
+  {
+    "age_15_19": 136,
+    "age_35_plus": 716,
+    "age_known": 4536,
+    "county": "Adams County, PA",
+    "fips": "42001"
+  },
+  {
+    "age_15_19": 1460,
+    "age_35_plus": 14592,
+    "age_known": 59377,
+    "county": "Allegheny County, PA",
+    "fips": "42003"
+  },
+  {
+    "age_15_19": 274,
+    "age_35_plus": 1282,
+    "age_known": 7503,
+    "county": "Beaver County, PA",
+    "fips": "42007"
+  },
+  {
+    "age_15_19": 1057,
+    "age_35_plus": 3804,
+    "age_known": 22525,
+    "county": "Berks County, PA",
+    "fips": "42011"
+  },
+  {
+    "age_15_19": 262,
+    "age_35_plus": 790,
+    "age_known": 5711,
+    "county": "Blair County, PA",
+    "fips": "42013"
+  },
+  {
+    "age_15_19": 358,
+    "age_35_plus": 7798,
+    "age_known": 27841,
+    "county": "Bucks County, PA",
+    "fips": "42017"
+  },
+  {
+    "age_15_19": 171,
+    "age_35_plus": 1818,
+    "age_known": 8576,
+    "county": "Butler County, PA",
+    "fips": "42019"
+  },
+  {
+    "age_15_19": 276,
+    "age_35_plus": 807,
+    "age_known": 5819,
+    "county": "Cambria County, PA",
+    "fips": "42021"
+  },
+  {
+    "age_15_19": 80,
+    "age_35_plus": 1230,
+    "age_known": 5419,
+    "county": "Centre County, PA",
+    "fips": "42027"
+  },
+  {
+    "age_15_19": 454,
+    "age_35_plus": 7900,
+    "age_known": 27432,
+    "county": "Chester County, PA",
+    "fips": "42029"
+  },
+  {
+    "age_15_19": 283,
+    "age_35_plus": 2814,
+    "age_known": 13244,
+    "county": "Cumberland County, PA",
+    "fips": "42041"
+  },
+  {
+    "age_15_19": 761,
+    "age_35_plus": 2987,
+    "age_known": 16389,
+    "county": "Dauphin County, PA",
+    "fips": "42043"
+  },
+  {
+    "age_15_19": 802,
+    "age_35_plus": 8391,
+    "age_known": 31337,
+    "county": "Delaware County, PA",
+    "fips": "42045"
+  },
+  {
+    "age_15_19": 674,
+    "age_35_plus": 1998,
+    "age_known": 12869,
+    "county": "Erie County, PA",
+    "fips": "42049"
+  },
+  {
+    "age_15_19": 362,
+    "age_35_plus": 701,
+    "age_known": 5770,
+    "county": "Fayette County, PA",
+    "fips": "42051"
+  },
+  {
+    "age_15_19": 310,
+    "age_35_plus": 1270,
+    "age_known": 8446,
+    "county": "Franklin County, PA",
+    "fips": "42055"
+  },
+  {
+    "age_15_19": 401,
+    "age_35_plus": 2018,
+    "age_known": 10049,
+    "county": "Lackawanna County, PA",
+    "fips": "42069"
+  },
+  {
+    "age_15_19": 764,
+    "age_35_plus": 6251,
+    "age_known": 34708,
+    "county": "Lancaster County, PA",
+    "fips": "42071"
+  },
+  {
+    "age_15_19": 318,
+    "age_35_plus": 1190,
+    "age_known": 7795,
+    "county": "Lebanon County, PA",
+    "fips": "42075"
+  },
+  {
+    "age_15_19": 786,
+    "age_35_plus": 3858,
+    "age_known": 19453,
+    "county": "Lehigh County, PA",
+    "fips": "42077"
+  },
+  {
+    "age_15_19": 779,
+    "age_35_plus": 2782,
+    "age_known": 15906,
+    "county": "Luzerne County, PA",
+    "fips": "42079"
+  },
+  {
+    "age_15_19": 236,
+    "age_35_plus": 793,
+    "age_known": 5494,
+    "county": "Lycoming County, PA",
+    "fips": "42081"
+  },
+  {
+    "age_15_19": 225,
+    "age_35_plus": 736,
+    "age_known": 5016,
+    "county": "Mercer County, PA",
+    "fips": "42085"
+  },
+  {
+    "age_15_19": 174,
+    "age_35_plus": 1444,
+    "age_known": 6665,
+    "county": "Monroe County, PA",
+    "fips": "42089"
+  },
+  {
+    "age_15_19": 660,
+    "age_35_plus": 12513,
+    "age_known": 42159,
+    "county": "Montgomery County, PA",
+    "fips": "42091"
+  },
+  {
+    "age_15_19": 414,
+    "age_35_plus": 3038,
+    "age_known": 13740,
+    "county": "Northampton County, PA",
+    "fips": "42095"
+  },
+  {
+    "age_15_19": 4672,
+    "age_35_plus": 20375,
+    "age_known": 94830,
+    "county": "Philadelphia County, PA",
+    "fips": "42101"
+  },
+  {
+    "age_15_19": 297,
+    "age_35_plus": 931,
+    "age_known": 6289,
+    "county": "Schuylkill County, PA",
+    "fips": "42107"
+  },
+  {
+    "age_15_19": 246,
+    "age_35_plus": 1877,
+    "age_known": 9600,
+    "county": "Washington County, PA",
+    "fips": "42125"
+  },
+  {
+    "age_15_19": 380,
+    "age_35_plus": 2491,
+    "age_known": 14169,
+    "county": "Westmoreland County, PA",
+    "fips": "42129"
+  },
+  {
+    "age_15_19": 880,
+    "age_35_plus": 3994,
+    "age_known": 23811,
+    "county": "York County, PA",
+    "fips": "42133"
+  },
+  {
+    "age_15_19": 3049,
+    "age_35_plus": 10638,
+    "age_known": 75169,
+    "county": "Unidentified Counties, PA",
+    "fips": "42999"
+  },
+  {
+    "age_15_19": 144,
+    "age_35_plus": 1781,
+    "age_known": 7267,
+    "county": "Kent County, RI",
+    "fips": "44003"
+  },
+  {
+    "age_15_19": 1196,
+    "age_35_plus": 7517,
+    "age_known": 34318,
+    "county": "Providence County, RI",
+    "fips": "44007"
+  },
+  {
+    "age_15_19": 53,
+    "age_35_plus": 1187,
+    "age_known": 4199,
+    "county": "Washington County, RI",
+    "fips": "44009"
+  },
+  {
+    "age_15_19": 65,
+    "age_35_plus": 1452,
+    "age_known": 4848,
+    "county": "Unidentified Counties, RI",
+    "fips": "44999"
+  },
+  {
+    "age_15_19": 513,
+    "age_35_plus": 1428,
+    "age_known": 9646,
+    "county": "Aiken County, SC",
+    "fips": "45003"
+  },
+  {
+    "age_15_19": 646,
+    "age_35_plus": 1503,
+    "age_known": 11554,
+    "county": "Anderson County, SC",
+    "fips": "45007"
+  },
+  {
+    "age_15_19": 376,
+    "age_35_plus": 1586,
+    "age_known": 9354,
+    "county": "Beaufort County, SC",
+    "fips": "45013"
+  },
+  {
+    "age_15_19": 614,
+    "age_35_plus": 2566,
+    "age_known": 15127,
+    "county": "Berkeley County, SC",
+    "fips": "45015"
+  },
+  {
+    "age_15_19": 928,
+    "age_35_plus": 6355,
+    "age_known": 24901,
+    "county": "Charleston County, SC",
+    "fips": "45019"
+  },
+  {
+    "age_15_19": 432,
+    "age_35_plus": 1735,
+    "age_known": 9980,
+    "county": "Dorchester County, SC",
+    "fips": "45035"
+  },
+  {
+    "age_15_19": 550,
+    "age_35_plus": 1116,
+    "age_known": 7869,
+    "county": "Florence County, SC",
+    "fips": "45041"
+  },
+  {
+    "age_15_19": 1333,
+    "age_35_plus": 6122,
+    "age_known": 32670,
+    "county": "Greenville County, SC",
+    "fips": "45045"
+  },
+  {
+    "age_15_19": 855,
+    "age_35_plus": 2808,
+    "age_known": 16549,
+    "county": "Horry County, SC",
+    "fips": "45051"
+  },
+  {
+    "age_15_19": 757,
+    "age_35_plus": 2764,
+    "age_known": 16296,
+    "county": "Lexington County, SC",
+    "fips": "45063"
+  },
+  {
+    "age_15_19": 333,
+    "age_35_plus": 791,
+    "age_known": 6126,
+    "county": "Pickens County, SC",
+    "fips": "45077"
+  },
+  {
+    "age_15_19": 1058,
+    "age_35_plus": 4159,
+    "age_known": 22671,
+    "county": "Richland County, SC",
+    "fips": "45079"
+  },
+  {
+    "age_15_19": 1014,
+    "age_35_plus": 3012,
+    "age_known": 20812,
+    "county": "Spartanburg County, SC",
+    "fips": "45083"
+  },
+  {
+    "age_15_19": 494,
+    "age_35_plus": 783,
+    "age_known": 6616,
+    "county": "Sumter County, SC",
+    "fips": "45085"
+  },
+  {
+    "age_15_19": 594,
+    "age_35_plus": 3049,
+    "age_known": 14864,
+    "county": "York County, SC",
+    "fips": "45091"
+  },
+  {
+    "age_15_19": 4437,
+    "age_35_plus": 7941,
+    "age_known": 62059,
+    "county": "Unidentified Counties, SC",
+    "fips": "45999"
+  },
+  {
+    "age_15_19": 463,
+    "age_35_plus": 2272,
+    "age_known": 13866,
+    "county": "Minnehaha County, SD",
+    "fips": "46099"
+  },
+  {
+    "age_15_19": 420,
+    "age_35_plus": 1040,
+    "age_known": 6992,
+    "county": "Pennington County, SD",
+    "fips": "46103"
+  },
+  {
+    "age_15_19": 1638,
+    "age_35_plus": 5060,
+    "age_known": 35300,
+    "county": "Unidentified Counties, SD",
+    "fips": "46999"
+  },
+  {
+    "age_15_19": 356,
+    "age_35_plus": 889,
+    "age_known": 6565,
+    "county": "Blount County, TN",
+    "fips": "47009"
+  },
+  {
+    "age_15_19": 2377,
+    "age_35_plus": 10710,
+    "age_known": 50752,
+    "county": "Davidson County, TN",
+    "fips": "47037"
+  },
+  {
+    "age_15_19": 1098,
+    "age_35_plus": 3655,
+    "age_known": 22289,
+    "county": "Hamilton County, TN",
+    "fips": "47065"
+  },
+  {
+    "age_15_19": 1201,
+    "age_35_plus": 4693,
+    "age_known": 26803,
+    "county": "Knox County, TN",
+    "fips": "47093"
+  },
+  {
+    "age_15_19": 808,
+    "age_35_plus": 2115,
+    "age_known": 18271,
+    "county": "Montgomery County, TN",
+    "fips": "47125"
+  },
+  {
+    "age_15_19": 920,
+    "age_35_plus": 3797,
+    "age_known": 22229,
+    "county": "Rutherford County, TN",
+    "fips": "47149"
+  },
+  {
+    "age_15_19": 4254,
+    "age_35_plus": 9562,
+    "age_known": 60930,
+    "county": "Shelby County, TN",
+    "fips": "47157"
+  },
+  {
+    "age_15_19": 455,
+    "age_35_plus": 852,
+    "age_known": 7455,
+    "county": "Sullivan County, TN",
+    "fips": "47163"
+  },
+  {
+    "age_15_19": 475,
+    "age_35_plus": 1934,
+    "age_known": 11509,
+    "county": "Sumner County, TN",
+    "fips": "47165"
+  },
+  {
+    "age_15_19": 319,
+    "age_35_plus": 889,
+    "age_known": 6232,
+    "county": "Washington County, TN",
+    "fips": "47179"
+  },
+  {
+    "age_15_19": 105,
+    "age_35_plus": 3636,
+    "age_known": 11406,
+    "county": "Williamson County, TN",
+    "fips": "47187"
+  },
+  {
+    "age_15_19": 277,
+    "age_35_plus": 1747,
+    "age_known": 9205,
+    "county": "Wilson County, TN",
+    "fips": "47189"
+  },
+  {
+    "age_15_19": 10332,
+    "age_35_plus": 17619,
+    "age_known": 155800,
+    "county": "Unidentified Counties, TN",
+    "fips": "47999"
+  },
+  {
+    "age_15_19": 1420,
+    "age_35_plus": 3704,
+    "age_known": 30144,
+    "county": "Bell County, TX",
+    "fips": "48027"
+  },
+  {
+    "age_15_19": 7122,
+    "age_35_plus": 22302,
+    "age_known": 130687,
+    "county": "Bexar County, TX",
+    "fips": "48029"
+  },
+  {
+    "age_15_19": 989,
+    "age_35_plus": 4554,
+    "age_known": 23358,
+    "county": "Brazoria County, TX",
+    "fips": "48039"
+  },
+  {
+    "age_15_19": 744,
+    "age_35_plus": 2131,
+    "age_known": 13575,
+    "county": "Brazos County, TX",
+    "fips": "48041"
+  },
+  {
+    "age_15_19": 2669,
+    "age_35_plus": 3779,
+    "age_known": 29535,
+    "county": "Cameron County, TX",
+    "fips": "48061"
+  },
+  {
+    "age_15_19": 1251,
+    "age_35_plus": 15701,
+    "age_known": 63174,
+    "county": "Collin County, TX",
+    "fips": "48085"
+  },
+  {
+    "age_15_19": 339,
+    "age_35_plus": 1979,
+    "age_known": 9593,
+    "county": "Comal County, TX",
+    "fips": "48091"
+  },
+  {
+    "age_15_19": 10966,
+    "age_35_plus": 33625,
+    "age_known": 182366,
+    "county": "Dallas County, TX",
+    "fips": "48113"
+  },
+  {
+    "age_15_19": 1375,
+    "age_35_plus": 12422,
+    "age_known": 55888,
+    "county": "Denton County, TX",
+    "fips": "48121"
+  },
+  {
+    "age_15_19": 1168,
+    "age_35_plus": 1520,
+    "age_known": 14634,
+    "county": "Ector County, TX",
+    "fips": "48135"
+  },
+  {
+    "age_15_19": 605,
+    "age_35_plus": 2280,
+    "age_known": 13557,
+    "county": "Ellis County, TX",
+    "fips": "48139"
+  },
+  {
+    "age_15_19": 3640,
+    "age_35_plus": 7326,
+    "age_known": 55102,
+    "county": "El Paso County, TX",
+    "fips": "48141"
+  },
+  {
+    "age_15_19": 1102,
+    "age_35_plus": 13074,
+    "age_known": 46397,
+    "county": "Fort Bend County, TX",
+    "fips": "48157"
+  },
+  {
+    "age_15_19": 903,
+    "age_35_plus": 3441,
+    "age_known": 19463,
+    "county": "Galveston County, TX",
+    "fips": "48167"
+  },
+  {
+    "age_15_19": 519,
+    "age_35_plus": 1126,
+    "age_known": 8690,
+    "county": "Grayson County, TX",
+    "fips": "48181"
+  },
+  {
+    "age_15_19": 562,
+    "age_35_plus": 997,
+    "age_known": 8247,
+    "county": "Gregg County, TX",
+    "fips": "48183"
+  },
+  {
+    "age_15_19": 461,
+    "age_35_plus": 1768,
+    "age_known": 10263,
+    "county": "Guadalupe County, TX",
+    "fips": "48187"
+  },
+  {
+    "age_15_19": 16528,
+    "age_35_plus": 63467,
+    "age_known": 321945,
+    "county": "Harris County, TX",
+    "fips": "48201"
+  },
+  {
+    "age_15_19": 553,
+    "age_35_plus": 3489,
+    "age_known": 16007,
+    "county": "Hays County, TX",
+    "fips": "48209"
+  },
+  {
+    "age_15_19": 5677,
+    "age_35_plus": 8939,
+    "age_known": 68715,
+    "county": "Hidalgo County, TX",
+    "fips": "48215"
+  },
+  {
+    "age_15_19": 1132,
+    "age_35_plus": 2116,
+    "age_known": 15742,
+    "county": "Jefferson County, TX",
+    "fips": "48245"
+  },
+  {
+    "age_15_19": 593,
+    "age_35_plus": 1763,
+    "age_known": 12128,
+    "county": "Johnson County, TX",
+    "fips": "48251"
+  },
+  {
+    "age_15_19": 599,
+    "age_35_plus": 2170,
+    "age_known": 12977,
+    "county": "Kaufman County, TX",
+    "fips": "48257"
+  },
+  {
+    "age_15_19": 1465,
+    "age_35_plus": 2412,
+    "age_known": 20356,
+    "county": "Lubbock County, TX",
+    "fips": "48303"
+  },
+  {
+    "age_15_19": 1066,
+    "age_35_plus": 2258,
+    "age_known": 16581,
+    "county": "McLennan County, TX",
+    "fips": "48309"
+  },
+  {
+    "age_15_19": 887,
+    "age_35_plus": 1933,
+    "age_known": 15003,
+    "county": "Midland County, TX",
+    "fips": "48329"
+  },
+  {
+    "age_15_19": 1578,
+    "age_35_plus": 8101,
+    "age_known": 42003,
+    "county": "Montgomery County, TX",
+    "fips": "48339"
+  },
+  {
+    "age_15_19": 1509,
+    "age_35_plus": 3031,
+    "age_known": 21326,
+    "county": "Nueces County, TX",
+    "fips": "48355"
+  },
+  {
+    "age_15_19": 356,
+    "age_35_plus": 1613,
+    "age_known": 9420,
+    "county": "Parker County, TX",
+    "fips": "48367"
+  },
+  {
+    "age_15_19": 765,
+    "age_35_plus": 863,
+    "age_known": 7721,
+    "county": "Potter County, TX",
+    "fips": "48375"
+  },
+  {
+    "age_15_19": 458,
+    "age_35_plus": 990,
+    "age_known": 8477,
+    "county": "Randall County, TX",
+    "fips": "48381"
+  },
+  {
+    "age_15_19": 866,
+    "age_35_plus": 2240,
+    "age_known": 15251,
+    "county": "Smith County, TX",
+    "fips": "48423"
+  },
+  {
+    "age_15_19": 6826,
+    "age_35_plus": 24712,
+    "age_known": 136892,
+    "county": "Tarrant County, TX",
+    "fips": "48439"
+  },
+  {
+    "age_15_19": 678,
+    "age_35_plus": 1031,
+    "age_known": 9660,
+    "county": "Taylor County, TX",
+    "fips": "48441"
+  },
+  {
+    "age_15_19": 505,
+    "age_35_plus": 854,
+    "age_known": 7368,
+    "county": "Tom Green County, TX",
+    "fips": "48451"
+  },
+  {
+    "age_15_19": 3345,
+    "age_35_plus": 21002,
+    "age_known": 80102,
+    "county": "Travis County, TX",
+    "fips": "48453"
+  },
+  {
+    "age_15_19": 2086,
+    "age_35_plus": 2761,
+    "age_known": 21889,
+    "county": "Webb County, TX",
+    "fips": "48479"
+  },
+  {
+    "age_15_19": 547,
+    "age_35_plus": 820,
+    "age_known": 7607,
+    "county": "Wichita County, TX",
+    "fips": "48485"
+  },
+  {
+    "age_15_19": 904,
+    "age_35_plus": 9682,
+    "age_known": 40373,
+    "county": "Williamson County, TX",
+    "fips": "48491"
+  },
+  {
+    "age_15_19": 21323,
+    "age_35_plus": 35172,
+    "age_known": 287869,
+    "county": "Unidentified Counties, TX",
+    "fips": "48999"
+  },
+  {
+    "age_15_19": 196,
+    "age_35_plus": 1304,
+    "age_known": 10285,
+    "county": "Cache County, UT",
+    "fips": "49005"
+  },
+  {
+    "age_15_19": 473,
+    "age_35_plus": 3827,
+    "age_known": 23668,
+    "county": "Davis County, UT",
+    "fips": "49011"
+  },
+  {
+    "age_15_19": 2514,
+    "age_35_plus": 14333,
+    "age_known": 73797,
+    "county": "Salt Lake County, UT",
+    "fips": "49035"
+  },
+  {
+    "age_15_19": 924,
+    "age_35_plus": 7664,
+    "age_known": 60559,
+    "county": "Utah County, UT",
+    "fips": "49049"
+  },
+  {
+    "age_15_19": 350,
+    "age_35_plus": 1596,
+    "age_known": 11723,
+    "county": "Washington County, UT",
+    "fips": "49053"
+  },
+  {
+    "age_15_19": 580,
+    "age_35_plus": 2137,
+    "age_known": 17420,
+    "county": "Weber County, UT",
+    "fips": "49057"
+  },
+  {
+    "age_15_19": 1171,
+    "age_35_plus": 4617,
+    "age_known": 32380,
+    "county": "Unidentified Counties, UT",
+    "fips": "49999"
+  },
+  {
+    "age_15_19": 107,
+    "age_35_plus": 2187,
+    "age_known": 6803,
+    "county": "Chittenden County, VT",
+    "fips": "50007"
+  },
+  {
+    "age_15_19": 525,
+    "age_35_plus": 4258,
+    "age_known": 19108,
+    "county": "Unidentified Counties, VT",
+    "fips": "50999"
+  },
+  {
+    "age_15_19": 142,
+    "age_35_plus": 4866,
+    "age_known": 12200,
+    "county": "Arlington County, VA",
+    "fips": "51013"
+  },
+  {
+    "age_15_19": 629,
+    "age_35_plus": 4753,
+    "age_known": 20397,
+    "county": "Chesterfield County, VA",
+    "fips": "51041"
+  },
+  {
+    "age_15_19": 1209,
+    "age_35_plus": 21195,
+    "age_known": 61868,
+    "county": "Fairfax County, VA",
+    "fips": "51059"
+  },
+  {
+    "age_15_19": 439,
+    "age_35_plus": 4522,
+    "age_known": 18372,
+    "county": "Henrico County, VA",
+    "fips": "51087"
+  },
+  {
+    "age_15_19": 264,
+    "age_35_plus": 7724,
+    "age_known": 23619,
+    "county": "Loudoun County, VA",
+    "fips": "51107"
+  },
+  {
+    "age_15_19": 881,
+    "age_35_plus": 7886,
+    "age_known": 31119,
+    "county": "Prince William County, VA",
+    "fips": "51153"
+  },
+  {
+    "age_15_19": 262,
+    "age_35_plus": 1527,
+    "age_known": 8040,
+    "county": "Spotsylvania County, VA",
+    "fips": "51177"
+  },
+  {
+    "age_15_19": 216,
+    "age_35_plus": 2227,
+    "age_known": 9116,
+    "county": "Stafford County, VA",
+    "fips": "51179"
+  },
+  {
+    "age_15_19": 203,
+    "age_35_plus": 3955,
+    "age_known": 11323,
+    "county": "Alexandria city, VA",
+    "fips": "51510"
+  },
+  {
+    "age_15_19": 416,
+    "age_35_plus": 2798,
+    "age_known": 13911,
+    "county": "Chesapeake city, VA",
+    "fips": "51550"
+  },
+  {
+    "age_15_19": 304,
+    "age_35_plus": 1205,
+    "age_known": 7800,
+    "county": "Hampton city, VA",
+    "fips": "51650"
+  },
+  {
+    "age_15_19": 580,
+    "age_35_plus": 1835,
+    "age_known": 12428,
+    "county": "Newport News city, VA",
+    "fips": "51700"
+  },
+  {
+    "age_15_19": 678,
+    "age_35_plus": 2243,
+    "age_known": 15257,
+    "county": "Norfolk city, VA",
+    "fips": "51710"
+  },
+  {
+    "age_15_19": 795,
+    "age_35_plus": 2955,
+    "age_known": 14687,
+    "county": "Richmond city, VA",
+    "fips": "51760"
+  },
+  {
+    "age_15_19": 561,
+    "age_35_plus": 5198,
+    "age_known": 25398,
+    "county": "Virginia Beach city, VA",
+    "fips": "51810"
+  },
+  {
+    "age_15_19": 8174,
+    "age_35_plus": 31965,
+    "age_known": 187280,
+    "county": "Unidentified Counties, VA",
+    "fips": "51999"
+  },
+  {
+    "age_15_19": 498,
+    "age_35_plus": 2008,
+    "age_known": 12621,
+    "county": "Benton County, WA",
+    "fips": "53005"
+  },
+  {
+    "age_15_19": 743,
+    "age_35_plus": 5481,
+    "age_known": 27654,
+    "county": "Clark County, WA",
+    "fips": "53011"
+  },
+  {
+    "age_15_19": 251,
+    "age_35_plus": 854,
+    "age_known": 6116,
+    "county": "Cowlitz County, WA",
+    "fips": "53015"
+  },
+  {
+    "age_15_19": 1657,
+    "age_35_plus": 38298,
+    "age_known": 115527,
+    "county": "King County, WA",
+    "fips": "53033"
+  },
+  {
+    "age_15_19": 362,
+    "age_35_plus": 2768,
+    "age_known": 13929,
+    "county": "Kitsap County, WA",
+    "fips": "53035"
+  },
+  {
+    "age_15_19": 1463,
+    "age_35_plus": 10706,
+    "age_known": 54077,
+    "county": "Pierce County, WA",
+    "fips": "53053"
+  },
+  {
+    "age_15_19": 274,
+    "age_35_plus": 1248,
+    "age_known": 6833,
+    "county": "Skagit County, WA",
+    "fips": "53057"
+  },
+  {
+    "age_15_19": 841,
+    "age_35_plus": 12312,
+    "age_known": 48684,
+    "county": "Snohomish County, WA",
+    "fips": "53061"
+  },
+  {
+    "age_15_19": 929,
+    "age_35_plus": 4885,
+    "age_known": 29177,
+    "county": "Spokane County, WA",
+    "fips": "53063"
+  },
+  {
+    "age_15_19": 389,
+    "age_35_plus": 2967,
+    "age_known": 14905,
+    "county": "Thurston County, WA",
+    "fips": "53067"
+  },
+  {
+    "age_15_19": 248,
+    "age_35_plus": 2288,
+    "age_known": 9954,
+    "county": "Whatcom County, WA",
+    "fips": "53073"
+  },
+  {
+    "age_15_19": 1062,
+    "age_35_plus": 2546,
+    "age_known": 16913,
+    "county": "Yakima County, WA",
+    "fips": "53077"
+  },
+  {
+    "age_15_19": 2570,
+    "age_35_plus": 9864,
+    "age_known": 57892,
+    "county": "Unidentified Counties, WA",
+    "fips": "53999"
+  },
+  {
+    "age_15_19": 268,
+    "age_35_plus": 1082,
+    "age_known": 7695,
+    "county": "Berkeley County, WV",
+    "fips": "54003"
+  },
+  {
+    "age_15_19": 518,
+    "age_35_plus": 1022,
+    "age_known": 8369,
+    "county": "Kanawha County, WV",
+    "fips": "54039"
+  },
+  {
+    "age_15_19": 4369,
+    "age_35_plus": 8024,
+    "age_known": 69007,
+    "county": "Unidentified Counties, WV",
+    "fips": "54999"
+  },
+  {
+    "age_15_19": 521,
+    "age_35_plus": 2353,
+    "age_known": 14864,
+    "county": "Brown County, WI",
+    "fips": "55009"
+  },
+  {
+    "age_15_19": 561,
+    "age_35_plus": 6968,
+    "age_known": 27904,
+    "county": "Dane County, WI",
+    "fips": "55025"
+  },
+  {
+    "age_15_19": 169,
+    "age_35_plus": 742,
+    "age_known": 5007,
+    "county": "Fond du Lac County, WI",
+    "fips": "55039"
+  },
+  {
+    "age_15_19": 343,
+    "age_35_plus": 1426,
+    "age_known": 8390,
+    "county": "Kenosha County, WI",
+    "fips": "55059"
+  },
+  {
+    "age_15_19": 121,
+    "age_35_plus": 1008,
+    "age_known": 5581,
+    "county": "La Crosse County, WI",
+    "fips": "55063"
+  },
+  {
+    "age_15_19": 181,
+    "age_35_plus": 1123,
+    "age_known": 7120,
+    "county": "Marathon County, WI",
+    "fips": "55073"
+  },
+  {
+    "age_15_19": 3169,
+    "age_35_plus": 10716,
+    "age_known": 58769,
+    "county": "Milwaukee County, WI",
+    "fips": "55079"
+  },
+  {
+    "age_15_19": 199,
+    "age_35_plus": 1720,
+    "age_known": 10481,
+    "county": "Outagamie County, WI",
+    "fips": "55087"
+  },
+  {
+    "age_15_19": 527,
+    "age_35_plus": 1719,
+    "age_known": 10569,
+    "county": "Racine County, WI",
+    "fips": "55101"
+  },
+  {
+    "age_15_19": 387,
+    "age_35_plus": 1287,
+    "age_known": 9034,
+    "county": "Rock County, WI",
+    "fips": "55105"
+  },
+  {
+    "age_15_19": 143,
+    "age_35_plus": 982,
+    "age_known": 5570,
+    "county": "Sheboygan County, WI",
+    "fips": "55117"
+  },
+  {
+    "age_15_19": 110,
+    "age_35_plus": 791,
+    "age_known": 4444,
+    "county": "Walworth County, WI",
+    "fips": "55127"
+  },
+  {
+    "age_15_19": 72,
+    "age_35_plus": 1258,
+    "age_known": 6216,
+    "county": "Washington County, WI",
+    "fips": "55131"
+  },
+  {
+    "age_15_19": 182,
+    "age_35_plus": 4863,
+    "age_known": 18734,
+    "county": "Waukesha County, WI",
+    "fips": "55133"
+  },
+  {
+    "age_15_19": 220,
+    "age_35_plus": 1395,
+    "age_known": 8447,
+    "county": "Winnebago County, WI",
+    "fips": "55139"
+  },
+  {
+    "age_15_19": 2679,
+    "age_35_plus": 16553,
+    "age_known": 100648,
+    "county": "Unidentified Counties, WI",
+    "fips": "55999"
+  },
+  {
+    "age_15_19": 1451,
+    "age_35_plus": 4538,
+    "age_known": 30492,
+    "county": "Unidentified Counties, WY",
+    "fips": "56999"
+  }
+]

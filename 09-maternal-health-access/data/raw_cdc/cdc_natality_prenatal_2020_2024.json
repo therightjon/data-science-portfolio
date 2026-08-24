@@ -1,0 +1,3758 @@
+[
+  {
+    "county": "Baldwin County, AL",
+    "fips": "01003",
+    "late_or_no_prenatal": 2982,
+    "prenatal_known": 12528
+  },
+  {
+    "county": "Calhoun County, AL",
+    "fips": "01015",
+    "late_or_no_prenatal": 1693,
+    "prenatal_known": 6436
+  },
+  {
+    "county": "Etowah County, AL",
+    "fips": "01055",
+    "late_or_no_prenatal": 1879,
+    "prenatal_known": 5863
+  },
+  {
+    "county": "Houston County, AL",
+    "fips": "01069",
+    "late_or_no_prenatal": 1695,
+    "prenatal_known": 6444
+  },
+  {
+    "county": "Jefferson County, AL",
+    "fips": "01073",
+    "late_or_no_prenatal": 10562,
+    "prenatal_known": 39303
+  },
+  {
+    "county": "Lee County, AL",
+    "fips": "01081",
+    "late_or_no_prenatal": 2156,
+    "prenatal_known": 9681
+  },
+  {
+    "county": "Madison County, AL",
+    "fips": "01089",
+    "late_or_no_prenatal": 7530,
+    "prenatal_known": 22307
+  },
+  {
+    "county": "Mobile County, AL",
+    "fips": "01097",
+    "late_or_no_prenatal": 5724,
+    "prenatal_known": 25188
+  },
+  {
+    "county": "Montgomery County, AL",
+    "fips": "01101",
+    "late_or_no_prenatal": 5435,
+    "prenatal_known": 14646
+  },
+  {
+    "county": "Morgan County, AL",
+    "fips": "01103",
+    "late_or_no_prenatal": 2923,
+    "prenatal_known": 7297
+  },
+  {
+    "county": "Shelby County, AL",
+    "fips": "01117",
+    "late_or_no_prenatal": 2441,
+    "prenatal_known": 11609
+  },
+  {
+    "county": "Tuscaloosa County, AL",
+    "fips": "01125",
+    "late_or_no_prenatal": 4558,
+    "prenatal_known": 12575
+  },
+  {
+    "county": "Unidentified Counties, AL",
+    "fips": "01999",
+    "late_or_no_prenatal": 32262,
+    "prenatal_known": 114850
+  },
+  {
+    "county": "Anchorage Borough, AK",
+    "fips": "02020",
+    "late_or_no_prenatal": 3963,
+    "prenatal_known": 17591
+  },
+  {
+    "county": "Unidentified Counties, AK",
+    "fips": "02999",
+    "late_or_no_prenatal": 7628,
+    "prenatal_known": 27739
+  },
+  {
+    "county": "Cochise County, AZ",
+    "fips": "04003",
+    "late_or_no_prenatal": 2655,
+    "prenatal_known": 6083
+  },
+  {
+    "county": "Coconino County, AZ",
+    "fips": "04005",
+    "late_or_no_prenatal": 1619,
+    "prenatal_known": 6134
+  },
+  {
+    "county": "Maricopa County, AZ",
+    "fips": "04013",
+    "late_or_no_prenatal": 60379,
+    "prenatal_known": 246134
+  },
+  {
+    "county": "Mohave County, AZ",
+    "fips": "04015",
+    "late_or_no_prenatal": 2252,
+    "prenatal_known": 8559
+  },
+  {
+    "county": "Navajo County, AZ",
+    "fips": "04017",
+    "late_or_no_prenatal": 1896,
+    "prenatal_known": 6031
+  },
+  {
+    "county": "Pima County, AZ",
+    "fips": "04019",
+    "late_or_no_prenatal": 15045,
+    "prenatal_known": 48986
+  },
+  {
+    "county": "Pinal County, AZ",
+    "fips": "04021",
+    "late_or_no_prenatal": 5953,
+    "prenatal_known": 24946
+  },
+  {
+    "county": "Yavapai County, AZ",
+    "fips": "04025",
+    "late_or_no_prenatal": 1933,
+    "prenatal_known": 8675
+  },
+  {
+    "county": "Yuma County, AZ",
+    "fips": "04027",
+    "late_or_no_prenatal": 5828,
+    "prenatal_known": 14338
+  },
+  {
+    "county": "Unidentified Counties, AZ",
+    "fips": "04999",
+    "late_or_no_prenatal": 4466,
+    "prenatal_known": 12284
+  },
+  {
+    "county": "Benton County, AR",
+    "fips": "05007",
+    "late_or_no_prenatal": 5029,
+    "prenatal_known": 19027
+  },
+  {
+    "county": "Faulkner County, AR",
+    "fips": "05045",
+    "late_or_no_prenatal": 1685,
+    "prenatal_known": 7378
+  },
+  {
+    "county": "Pulaski County, AR",
+    "fips": "05119",
+    "late_or_no_prenatal": 7085,
+    "prenatal_known": 24255
+  },
+  {
+    "county": "Saline County, AR",
+    "fips": "05125",
+    "late_or_no_prenatal": 1519,
+    "prenatal_known": 6870
+  },
+  {
+    "county": "Sebastian County, AR",
+    "fips": "05131",
+    "late_or_no_prenatal": 2611,
+    "prenatal_known": 7855
+  },
+  {
+    "county": "Washington County, AR",
+    "fips": "05143",
+    "late_or_no_prenatal": 5248,
+    "prenatal_known": 15908
+  },
+  {
+    "county": "Unidentified Counties, AR",
+    "fips": "05999",
+    "late_or_no_prenatal": 26794,
+    "prenatal_known": 94333
+  },
+  {
+    "county": "Alameda County, CA",
+    "fips": "06001",
+    "late_or_no_prenatal": 8881,
+    "prenatal_known": 82595
+  },
+  {
+    "county": "Butte County, CA",
+    "fips": "06007",
+    "late_or_no_prenatal": 2248,
+    "prenatal_known": 9958
+  },
+  {
+    "county": "Contra Costa County, CA",
+    "fips": "06013",
+    "late_or_no_prenatal": 6141,
+    "prenatal_known": 57096
+  },
+  {
+    "county": "El Dorado County, CA",
+    "fips": "06017",
+    "late_or_no_prenatal": 1000,
+    "prenatal_known": 7443
+  },
+  {
+    "county": "Fresno County, CA",
+    "fips": "06019",
+    "late_or_no_prenatal": 11703,
+    "prenatal_known": 65996
+  },
+  {
+    "county": "Humboldt County, CA",
+    "fips": "06023",
+    "late_or_no_prenatal": 1100,
+    "prenatal_known": 5835
+  },
+  {
+    "county": "Imperial County, CA",
+    "fips": "06025",
+    "late_or_no_prenatal": 5275,
+    "prenatal_known": 11315
+  },
+  {
+    "county": "Kern County, CA",
+    "fips": "06029",
+    "late_or_no_prenatal": 10976,
+    "prenatal_known": 56930
+  },
+  {
+    "county": "Kings County, CA",
+    "fips": "06031",
+    "late_or_no_prenatal": 2127,
+    "prenatal_known": 10588
+  },
+  {
+    "county": "Los Angeles County, CA",
+    "fips": "06037",
+    "late_or_no_prenatal": 65223,
+    "prenatal_known": 462777
+  },
+  {
+    "county": "Madera County, CA",
+    "fips": "06039",
+    "late_or_no_prenatal": 2022,
+    "prenatal_known": 10222
+  },
+  {
+    "county": "Marin County, CA",
+    "fips": "06041",
+    "late_or_no_prenatal": 1521,
+    "prenatal_known": 10836
+  },
+  {
+    "county": "Merced County, CA",
+    "fips": "06047",
+    "late_or_no_prenatal": 5017,
+    "prenatal_known": 17852
+  },
+  {
+    "county": "Monterey County, CA",
+    "fips": "06053",
+    "late_or_no_prenatal": 5444,
+    "prenatal_known": 27096
+  },
+  {
+    "county": "Napa County, CA",
+    "fips": "06055",
+    "late_or_no_prenatal": 690,
+    "prenatal_known": 5889
+  },
+  {
+    "county": "Orange County, CA",
+    "fips": "06059",
+    "late_or_no_prenatal": 14708,
+    "prenatal_known": 152841
+  },
+  {
+    "county": "Placer County, CA",
+    "fips": "06061",
+    "late_or_no_prenatal": 2357,
+    "prenatal_known": 18729
+  },
+  {
+    "county": "Riverside County, CA",
+    "fips": "06065",
+    "late_or_no_prenatal": 21804,
+    "prenatal_known": 133778
+  },
+  {
+    "county": "Sacramento County, CA",
+    "fips": "06067",
+    "late_or_no_prenatal": 12015,
+    "prenatal_known": 87686
+  },
+  {
+    "county": "San Bernardino County, CA",
+    "fips": "06071",
+    "late_or_no_prenatal": 20814,
+    "prenatal_known": 123618
+  },
+  {
+    "county": "San Diego County, CA",
+    "fips": "06073",
+    "late_or_no_prenatal": 25047,
+    "prenatal_known": 183043
+  },
+  {
+    "county": "San Francisco County, CA",
+    "fips": "06075",
+    "late_or_no_prenatal": 3673,
+    "prenatal_known": 36069
+  },
+  {
+    "county": "San Joaquin County, CA",
+    "fips": "06077",
+    "late_or_no_prenatal": 7785,
+    "prenatal_known": 45717
+  },
+  {
+    "county": "San Luis Obispo County, CA",
+    "fips": "06079",
+    "late_or_no_prenatal": 2114,
+    "prenatal_known": 11605
+  },
+  {
+    "county": "San Mateo County, CA",
+    "fips": "06081",
+    "late_or_no_prenatal": 2867,
+    "prenatal_known": 36990
+  },
+  {
+    "county": "Santa Barbara County, CA",
+    "fips": "06083",
+    "late_or_no_prenatal": 6761,
+    "prenatal_known": 27219
+  },
+  {
+    "county": "Santa Clara County, CA",
+    "fips": "06085",
+    "late_or_no_prenatal": 9762,
+    "prenatal_known": 93989
+  },
+  {
+    "county": "Santa Cruz County, CA",
+    "fips": "06087",
+    "late_or_no_prenatal": 1325,
+    "prenatal_known": 10737
+  },
+  {
+    "county": "Shasta County, CA",
+    "fips": "06089",
+    "late_or_no_prenatal": 1928,
+    "prenatal_known": 8593
+  },
+  {
+    "county": "Solano County, CA",
+    "fips": "06095",
+    "late_or_no_prenatal": 4050,
+    "prenatal_known": 23796
+  },
+  {
+    "county": "Sonoma County, CA",
+    "fips": "06097",
+    "late_or_no_prenatal": 2472,
+    "prenatal_known": 21761
+  },
+  {
+    "county": "Stanislaus County, CA",
+    "fips": "06099",
+    "late_or_no_prenatal": 4597,
+    "prenatal_known": 32634
+  },
+  {
+    "county": "Tulare County, CA",
+    "fips": "06107",
+    "late_or_no_prenatal": 7364,
+    "prenatal_known": 32764
+  },
+  {
+    "county": "Ventura County, CA",
+    "fips": "06111",
+    "late_or_no_prenatal": 6432,
+    "prenatal_known": 42261
+  },
+  {
+    "county": "Yolo County, CA",
+    "fips": "06113",
+    "late_or_no_prenatal": 1389,
+    "prenatal_known": 9503
+  },
+  {
+    "county": "Unidentified Counties, CA",
+    "fips": "06999",
+    "late_or_no_prenatal": 11199,
+    "prenatal_known": 47351
+  },
+  {
+    "county": "Adams County, CO",
+    "fips": "08001",
+    "late_or_no_prenatal": 6215,
+    "prenatal_known": 30619
+  },
+  {
+    "county": "Arapahoe County, CO",
+    "fips": "08005",
+    "late_or_no_prenatal": 8198,
+    "prenatal_known": 37205
+  },
+  {
+    "county": "Boulder County, CO",
+    "fips": "08013",
+    "late_or_no_prenatal": 1871,
+    "prenatal_known": 12030
+  },
+  {
+    "county": "Denver County, CO",
+    "fips": "08031",
+    "late_or_no_prenatal": 9389,
+    "prenatal_known": 44277
+  },
+  {
+    "county": "Douglas County, CO",
+    "fips": "08035",
+    "late_or_no_prenatal": 2156,
+    "prenatal_known": 18778
+  },
+  {
+    "county": "El Paso County, CO",
+    "fips": "08041",
+    "late_or_no_prenatal": 10849,
+    "prenatal_known": 45035
+  },
+  {
+    "county": "Jefferson County, CO",
+    "fips": "08059",
+    "late_or_no_prenatal": 3886,
+    "prenatal_known": 25134
+  },
+  {
+    "county": "Larimer County, CO",
+    "fips": "08069",
+    "late_or_no_prenatal": 2336,
+    "prenatal_known": 14927
+  },
+  {
+    "county": "Mesa County, CO",
+    "fips": "08077",
+    "late_or_no_prenatal": 1452,
+    "prenatal_known": 7400
+  },
+  {
+    "county": "Pueblo County, CO",
+    "fips": "08101",
+    "late_or_no_prenatal": 2188,
+    "prenatal_known": 8241
+  },
+  {
+    "county": "Weld County, CO",
+    "fips": "08123",
+    "late_or_no_prenatal": 4657,
+    "prenatal_known": 23365
+  },
+  {
+    "county": "Unidentified Counties, CO",
+    "fips": "08999",
+    "late_or_no_prenatal": 8998,
+    "prenatal_known": 39067
+  },
+  {
+    "county": "Fairfield County, CT",
+    "fips": "09001",
+    "late_or_no_prenatal": 9141,
+    "prenatal_known": 49391
+  },
+  {
+    "county": "Hartford County, CT",
+    "fips": "09003",
+    "late_or_no_prenatal": 6446,
+    "prenatal_known": 44075
+  },
+  {
+    "county": "Litchfield County, CT",
+    "fips": "09005",
+    "late_or_no_prenatal": 925,
+    "prenatal_known": 7180
+  },
+  {
+    "county": "Middlesex County, CT",
+    "fips": "09007",
+    "late_or_no_prenatal": 795,
+    "prenatal_known": 6547
+  },
+  {
+    "county": "New Haven County, CT",
+    "fips": "09009",
+    "late_or_no_prenatal": 7497,
+    "prenatal_known": 41888
+  },
+  {
+    "county": "New London County, CT",
+    "fips": "09011",
+    "late_or_no_prenatal": 1542,
+    "prenatal_known": 12405
+  },
+  {
+    "county": "Tolland County, CT",
+    "fips": "09013",
+    "late_or_no_prenatal": 672,
+    "prenatal_known": 5745
+  },
+  {
+    "county": "Windham County, CT",
+    "fips": "09015",
+    "late_or_no_prenatal": 609,
+    "prenatal_known": 5148
+  },
+  {
+    "county": "Kent County, DE",
+    "fips": "10001",
+    "late_or_no_prenatal": 2623,
+    "prenatal_known": 10079
+  },
+  {
+    "county": "New Castle County, DE",
+    "fips": "10003",
+    "late_or_no_prenatal": 4291,
+    "prenatal_known": 29796
+  },
+  {
+    "county": "Sussex County, DE",
+    "fips": "10005",
+    "late_or_no_prenatal": 4126,
+    "prenatal_known": 11581
+  },
+  {
+    "county": "District of Columbia, DC",
+    "fips": "11001",
+    "late_or_no_prenatal": 10994,
+    "prenatal_known": 39418
+  },
+  {
+    "county": "Alachua County, FL",
+    "fips": "12001",
+    "late_or_no_prenatal": 3049,
+    "prenatal_known": 12481
+  },
+  {
+    "county": "Bay County, FL",
+    "fips": "12005",
+    "late_or_no_prenatal": 3570,
+    "prenatal_known": 9960
+  },
+  {
+    "county": "Brevard County, FL",
+    "fips": "12009",
+    "late_or_no_prenatal": 8327,
+    "prenatal_known": 25626
+  },
+  {
+    "county": "Broward County, FL",
+    "fips": "12011",
+    "late_or_no_prenatal": 31361,
+    "prenatal_known": 98706
+  },
+  {
+    "county": "Charlotte County, FL",
+    "fips": "12015",
+    "late_or_no_prenatal": 2033,
+    "prenatal_known": 5300
+  },
+  {
+    "county": "Citrus County, FL",
+    "fips": "12017",
+    "late_or_no_prenatal": 2235,
+    "prenatal_known": 5107
+  },
+  {
+    "county": "Clay County, FL",
+    "fips": "12019",
+    "late_or_no_prenatal": 4262,
+    "prenatal_known": 10767
+  },
+  {
+    "county": "Collier County, FL",
+    "fips": "12021",
+    "late_or_no_prenatal": 5796,
+    "prenatal_known": 16465
+  },
+  {
+    "county": "Duval County, FL",
+    "fips": "12031",
+    "late_or_no_prenatal": 26654,
+    "prenatal_known": 60826
+  },
+  {
+    "county": "Escambia County, FL",
+    "fips": "12033",
+    "late_or_no_prenatal": 6278,
+    "prenatal_known": 18204
+  },
+  {
+    "county": "Hernando County, FL",
+    "fips": "12053",
+    "late_or_no_prenatal": 2316,
+    "prenatal_known": 8259
+  },
+  {
+    "county": "Hillsborough County, FL",
+    "fips": "12057",
+    "late_or_no_prenatal": 23731,
+    "prenatal_known": 83207
+  },
+  {
+    "county": "Indian River County, FL",
+    "fips": "12061",
+    "late_or_no_prenatal": 1721,
+    "prenatal_known": 6095
+  },
+  {
+    "county": "Lake County, FL",
+    "fips": "12069",
+    "late_or_no_prenatal": 5517,
+    "prenatal_known": 17811
+  },
+  {
+    "county": "Lee County, FL",
+    "fips": "12071",
+    "late_or_no_prenatal": 14462,
+    "prenatal_known": 36663
+  },
+  {
+    "county": "Leon County, FL",
+    "fips": "12073",
+    "late_or_no_prenatal": 3297,
+    "prenatal_known": 13320
+  },
+  {
+    "county": "Manatee County, FL",
+    "fips": "12081",
+    "late_or_no_prenatal": 5595,
+    "prenatal_known": 18551
+  },
+  {
+    "county": "Marion County, FL",
+    "fips": "12083",
+    "late_or_no_prenatal": 7350,
+    "prenatal_known": 17561
+  },
+  {
+    "county": "Martin County, FL",
+    "fips": "12085",
+    "late_or_no_prenatal": 1991,
+    "prenatal_known": 6311
+  },
+  {
+    "county": "Miami-Dade County, FL",
+    "fips": "12086",
+    "late_or_no_prenatal": 34894,
+    "prenatal_known": 139344
+  },
+  {
+    "county": "Okaloosa County, FL",
+    "fips": "12091",
+    "late_or_no_prenatal": 3659,
+    "prenatal_known": 12776
+  },
+  {
+    "county": "Orange County, FL",
+    "fips": "12095",
+    "late_or_no_prenatal": 27048,
+    "prenatal_known": 77474
+  },
+  {
+    "county": "Osceola County, FL",
+    "fips": "12097",
+    "late_or_no_prenatal": 6487,
+    "prenatal_known": 23265
+  },
+  {
+    "county": "Palm Beach County, FL",
+    "fips": "12099",
+    "late_or_no_prenatal": 23897,
+    "prenatal_known": 72074
+  },
+  {
+    "county": "Pasco County, FL",
+    "fips": "12101",
+    "late_or_no_prenatal": 6468,
+    "prenatal_known": 26795
+  },
+  {
+    "county": "Pinellas County, FL",
+    "fips": "12103",
+    "late_or_no_prenatal": 7401,
+    "prenatal_known": 34293
+  },
+  {
+    "county": "Polk County, FL",
+    "fips": "12105",
+    "late_or_no_prenatal": 14768,
+    "prenatal_known": 43439
+  },
+  {
+    "county": "St. Johns County, FL",
+    "fips": "12109",
+    "late_or_no_prenatal": 2897,
+    "prenatal_known": 11823
+  },
+  {
+    "county": "St. Lucie County, FL",
+    "fips": "12111",
+    "late_or_no_prenatal": 5976,
+    "prenatal_known": 17439
+  },
+  {
+    "county": "Santa Rosa County, FL",
+    "fips": "12113",
+    "late_or_no_prenatal": 2408,
+    "prenatal_known": 9771
+  },
+  {
+    "county": "Sarasota County, FL",
+    "fips": "12115",
+    "late_or_no_prenatal": 4768,
+    "prenatal_known": 14487
+  },
+  {
+    "county": "Seminole County, FL",
+    "fips": "12117",
+    "late_or_no_prenatal": 6110,
+    "prenatal_known": 21559
+  },
+  {
+    "county": "Volusia County, FL",
+    "fips": "12127",
+    "late_or_no_prenatal": 6877,
+    "prenatal_known": 24043
+  },
+  {
+    "county": "Unidentified Counties, FL",
+    "fips": "12999",
+    "late_or_no_prenatal": 20811,
+    "prenatal_known": 63350
+  },
+  {
+    "county": "Bartow County, GA",
+    "fips": "13015",
+    "late_or_no_prenatal": 1494,
+    "prenatal_known": 6809
+  },
+  {
+    "county": "Bibb County, GA",
+    "fips": "13021",
+    "late_or_no_prenatal": 2955,
+    "prenatal_known": 10187
+  },
+  {
+    "county": "Carroll County, GA",
+    "fips": "13045",
+    "late_or_no_prenatal": 3309,
+    "prenatal_known": 7951
+  },
+  {
+    "county": "Chatham County, GA",
+    "fips": "13051",
+    "late_or_no_prenatal": 5457,
+    "prenatal_known": 17764
+  },
+  {
+    "county": "Cherokee County, GA",
+    "fips": "13057",
+    "late_or_no_prenatal": 3310,
+    "prenatal_known": 14431
+  },
+  {
+    "county": "Clarke County, GA",
+    "fips": "13059",
+    "late_or_no_prenatal": 1363,
+    "prenatal_known": 6565
+  },
+  {
+    "county": "Clayton County, GA",
+    "fips": "13063",
+    "late_or_no_prenatal": 5979,
+    "prenatal_known": 16763
+  },
+  {
+    "county": "Cobb County, GA",
+    "fips": "13067",
+    "late_or_no_prenatal": 10303,
+    "prenatal_known": 43834
+  },
+  {
+    "county": "Columbia County, GA",
+    "fips": "13073",
+    "late_or_no_prenatal": 1794,
+    "prenatal_known": 8342
+  },
+  {
+    "county": "Coweta County, GA",
+    "fips": "13077",
+    "late_or_no_prenatal": 1537,
+    "prenatal_known": 8242
+  },
+  {
+    "county": "DeKalb County, GA",
+    "fips": "13089",
+    "late_or_no_prenatal": 11809,
+    "prenatal_known": 48811
+  },
+  {
+    "county": "Douglas County, GA",
+    "fips": "13097",
+    "late_or_no_prenatal": 2900,
+    "prenatal_known": 8399
+  },
+  {
+    "county": "Fayette County, GA",
+    "fips": "13113",
+    "late_or_no_prenatal": 834,
+    "prenatal_known": 4519
+  },
+  {
+    "county": "Forsyth County, GA",
+    "fips": "13117",
+    "late_or_no_prenatal": 1412,
+    "prenatal_known": 11523
+  },
+  {
+    "county": "Fulton County, GA",
+    "fips": "13121",
+    "late_or_no_prenatal": 14708,
+    "prenatal_known": 60960
+  },
+  {
+    "county": "Gwinnett County, GA",
+    "fips": "13135",
+    "late_or_no_prenatal": 10993,
+    "prenatal_known": 54679
+  },
+  {
+    "county": "Hall County, GA",
+    "fips": "13139",
+    "late_or_no_prenatal": 3975,
+    "prenatal_known": 13649
+  },
+  {
+    "county": "Henry County, GA",
+    "fips": "13151",
+    "late_or_no_prenatal": 3655,
+    "prenatal_known": 13943
+  },
+  {
+    "county": "Houston County, GA",
+    "fips": "13153",
+    "late_or_no_prenatal": 2135,
+    "prenatal_known": 9838
+  },
+  {
+    "county": "Lowndes County, GA",
+    "fips": "13185",
+    "late_or_no_prenatal": 2471,
+    "prenatal_known": 7882
+  },
+  {
+    "county": "Muscogee County, GA",
+    "fips": "13215",
+    "late_or_no_prenatal": 2845,
+    "prenatal_known": 13167
+  },
+  {
+    "county": "Paulding County, GA",
+    "fips": "13223",
+    "late_or_no_prenatal": 2020,
+    "prenatal_known": 9161
+  },
+  {
+    "county": "Richmond County, GA",
+    "fips": "13245",
+    "late_or_no_prenatal": 3980,
+    "prenatal_known": 13733
+  },
+  {
+    "county": "Whitfield County, GA",
+    "fips": "13313",
+    "late_or_no_prenatal": 1947,
+    "prenatal_known": 6184
+  },
+  {
+    "county": "Unidentified Counties, GA",
+    "fips": "13999",
+    "late_or_no_prenatal": 50508,
+    "prenatal_known": 201501
+  },
+  {
+    "county": "Hawaii County, HI",
+    "fips": "15001",
+    "late_or_no_prenatal": 3477,
+    "prenatal_known": 8804
+  },
+  {
+    "county": "Honolulu County, HI",
+    "fips": "15003",
+    "late_or_no_prenatal": 16574,
+    "prenatal_known": 53020
+  },
+  {
+    "county": "Maui County, HI",
+    "fips": "15009",
+    "late_or_no_prenatal": 1126,
+    "prenatal_known": 6111
+  },
+  {
+    "county": "Unidentified Counties, HI",
+    "fips": "15999",
+    "late_or_no_prenatal": 737,
+    "prenatal_known": 3727
+  },
+  {
+    "county": "Ada County, ID",
+    "fips": "16001",
+    "late_or_no_prenatal": 2918,
+    "prenatal_known": 25145
+  },
+  {
+    "county": "Bonneville County, ID",
+    "fips": "16019",
+    "late_or_no_prenatal": 1808,
+    "prenatal_known": 8960
+  },
+  {
+    "county": "Canyon County, ID",
+    "fips": "16027",
+    "late_or_no_prenatal": 2820,
+    "prenatal_known": 16629
+  },
+  {
+    "county": "Kootenai County, ID",
+    "fips": "16055",
+    "late_or_no_prenatal": 1783,
+    "prenatal_known": 9582
+  },
+  {
+    "county": "Unidentified Counties, ID",
+    "fips": "16999",
+    "late_or_no_prenatal": 10589,
+    "prenatal_known": 50854
+  },
+  {
+    "county": "Champaign County, IL",
+    "fips": "17019",
+    "late_or_no_prenatal": 1883,
+    "prenatal_known": 9959
+  },
+  {
+    "county": "Cook County, IL",
+    "fips": "17031",
+    "late_or_no_prenatal": 64988,
+    "prenatal_known": 254474
+  },
+  {
+    "county": "DeKalb County, IL",
+    "fips": "17037",
+    "late_or_no_prenatal": 827,
+    "prenatal_known": 5082
+  },
+  {
+    "county": "DuPage County, IL",
+    "fips": "17043",
+    "late_or_no_prenatal": 8809,
+    "prenatal_known": 47528
+  },
+  {
+    "county": "Kane County, IL",
+    "fips": "17089",
+    "late_or_no_prenatal": 5741,
+    "prenatal_known": 27398
+  },
+  {
+    "county": "Kankakee County, IL",
+    "fips": "17091",
+    "late_or_no_prenatal": 1355,
+    "prenatal_known": 5613
+  },
+  {
+    "county": "Kendall County, IL",
+    "fips": "17093",
+    "late_or_no_prenatal": 1224,
+    "prenatal_known": 7436
+  },
+  {
+    "county": "Lake County, IL",
+    "fips": "17097",
+    "late_or_no_prenatal": 7023,
+    "prenatal_known": 32775
+  },
+  {
+    "county": "LaSalle County, IL",
+    "fips": "17099",
+    "late_or_no_prenatal": 982,
+    "prenatal_known": 5420
+  },
+  {
+    "county": "McHenry County, IL",
+    "fips": "17111",
+    "late_or_no_prenatal": 2919,
+    "prenatal_known": 15169
+  },
+  {
+    "county": "McLean County, IL",
+    "fips": "17113",
+    "late_or_no_prenatal": 1266,
+    "prenatal_known": 8120
+  },
+  {
+    "county": "Macon County, IL",
+    "fips": "17115",
+    "late_or_no_prenatal": 1316,
+    "prenatal_known": 5680
+  },
+  {
+    "county": "Madison County, IL",
+    "fips": "17119",
+    "late_or_no_prenatal": 3042,
+    "prenatal_known": 12975
+  },
+  {
+    "county": "Peoria County, IL",
+    "fips": "17143",
+    "late_or_no_prenatal": 2336,
+    "prenatal_known": 10493
+  },
+  {
+    "county": "Rock Island County, IL",
+    "fips": "17161",
+    "late_or_no_prenatal": 1808,
+    "prenatal_known": 7637
+  },
+  {
+    "county": "St. Clair County, IL",
+    "fips": "17163",
+    "late_or_no_prenatal": 3350,
+    "prenatal_known": 12898
+  },
+  {
+    "county": "Sangamon County, IL",
+    "fips": "17167",
+    "late_or_no_prenatal": 1533,
+    "prenatal_known": 10078
+  },
+  {
+    "county": "Tazewell County, IL",
+    "fips": "17179",
+    "late_or_no_prenatal": 868,
+    "prenatal_known": 6284
+  },
+  {
+    "county": "Will County, IL",
+    "fips": "17197",
+    "late_or_no_prenatal": 6848,
+    "prenatal_known": 34040
+  },
+  {
+    "county": "Winnebago County, IL",
+    "fips": "17201",
+    "late_or_no_prenatal": 3135,
+    "prenatal_known": 16077
+  },
+  {
+    "county": "Unidentified Counties, IL",
+    "fips": "17999",
+    "late_or_no_prenatal": 18557,
+    "prenatal_known": 96950
+  },
+  {
+    "county": "Allen County, IN",
+    "fips": "18003",
+    "late_or_no_prenatal": 7342,
+    "prenatal_known": 25889
+  },
+  {
+    "county": "Clark County, IN",
+    "fips": "18019",
+    "late_or_no_prenatal": 1355,
+    "prenatal_known": 7217
+  },
+  {
+    "county": "Delaware County, IN",
+    "fips": "18035",
+    "late_or_no_prenatal": 863,
+    "prenatal_known": 5365
+  },
+  {
+    "county": "Elkhart County, IN",
+    "fips": "18039",
+    "late_or_no_prenatal": 4589,
+    "prenatal_known": 14447
+  },
+  {
+    "county": "Hamilton County, IN",
+    "fips": "18057",
+    "late_or_no_prenatal": 2627,
+    "prenatal_known": 19431
+  },
+  {
+    "county": "Hendricks County, IN",
+    "fips": "18063",
+    "late_or_no_prenatal": 1551,
+    "prenatal_known": 9216
+  },
+  {
+    "county": "Johnson County, IN",
+    "fips": "18081",
+    "late_or_no_prenatal": 1628,
+    "prenatal_known": 9496
+  },
+  {
+    "county": "Lake County, IN",
+    "fips": "18089",
+    "late_or_no_prenatal": 7710,
+    "prenatal_known": 26085
+  },
+  {
+    "county": "La Porte County, IN",
+    "fips": "18091",
+    "late_or_no_prenatal": 1890,
+    "prenatal_known": 5544
+  },
+  {
+    "county": "Madison County, IN",
+    "fips": "18095",
+    "late_or_no_prenatal": 1430,
+    "prenatal_known": 7151
+  },
+  {
+    "county": "Marion County, IN",
+    "fips": "18097",
+    "late_or_no_prenatal": 24696,
+    "prenatal_known": 70749
+  },
+  {
+    "county": "Monroe County, IN",
+    "fips": "18105",
+    "late_or_no_prenatal": 936,
+    "prenatal_known": 5253
+  },
+  {
+    "county": "Porter County, IN",
+    "fips": "18127",
+    "late_or_no_prenatal": 1733,
+    "prenatal_known": 7920
+  },
+  {
+    "county": "St. Joseph County, IN",
+    "fips": "18141",
+    "late_or_no_prenatal": 4500,
+    "prenatal_known": 15942
+  },
+  {
+    "county": "Tippecanoe County, IN",
+    "fips": "18157",
+    "late_or_no_prenatal": 2121,
+    "prenatal_known": 9669
+  },
+  {
+    "county": "Vanderburgh County, IN",
+    "fips": "18163",
+    "late_or_no_prenatal": 1867,
+    "prenatal_known": 10663
+  },
+  {
+    "county": "Vigo County, IN",
+    "fips": "18167",
+    "late_or_no_prenatal": 1096,
+    "prenatal_known": 5539
+  },
+  {
+    "county": "Unidentified Counties, IN",
+    "fips": "18999",
+    "late_or_no_prenatal": 31413,
+    "prenatal_known": 141152
+  },
+  {
+    "county": "Black Hawk County, IA",
+    "fips": "19013",
+    "late_or_no_prenatal": 1721,
+    "prenatal_known": 7908
+  },
+  {
+    "county": "Johnson County, IA",
+    "fips": "19103",
+    "late_or_no_prenatal": 1387,
+    "prenatal_known": 8269
+  },
+  {
+    "county": "Linn County, IA",
+    "fips": "19113",
+    "late_or_no_prenatal": 1967,
+    "prenatal_known": 12824
+  },
+  {
+    "county": "Polk County, IA",
+    "fips": "19153",
+    "late_or_no_prenatal": 6031,
+    "prenatal_known": 32031
+  },
+  {
+    "county": "Scott County, IA",
+    "fips": "19163",
+    "late_or_no_prenatal": 1515,
+    "prenatal_known": 9510
+  },
+  {
+    "county": "Woodbury County, IA",
+    "fips": "19193",
+    "late_or_no_prenatal": 1732,
+    "prenatal_known": 7058
+  },
+  {
+    "county": "Unidentified Counties, IA",
+    "fips": "19999",
+    "late_or_no_prenatal": 18872,
+    "prenatal_known": 103860
+  },
+  {
+    "county": "Douglas County, KS",
+    "fips": "20045",
+    "late_or_no_prenatal": 635,
+    "prenatal_known": 4978
+  },
+  {
+    "county": "Johnson County, KS",
+    "fips": "20091",
+    "late_or_no_prenatal": 3798,
+    "prenatal_known": 34289
+  },
+  {
+    "county": "Sedgwick County, KS",
+    "fips": "20173",
+    "late_or_no_prenatal": 4066,
+    "prenatal_known": 32635
+  },
+  {
+    "county": "Shawnee County, KS",
+    "fips": "20177",
+    "late_or_no_prenatal": 1915,
+    "prenatal_known": 9634
+  },
+  {
+    "county": "Wyandotte County, KS",
+    "fips": "20209",
+    "late_or_no_prenatal": 3633,
+    "prenatal_known": 11725
+  },
+  {
+    "county": "Unidentified Counties, KS",
+    "fips": "20999",
+    "late_or_no_prenatal": 13789,
+    "prenatal_known": 77154
+  },
+  {
+    "county": "Boone County, KY",
+    "fips": "21015",
+    "late_or_no_prenatal": 1856,
+    "prenatal_known": 8481
+  },
+  {
+    "county": "Fayette County, KY",
+    "fips": "21067",
+    "late_or_no_prenatal": 3786,
+    "prenatal_known": 18218
+  },
+  {
+    "county": "Hardin County, KY",
+    "fips": "21093",
+    "late_or_no_prenatal": 1711,
+    "prenatal_known": 6503
+  },
+  {
+    "county": "Jefferson County, KY",
+    "fips": "21111",
+    "late_or_no_prenatal": 10980,
+    "prenatal_known": 46964
+  },
+  {
+    "county": "Kenton County, KY",
+    "fips": "21117",
+    "late_or_no_prenatal": 2444,
+    "prenatal_known": 10841
+  },
+  {
+    "county": "Warren County, KY",
+    "fips": "21227",
+    "late_or_no_prenatal": 2830,
+    "prenatal_known": 8704
+  },
+  {
+    "county": "Unidentified Counties, KY",
+    "fips": "21999",
+    "late_or_no_prenatal": 32281,
+    "prenatal_known": 157409
+  },
+  {
+    "county": "Ascension Parish, LA",
+    "fips": "22005",
+    "late_or_no_prenatal": 2200,
+    "prenatal_known": 8101
+  },
+  {
+    "county": "Bossier Parish, LA",
+    "fips": "22015",
+    "late_or_no_prenatal": 1851,
+    "prenatal_known": 7868
+  },
+  {
+    "county": "Caddo Parish, LA",
+    "fips": "22017",
+    "late_or_no_prenatal": 3896,
+    "prenatal_known": 13825
+  },
+  {
+    "county": "Calcasieu Parish, LA",
+    "fips": "22019",
+    "late_or_no_prenatal": 1725,
+    "prenatal_known": 11436
+  },
+  {
+    "county": "East Baton Rouge Parish, LA",
+    "fips": "22033",
+    "late_or_no_prenatal": 8894,
+    "prenatal_known": 26770
+  },
+  {
+    "county": "Jefferson Parish, LA",
+    "fips": "22051",
+    "late_or_no_prenatal": 8311,
+    "prenatal_known": 26036
+  },
+  {
+    "county": "Lafayette Parish, LA",
+    "fips": "22055",
+    "late_or_no_prenatal": 2372,
+    "prenatal_known": 16351
+  },
+  {
+    "county": "Livingston Parish, LA",
+    "fips": "22063",
+    "late_or_no_prenatal": 2458,
+    "prenatal_known": 9253
+  },
+  {
+    "county": "Orleans Parish, LA",
+    "fips": "22071",
+    "late_or_no_prenatal": 6685,
+    "prenatal_known": 20014
+  },
+  {
+    "county": "Ouachita Parish, LA",
+    "fips": "22073",
+    "late_or_no_prenatal": 3578,
+    "prenatal_known": 8692
+  },
+  {
+    "county": "Rapides Parish, LA",
+    "fips": "22079",
+    "late_or_no_prenatal": 675,
+    "prenatal_known": 7992
+  },
+  {
+    "county": "St. Tammany Parish, LA",
+    "fips": "22103",
+    "late_or_no_prenatal": 3246,
+    "prenatal_known": 14390
+  },
+  {
+    "county": "Tangipahoa Parish, LA",
+    "fips": "22105",
+    "late_or_no_prenatal": 2442,
+    "prenatal_known": 9562
+  },
+  {
+    "county": "Terrebonne Parish, LA",
+    "fips": "22109",
+    "late_or_no_prenatal": 1637,
+    "prenatal_known": 6427
+  },
+  {
+    "county": "Unidentified Counties, LA",
+    "fips": "22999",
+    "late_or_no_prenatal": 20897,
+    "prenatal_known": 86340
+  },
+  {
+    "county": "Androscoggin County, ME",
+    "fips": "23001",
+    "late_or_no_prenatal": 1392,
+    "prenatal_known": 5631
+  },
+  {
+    "county": "Cumberland County, ME",
+    "fips": "23005",
+    "late_or_no_prenatal": 2090,
+    "prenatal_known": 13822
+  },
+  {
+    "county": "Kennebec County, ME",
+    "fips": "23011",
+    "late_or_no_prenatal": 831,
+    "prenatal_known": 5220
+  },
+  {
+    "county": "Penobscot County, ME",
+    "fips": "23019",
+    "late_or_no_prenatal": 796,
+    "prenatal_known": 6351
+  },
+  {
+    "county": "York County, ME",
+    "fips": "23031",
+    "late_or_no_prenatal": 1266,
+    "prenatal_known": 9055
+  },
+  {
+    "county": "Unidentified Counties, ME",
+    "fips": "23999",
+    "late_or_no_prenatal": 2893,
+    "prenatal_known": 18292
+  },
+  {
+    "county": "Anne Arundel County, MD",
+    "fips": "24003",
+    "late_or_no_prenatal": 6253,
+    "prenatal_known": 32721
+  },
+  {
+    "county": "Baltimore County, MD",
+    "fips": "24005",
+    "late_or_no_prenatal": 10189,
+    "prenatal_known": 44721
+  },
+  {
+    "county": "Carroll County, MD",
+    "fips": "24013",
+    "late_or_no_prenatal": 1279,
+    "prenatal_known": 8389
+  },
+  {
+    "county": "Cecil County, MD",
+    "fips": "24015",
+    "late_or_no_prenatal": 1156,
+    "prenatal_known": 5187
+  },
+  {
+    "county": "Charles County, MD",
+    "fips": "24017",
+    "late_or_no_prenatal": 2262,
+    "prenatal_known": 8610
+  },
+  {
+    "county": "Frederick County, MD",
+    "fips": "24021",
+    "late_or_no_prenatal": 2726,
+    "prenatal_known": 15374
+  },
+  {
+    "county": "Harford County, MD",
+    "fips": "24025",
+    "late_or_no_prenatal": 1794,
+    "prenatal_known": 12464
+  },
+  {
+    "county": "Howard County, MD",
+    "fips": "24027",
+    "late_or_no_prenatal": 2882,
+    "prenatal_known": 14927
+  },
+  {
+    "county": "Montgomery County, MD",
+    "fips": "24031",
+    "late_or_no_prenatal": 14990,
+    "prenatal_known": 54053
+  },
+  {
+    "county": "Prince George's County, MD",
+    "fips": "24033",
+    "late_or_no_prenatal": 18375,
+    "prenatal_known": 49879
+  },
+  {
+    "county": "St. Mary's County, MD",
+    "fips": "24037",
+    "late_or_no_prenatal": 1291,
+    "prenatal_known": 6696
+  },
+  {
+    "county": "Washington County, MD",
+    "fips": "24043",
+    "late_or_no_prenatal": 1668,
+    "prenatal_known": 7985
+  },
+  {
+    "county": "Baltimore city, MD",
+    "fips": "24510",
+    "late_or_no_prenatal": 10230,
+    "prenatal_known": 34416
+  },
+  {
+    "county": "Unidentified Counties, MD",
+    "fips": "24999",
+    "late_or_no_prenatal": 5491,
+    "prenatal_known": 27514
+  },
+  {
+    "county": "Barnstable County, MA",
+    "fips": "25001",
+    "late_or_no_prenatal": 1557,
+    "prenatal_known": 7352
+  },
+  {
+    "county": "Berkshire County, MA",
+    "fips": "25003",
+    "late_or_no_prenatal": 763,
+    "prenatal_known": 4456
+  },
+  {
+    "county": "Bristol County, MA",
+    "fips": "25005",
+    "late_or_no_prenatal": 5584,
+    "prenatal_known": 27910
+  },
+  {
+    "county": "Essex County, MA",
+    "fips": "25009",
+    "late_or_no_prenatal": 6787,
+    "prenatal_known": 42189
+  },
+  {
+    "county": "Hampden County, MA",
+    "fips": "25013",
+    "late_or_no_prenatal": 5438,
+    "prenatal_known": 23412
+  },
+  {
+    "county": "Hampshire County, MA",
+    "fips": "25015",
+    "late_or_no_prenatal": 788,
+    "prenatal_known": 4451
+  },
+  {
+    "county": "Middlesex County, MA",
+    "fips": "25017",
+    "late_or_no_prenatal": 11754,
+    "prenatal_known": 78306
+  },
+  {
+    "county": "Norfolk County, MA",
+    "fips": "25021",
+    "late_or_no_prenatal": 4473,
+    "prenatal_known": 34466
+  },
+  {
+    "county": "Plymouth County, MA",
+    "fips": "25023",
+    "late_or_no_prenatal": 4746,
+    "prenatal_known": 26138
+  },
+  {
+    "county": "Suffolk County, MA",
+    "fips": "25025",
+    "late_or_no_prenatal": 8575,
+    "prenatal_known": 40906
+  },
+  {
+    "county": "Worcester County, MA",
+    "fips": "25027",
+    "late_or_no_prenatal": 6164,
+    "prenatal_known": 41867
+  },
+  {
+    "county": "Unidentified Counties, MA",
+    "fips": "25999",
+    "late_or_no_prenatal": 763,
+    "prenatal_known": 3930
+  },
+  {
+    "county": "Allegan County, MI",
+    "fips": "26005",
+    "late_or_no_prenatal": 1028,
+    "prenatal_known": 6028
+  },
+  {
+    "county": "Bay County, MI",
+    "fips": "26017",
+    "late_or_no_prenatal": 887,
+    "prenatal_known": 4440
+  },
+  {
+    "county": "Berrien County, MI",
+    "fips": "26021",
+    "late_or_no_prenatal": 1795,
+    "prenatal_known": 7389
+  },
+  {
+    "county": "Calhoun County, MI",
+    "fips": "26025",
+    "late_or_no_prenatal": 2116,
+    "prenatal_known": 7283
+  },
+  {
+    "county": "Eaton County, MI",
+    "fips": "26045",
+    "late_or_no_prenatal": 1240,
+    "prenatal_known": 5031
+  },
+  {
+    "county": "Genesee County, MI",
+    "fips": "26049",
+    "late_or_no_prenatal": 6035,
+    "prenatal_known": 20856
+  },
+  {
+    "county": "Ingham County, MI",
+    "fips": "26065",
+    "late_or_no_prenatal": 4134,
+    "prenatal_known": 13930
+  },
+  {
+    "county": "Jackson County, MI",
+    "fips": "26075",
+    "late_or_no_prenatal": 1479,
+    "prenatal_known": 7974
+  },
+  {
+    "county": "Kalamazoo County, MI",
+    "fips": "26077",
+    "late_or_no_prenatal": 2487,
+    "prenatal_known": 13228
+  },
+  {
+    "county": "Kent County, MI",
+    "fips": "26081",
+    "late_or_no_prenatal": 9171,
+    "prenatal_known": 40323
+  },
+  {
+    "county": "Livingston County, MI",
+    "fips": "26093",
+    "late_or_no_prenatal": 994,
+    "prenatal_known": 8458
+  },
+  {
+    "county": "Macomb County, MI",
+    "fips": "26099",
+    "late_or_no_prenatal": 6853,
+    "prenatal_known": 42177
+  },
+  {
+    "county": "Monroe County, MI",
+    "fips": "26115",
+    "late_or_no_prenatal": 1302,
+    "prenatal_known": 7397
+  },
+  {
+    "county": "Muskegon County, MI",
+    "fips": "26121",
+    "late_or_no_prenatal": 2488,
+    "prenatal_known": 9231
+  },
+  {
+    "county": "Oakland County, MI",
+    "fips": "26125",
+    "late_or_no_prenatal": 8202,
+    "prenatal_known": 61292
+  },
+  {
+    "county": "Ottawa County, MI",
+    "fips": "26139",
+    "late_or_no_prenatal": 2581,
+    "prenatal_known": 15425
+  },
+  {
+    "county": "Saginaw County, MI",
+    "fips": "26145",
+    "late_or_no_prenatal": 2107,
+    "prenatal_known": 9299
+  },
+  {
+    "county": "St. Clair County, MI",
+    "fips": "26147",
+    "late_or_no_prenatal": 1238,
+    "prenatal_known": 7150
+  },
+  {
+    "county": "Washtenaw County, MI",
+    "fips": "26161",
+    "late_or_no_prenatal": 2773,
+    "prenatal_known": 15687
+  },
+  {
+    "county": "Wayne County, MI",
+    "fips": "26163",
+    "late_or_no_prenatal": 22898,
+    "prenatal_known": 99976
+  },
+  {
+    "county": "Unidentified Counties, MI",
+    "fips": "26999",
+    "late_or_no_prenatal": 23962,
+    "prenatal_known": 99310
+  },
+  {
+    "county": "Anoka County, MN",
+    "fips": "27003",
+    "late_or_no_prenatal": 3231,
+    "prenatal_known": 19987
+  },
+  {
+    "county": "Dakota County, MN",
+    "fips": "27037",
+    "late_or_no_prenatal": 3990,
+    "prenatal_known": 24327
+  },
+  {
+    "county": "Hennepin County, MN",
+    "fips": "27053",
+    "late_or_no_prenatal": 13664,
+    "prenatal_known": 71639
+  },
+  {
+    "county": "Olmsted County, MN",
+    "fips": "27109",
+    "late_or_no_prenatal": 1128,
+    "prenatal_known": 9602
+  },
+  {
+    "county": "Ramsey County, MN",
+    "fips": "27123",
+    "late_or_no_prenatal": 7225,
+    "prenatal_known": 32681
+  },
+  {
+    "county": "St. Louis County, MN",
+    "fips": "27137",
+    "late_or_no_prenatal": 960,
+    "prenatal_known": 8761
+  },
+  {
+    "county": "Scott County, MN",
+    "fips": "27139",
+    "late_or_no_prenatal": 1191,
+    "prenatal_known": 8281
+  },
+  {
+    "county": "Stearns County, MN",
+    "fips": "27145",
+    "late_or_no_prenatal": 1883,
+    "prenatal_known": 9987
+  },
+  {
+    "county": "Washington County, MN",
+    "fips": "27163",
+    "late_or_no_prenatal": 1779,
+    "prenatal_known": 13675
+  },
+  {
+    "county": "Wright County, MN",
+    "fips": "27171",
+    "late_or_no_prenatal": 1344,
+    "prenatal_known": 9177
+  },
+  {
+    "county": "Unidentified Counties, MN",
+    "fips": "27999",
+    "late_or_no_prenatal": 16733,
+    "prenatal_known": 105414
+  },
+  {
+    "county": "DeSoto County, MS",
+    "fips": "28033",
+    "late_or_no_prenatal": 3023,
+    "prenatal_known": 10932
+  },
+  {
+    "county": "Harrison County, MS",
+    "fips": "28047",
+    "late_or_no_prenatal": 2537,
+    "prenatal_known": 11824
+  },
+  {
+    "county": "Hinds County, MS",
+    "fips": "28049",
+    "late_or_no_prenatal": 3305,
+    "prenatal_known": 12743
+  },
+  {
+    "county": "Jackson County, MS",
+    "fips": "28059",
+    "late_or_no_prenatal": 1167,
+    "prenatal_known": 7475
+  },
+  {
+    "county": "Rankin County, MS",
+    "fips": "28121",
+    "late_or_no_prenatal": 1704,
+    "prenatal_known": 8596
+  },
+  {
+    "county": "Unidentified Counties, MS",
+    "fips": "28999",
+    "late_or_no_prenatal": 27367,
+    "prenatal_known": 119171
+  },
+  {
+    "county": "Boone County, MO",
+    "fips": "29019",
+    "late_or_no_prenatal": 1575,
+    "prenatal_known": 9550
+  },
+  {
+    "county": "Clay County, MO",
+    "fips": "29047",
+    "late_or_no_prenatal": 2874,
+    "prenatal_known": 14511
+  },
+  {
+    "county": "Franklin County, MO",
+    "fips": "29071",
+    "late_or_no_prenatal": 903,
+    "prenatal_known": 5527
+  },
+  {
+    "county": "Greene County, MO",
+    "fips": "29077",
+    "late_or_no_prenatal": 4002,
+    "prenatal_known": 16140
+  },
+  {
+    "county": "Jackson County, MO",
+    "fips": "29095",
+    "late_or_no_prenatal": 12056,
+    "prenatal_known": 42384
+  },
+  {
+    "county": "Jasper County, MO",
+    "fips": "29097",
+    "late_or_no_prenatal": 1698,
+    "prenatal_known": 7736
+  },
+  {
+    "county": "Jefferson County, MO",
+    "fips": "29099",
+    "late_or_no_prenatal": 2678,
+    "prenatal_known": 11536
+  },
+  {
+    "county": "St. Charles County, MO",
+    "fips": "29183",
+    "late_or_no_prenatal": 3602,
+    "prenatal_known": 19959
+  },
+  {
+    "county": "St. Louis County, MO",
+    "fips": "29189",
+    "late_or_no_prenatal": 12634,
+    "prenatal_known": 48940
+  },
+  {
+    "county": "St. Louis city, MO",
+    "fips": "29510",
+    "late_or_no_prenatal": 6017,
+    "prenatal_known": 16248
+  },
+  {
+    "county": "Unidentified Counties, MO",
+    "fips": "29999",
+    "late_or_no_prenatal": 32000,
+    "prenatal_known": 142807
+  },
+  {
+    "county": "Missoula County, MT",
+    "fips": "30063",
+    "late_or_no_prenatal": 701,
+    "prenatal_known": 5353
+  },
+  {
+    "county": "Yellowstone County, MT",
+    "fips": "30111",
+    "late_or_no_prenatal": 1647,
+    "prenatal_known": 9145
+  },
+  {
+    "county": "Unidentified Counties, MT",
+    "fips": "30999",
+    "late_or_no_prenatal": 8973,
+    "prenatal_known": 41033
+  },
+  {
+    "county": "Douglas County, NE",
+    "fips": "31055",
+    "late_or_no_prenatal": 8479,
+    "prenatal_known": 38730
+  },
+  {
+    "county": "Lancaster County, NE",
+    "fips": "31109",
+    "late_or_no_prenatal": 3457,
+    "prenatal_known": 18121
+  },
+  {
+    "county": "Sarpy County, NE",
+    "fips": "31153",
+    "late_or_no_prenatal": 1881,
+    "prenatal_known": 11726
+  },
+  {
+    "county": "Unidentified Counties, NE",
+    "fips": "31999",
+    "late_or_no_prenatal": 10172,
+    "prenatal_known": 51683
+  },
+  {
+    "county": "Clark County, NV",
+    "fips": "32003",
+    "late_or_no_prenatal": 23771,
+    "prenatal_known": 120863
+  },
+  {
+    "county": "Washoe County, NV",
+    "fips": "32031",
+    "late_or_no_prenatal": 7487,
+    "prenatal_known": 23689
+  },
+  {
+    "county": "Unidentified Counties, NV",
+    "fips": "32999",
+    "late_or_no_prenatal": 5265,
+    "prenatal_known": 16295
+  },
+  {
+    "county": "Hillsborough County, NH",
+    "fips": "33011",
+    "late_or_no_prenatal": 3151,
+    "prenatal_known": 20625
+  },
+  {
+    "county": "Merrimack County, NH",
+    "fips": "33013",
+    "late_or_no_prenatal": 757,
+    "prenatal_known": 6428
+  },
+  {
+    "county": "Rockingham County, NH",
+    "fips": "33015",
+    "late_or_no_prenatal": 1543,
+    "prenatal_known": 13656
+  },
+  {
+    "county": "Strafford County, NH",
+    "fips": "33017",
+    "late_or_no_prenatal": 870,
+    "prenatal_known": 5727
+  },
+  {
+    "county": "Unidentified Counties, NH",
+    "fips": "33999",
+    "late_or_no_prenatal": 1984,
+    "prenatal_known": 13180
+  },
+  {
+    "county": "Atlantic County, NJ",
+    "fips": "34001",
+    "late_or_no_prenatal": 3379,
+    "prenatal_known": 13646
+  },
+  {
+    "county": "Bergen County, NJ",
+    "fips": "34003",
+    "late_or_no_prenatal": 6976,
+    "prenatal_known": 44640
+  },
+  {
+    "county": "Burlington County, NJ",
+    "fips": "34005",
+    "late_or_no_prenatal": 4101,
+    "prenatal_known": 22760
+  },
+  {
+    "county": "Camden County, NJ",
+    "fips": "34007",
+    "late_or_no_prenatal": 6481,
+    "prenatal_known": 29430
+  },
+  {
+    "county": "Cumberland County, NJ",
+    "fips": "34011",
+    "late_or_no_prenatal": 2895,
+    "prenatal_known": 9021
+  },
+  {
+    "county": "Essex County, NJ",
+    "fips": "34013",
+    "late_or_no_prenatal": 17555,
+    "prenatal_known": 48405
+  },
+  {
+    "county": "Gloucester County, NJ",
+    "fips": "34015",
+    "late_or_no_prenatal": 2318,
+    "prenatal_known": 14526
+  },
+  {
+    "county": "Hudson County, NJ",
+    "fips": "34017",
+    "late_or_no_prenatal": 10421,
+    "prenatal_known": 45070
+  },
+  {
+    "county": "Hunterdon County, NJ",
+    "fips": "34019",
+    "late_or_no_prenatal": 710,
+    "prenatal_known": 5291
+  },
+  {
+    "county": "Mercer County, NJ",
+    "fips": "34021",
+    "late_or_no_prenatal": 7220,
+    "prenatal_known": 20338
+  },
+  {
+    "county": "Middlesex County, NJ",
+    "fips": "34023",
+    "late_or_no_prenatal": 10362,
+    "prenatal_known": 42067
+  },
+  {
+    "county": "Monmouth County, NJ",
+    "fips": "34025",
+    "late_or_no_prenatal": 5556,
+    "prenatal_known": 31047
+  },
+  {
+    "county": "Morris County, NJ",
+    "fips": "34027",
+    "late_or_no_prenatal": 3915,
+    "prenatal_known": 24307
+  },
+  {
+    "county": "Ocean County, NJ",
+    "fips": "34029",
+    "late_or_no_prenatal": 11653,
+    "prenatal_known": 50833
+  },
+  {
+    "county": "Passaic County, NJ",
+    "fips": "34031",
+    "late_or_no_prenatal": 8313,
+    "prenatal_known": 30849
+  },
+  {
+    "county": "Somerset County, NJ",
+    "fips": "34035",
+    "late_or_no_prenatal": 3302,
+    "prenatal_known": 15817
+  },
+  {
+    "county": "Sussex County, NJ",
+    "fips": "34037",
+    "late_or_no_prenatal": 1045,
+    "prenatal_known": 6855
+  },
+  {
+    "county": "Union County, NJ",
+    "fips": "34039",
+    "late_or_no_prenatal": 9862,
+    "prenatal_known": 32531
+  },
+  {
+    "county": "Warren County, NJ",
+    "fips": "34041",
+    "late_or_no_prenatal": 925,
+    "prenatal_known": 5205
+  },
+  {
+    "county": "Unidentified Counties, NJ",
+    "fips": "34999",
+    "late_or_no_prenatal": 1654,
+    "prenatal_known": 6977
+  },
+  {
+    "county": "Bernalillo County, NM",
+    "fips": "35001",
+    "late_or_no_prenatal": 7233,
+    "prenatal_known": 30790
+  },
+  {
+    "county": "Dona Ana County, NM",
+    "fips": "35013",
+    "late_or_no_prenatal": 4381,
+    "prenatal_known": 12718
+  },
+  {
+    "county": "Sandoval County, NM",
+    "fips": "35043",
+    "late_or_no_prenatal": 1569,
+    "prenatal_known": 6335
+  },
+  {
+    "county": "San Juan County, NM",
+    "fips": "35045",
+    "late_or_no_prenatal": 1880,
+    "prenatal_known": 6220
+  },
+  {
+    "county": "Santa Fe County, NM",
+    "fips": "35049",
+    "late_or_no_prenatal": 1650,
+    "prenatal_known": 5464
+  },
+  {
+    "county": "Unidentified Counties, NM",
+    "fips": "35999",
+    "late_or_no_prenatal": 15046,
+    "prenatal_known": 42467
+  },
+  {
+    "county": "Albany County, NY",
+    "fips": "36001",
+    "late_or_no_prenatal": 2759,
+    "prenatal_known": 13716
+  },
+  {
+    "county": "Bronx County, NY",
+    "fips": "36005",
+    "late_or_no_prenatal": 28625,
+    "prenatal_known": 82294
+  },
+  {
+    "county": "Broome County, NY",
+    "fips": "36007",
+    "late_or_no_prenatal": 1910,
+    "prenatal_known": 8724
+  },
+  {
+    "county": "Chautauqua County, NY",
+    "fips": "36013",
+    "late_or_no_prenatal": 1237,
+    "prenatal_known": 5080
+  },
+  {
+    "county": "Dutchess County, NY",
+    "fips": "36027",
+    "late_or_no_prenatal": 2284,
+    "prenatal_known": 12672
+  },
+  {
+    "county": "Erie County, NY",
+    "fips": "36029",
+    "late_or_no_prenatal": 6107,
+    "prenatal_known": 42821
+  },
+  {
+    "county": "Jefferson County, NY",
+    "fips": "36045",
+    "late_or_no_prenatal": 1575,
+    "prenatal_known": 8194
+  },
+  {
+    "county": "Kings County, NY",
+    "fips": "36047",
+    "late_or_no_prenatal": 36543,
+    "prenatal_known": 163539
+  },
+  {
+    "county": "Monroe County, NY",
+    "fips": "36055",
+    "late_or_no_prenatal": 6008,
+    "prenatal_known": 35500
+  },
+  {
+    "county": "Nassau County, NY",
+    "fips": "36059",
+    "late_or_no_prenatal": 7065,
+    "prenatal_known": 66559
+  },
+  {
+    "county": "New York County, NY",
+    "fips": "36061",
+    "late_or_no_prenatal": 14083,
+    "prenatal_known": 68417
+  },
+  {
+    "county": "Niagara County, NY",
+    "fips": "36063",
+    "late_or_no_prenatal": 1669,
+    "prenatal_known": 9208
+  },
+  {
+    "county": "Oneida County, NY",
+    "fips": "36065",
+    "late_or_no_prenatal": 2808,
+    "prenatal_known": 11372
+  },
+  {
+    "county": "Onondaga County, NY",
+    "fips": "36067",
+    "late_or_no_prenatal": 3927,
+    "prenatal_known": 23182
+  },
+  {
+    "county": "Ontario County, NY",
+    "fips": "36069",
+    "late_or_no_prenatal": 775,
+    "prenatal_known": 4688
+  },
+  {
+    "county": "Orange County, NY",
+    "fips": "36071",
+    "late_or_no_prenatal": 6709,
+    "prenatal_known": 27278
+  },
+  {
+    "county": "Oswego County, NY",
+    "fips": "36075",
+    "late_or_no_prenatal": 900,
+    "prenatal_known": 5577
+  },
+  {
+    "county": "Queens County, NY",
+    "fips": "36081",
+    "late_or_no_prenatal": 26076,
+    "prenatal_known": 118179
+  },
+  {
+    "county": "Rensselaer County, NY",
+    "fips": "36083",
+    "late_or_no_prenatal": 1170,
+    "prenatal_known": 7506
+  },
+  {
+    "county": "Richmond County, NY",
+    "fips": "36085",
+    "late_or_no_prenatal": 2554,
+    "prenatal_known": 24727
+  },
+  {
+    "county": "Rockland County, NY",
+    "fips": "36087",
+    "late_or_no_prenatal": 7162,
+    "prenatal_known": 31337
+  },
+  {
+    "county": "St. Lawrence County, NY",
+    "fips": "36089",
+    "late_or_no_prenatal": 1036,
+    "prenatal_known": 4482
+  },
+  {
+    "county": "Saratoga County, NY",
+    "fips": "36091",
+    "late_or_no_prenatal": 1093,
+    "prenatal_known": 9921
+  },
+  {
+    "county": "Schenectady County, NY",
+    "fips": "36093",
+    "late_or_no_prenatal": 1767,
+    "prenatal_known": 8652
+  },
+  {
+    "county": "Suffolk County, NY",
+    "fips": "36103",
+    "late_or_no_prenatal": 11814,
+    "prenatal_known": 74949
+  },
+  {
+    "county": "Tompkins County, NY",
+    "fips": "36109",
+    "late_or_no_prenatal": 458,
+    "prenatal_known": 3243
+  },
+  {
+    "county": "Ulster County, NY",
+    "fips": "36111",
+    "late_or_no_prenatal": 1713,
+    "prenatal_known": 7197
+  },
+  {
+    "county": "Westchester County, NY",
+    "fips": "36119",
+    "late_or_no_prenatal": 9254,
+    "prenatal_known": 48406
+  },
+  {
+    "county": "Unidentified Counties, NY",
+    "fips": "36999",
+    "late_or_no_prenatal": 17488,
+    "prenatal_known": 82257
+  },
+  {
+    "county": "Alamance County, NC",
+    "fips": "37001",
+    "late_or_no_prenatal": 2636,
+    "prenatal_known": 9514
+  },
+  {
+    "county": "Brunswick County, NC",
+    "fips": "37019",
+    "late_or_no_prenatal": 1282,
+    "prenatal_known": 5721
+  },
+  {
+    "county": "Buncombe County, NC",
+    "fips": "37021",
+    "late_or_no_prenatal": 1360,
+    "prenatal_known": 11707
+  },
+  {
+    "county": "Cabarrus County, NC",
+    "fips": "37025",
+    "late_or_no_prenatal": 2718,
+    "prenatal_known": 13251
+  },
+  {
+    "county": "Catawba County, NC",
+    "fips": "37035",
+    "late_or_no_prenatal": 1699,
+    "prenatal_known": 8281
+  },
+  {
+    "county": "Craven County, NC",
+    "fips": "37049",
+    "late_or_no_prenatal": 1832,
+    "prenatal_known": 6328
+  },
+  {
+    "county": "Cumberland County, NC",
+    "fips": "37051",
+    "late_or_no_prenatal": 7406,
+    "prenatal_known": 25688
+  },
+  {
+    "county": "Davidson County, NC",
+    "fips": "37057",
+    "late_or_no_prenatal": 1918,
+    "prenatal_known": 8846
+  },
+  {
+    "county": "Durham County, NC",
+    "fips": "37063",
+    "late_or_no_prenatal": 5814,
+    "prenatal_known": 20392
+  },
+  {
+    "county": "Forsyth County, NC",
+    "fips": "37067",
+    "late_or_no_prenatal": 5871,
+    "prenatal_known": 22029
+  },
+  {
+    "county": "Gaston County, NC",
+    "fips": "37071",
+    "late_or_no_prenatal": 3682,
+    "prenatal_known": 13601
+  },
+  {
+    "county": "Guilford County, NC",
+    "fips": "37081",
+    "late_or_no_prenatal": 8729,
+    "prenatal_known": 28886
+  },
+  {
+    "county": "Harnett County, NC",
+    "fips": "37085",
+    "late_or_no_prenatal": 2841,
+    "prenatal_known": 9218
+  },
+  {
+    "county": "Henderson County, NC",
+    "fips": "37089",
+    "late_or_no_prenatal": 700,
+    "prenatal_known": 5014
+  },
+  {
+    "county": "Iredell County, NC",
+    "fips": "37097",
+    "late_or_no_prenatal": 2758,
+    "prenatal_known": 10048
+  },
+  {
+    "county": "Johnston County, NC",
+    "fips": "37101",
+    "late_or_no_prenatal": 3012,
+    "prenatal_known": 13874
+  },
+  {
+    "county": "Mecklenburg County, NC",
+    "fips": "37119",
+    "late_or_no_prenatal": 22049,
+    "prenatal_known": 75249
+  },
+  {
+    "county": "New Hanover County, NC",
+    "fips": "37129",
+    "late_or_no_prenatal": 3282,
+    "prenatal_known": 10817
+  },
+  {
+    "county": "Onslow County, NC",
+    "fips": "37133",
+    "late_or_no_prenatal": 6545,
+    "prenatal_known": 18564
+  },
+  {
+    "county": "Orange County, NC",
+    "fips": "37135",
+    "late_or_no_prenatal": 1156,
+    "prenatal_known": 5616
+  },
+  {
+    "county": "Pitt County, NC",
+    "fips": "37147",
+    "late_or_no_prenatal": 1964,
+    "prenatal_known": 10130
+  },
+  {
+    "county": "Randolph County, NC",
+    "fips": "37151",
+    "late_or_no_prenatal": 1628,
+    "prenatal_known": 7764
+  },
+  {
+    "county": "Robeson County, NC",
+    "fips": "37155",
+    "late_or_no_prenatal": 3458,
+    "prenatal_known": 9259
+  },
+  {
+    "county": "Rowan County, NC",
+    "fips": "37159",
+    "late_or_no_prenatal": 2052,
+    "prenatal_known": 7940
+  },
+  {
+    "county": "Union County, NC",
+    "fips": "37179",
+    "late_or_no_prenatal": 3108,
+    "prenatal_known": 12587
+  },
+  {
+    "county": "Wake County, NC",
+    "fips": "37183",
+    "late_or_no_prenatal": 18108,
+    "prenatal_known": 64938
+  },
+  {
+    "county": "Wayne County, NC",
+    "fips": "37191",
+    "late_or_no_prenatal": 2611,
+    "prenatal_known": 8037
+  },
+  {
+    "county": "Unidentified Counties, NC",
+    "fips": "37999",
+    "late_or_no_prenatal": 40099,
+    "prenatal_known": 153797
+  },
+  {
+    "county": "Cass County, ND",
+    "fips": "38017",
+    "late_or_no_prenatal": 1375,
+    "prenatal_known": 11600
+  },
+  {
+    "county": "Unidentified Counties, ND",
+    "fips": "38999",
+    "late_or_no_prenatal": 7862,
+    "prenatal_known": 36341
+  },
+  {
+    "county": "Allen County, OH",
+    "fips": "39003",
+    "late_or_no_prenatal": 1036,
+    "prenatal_known": 5992
+  },
+  {
+    "county": "Ashtabula County, OH",
+    "fips": "39007",
+    "late_or_no_prenatal": 2026,
+    "prenatal_known": 4969
+  },
+  {
+    "county": "Butler County, OH",
+    "fips": "39017",
+    "late_or_no_prenatal": 5075,
+    "prenatal_known": 21238
+  },
+  {
+    "county": "Clark County, OH",
+    "fips": "39023",
+    "late_or_no_prenatal": 2719,
+    "prenatal_known": 7896
+  },
+  {
+    "county": "Clermont County, OH",
+    "fips": "39025",
+    "late_or_no_prenatal": 2151,
+    "prenatal_known": 10965
+  },
+  {
+    "county": "Columbiana County, OH",
+    "fips": "39029",
+    "late_or_no_prenatal": 912,
+    "prenatal_known": 4739
+  },
+  {
+    "county": "Cuyahoga County, OH",
+    "fips": "39035",
+    "late_or_no_prenatal": 13412,
+    "prenatal_known": 64154
+  },
+  {
+    "county": "Delaware County, OH",
+    "fips": "39041",
+    "late_or_no_prenatal": 1206,
+    "prenatal_known": 10590
+  },
+  {
+    "county": "Fairfield County, OH",
+    "fips": "39045",
+    "late_or_no_prenatal": 1515,
+    "prenatal_known": 8242
+  },
+  {
+    "county": "Franklin County, OH",
+    "fips": "39049",
+    "late_or_no_prenatal": 20708,
+    "prenatal_known": 85403
+  },
+  {
+    "county": "Greene County, OH",
+    "fips": "39057",
+    "late_or_no_prenatal": 1605,
+    "prenatal_known": 8389
+  },
+  {
+    "county": "Hamilton County, OH",
+    "fips": "39061",
+    "late_or_no_prenatal": 12584,
+    "prenatal_known": 50898
+  },
+  {
+    "county": "Lake County, OH",
+    "fips": "39085",
+    "late_or_no_prenatal": 2065,
+    "prenatal_known": 10314
+  },
+  {
+    "county": "Licking County, OH",
+    "fips": "39089",
+    "late_or_no_prenatal": 1823,
+    "prenatal_known": 9208
+  },
+  {
+    "county": "Lorain County, OH",
+    "fips": "39093",
+    "late_or_no_prenatal": 3213,
+    "prenatal_known": 15658
+  },
+  {
+    "county": "Lucas County, OH",
+    "fips": "39095",
+    "late_or_no_prenatal": 5814,
+    "prenatal_known": 24013
+  },
+  {
+    "county": "Mahoning County, OH",
+    "fips": "39099",
+    "late_or_no_prenatal": 1605,
+    "prenatal_known": 11472
+  },
+  {
+    "county": "Medina County, OH",
+    "fips": "39103",
+    "late_or_no_prenatal": 1307,
+    "prenatal_known": 8172
+  },
+  {
+    "county": "Miami County, OH",
+    "fips": "39109",
+    "late_or_no_prenatal": 1033,
+    "prenatal_known": 5665
+  },
+  {
+    "county": "Montgomery County, OH",
+    "fips": "39113",
+    "late_or_no_prenatal": 7649,
+    "prenatal_known": 30214
+  },
+  {
+    "county": "Portage County, OH",
+    "fips": "39133",
+    "late_or_no_prenatal": 1300,
+    "prenatal_known": 6742
+  },
+  {
+    "county": "Richland County, OH",
+    "fips": "39139",
+    "late_or_no_prenatal": 1721,
+    "prenatal_known": 6688
+  },
+  {
+    "county": "Stark County, OH",
+    "fips": "39151",
+    "late_or_no_prenatal": 4614,
+    "prenatal_known": 19451
+  },
+  {
+    "county": "Summit County, OH",
+    "fips": "39153",
+    "late_or_no_prenatal": 6286,
+    "prenatal_known": 26927
+  },
+  {
+    "county": "Trumbull County, OH",
+    "fips": "39155",
+    "late_or_no_prenatal": 2371,
+    "prenatal_known": 9739
+  },
+  {
+    "county": "Warren County, OH",
+    "fips": "39165",
+    "late_or_no_prenatal": 2369,
+    "prenatal_known": 12009
+  },
+  {
+    "county": "Wayne County, OH",
+    "fips": "39169",
+    "late_or_no_prenatal": 2271,
+    "prenatal_known": 6938
+  },
+  {
+    "county": "Wood County, OH",
+    "fips": "39173",
+    "late_or_no_prenatal": 981,
+    "prenatal_known": 6136
+  },
+  {
+    "county": "Unidentified Counties, OH",
+    "fips": "39999",
+    "late_or_no_prenatal": 31086,
+    "prenatal_known": 143218
+  },
+  {
+    "county": "Canadian County, OK",
+    "fips": "40017",
+    "late_or_no_prenatal": 1715,
+    "prenatal_known": 10099
+  },
+  {
+    "county": "Cleveland County, OK",
+    "fips": "40027",
+    "late_or_no_prenatal": 2535,
+    "prenatal_known": 13421
+  },
+  {
+    "county": "Comanche County, OK",
+    "fips": "40031",
+    "late_or_no_prenatal": 2524,
+    "prenatal_known": 7904
+  },
+  {
+    "county": "Oklahoma County, OK",
+    "fips": "40109",
+    "late_or_no_prenatal": 11389,
+    "prenatal_known": 53578
+  },
+  {
+    "county": "Tulsa County, OK",
+    "fips": "40143",
+    "late_or_no_prenatal": 11422,
+    "prenatal_known": 42798
+  },
+  {
+    "county": "Unidentified Counties, OK",
+    "fips": "40999",
+    "late_or_no_prenatal": 25642,
+    "prenatal_known": 108931
+  },
+  {
+    "county": "Clackamas County, OR",
+    "fips": "41005",
+    "late_or_no_prenatal": 2740,
+    "prenatal_known": 18467
+  },
+  {
+    "county": "Deschutes County, OR",
+    "fips": "41017",
+    "late_or_no_prenatal": 1244,
+    "prenatal_known": 9247
+  },
+  {
+    "county": "Douglas County, OR",
+    "fips": "41019",
+    "late_or_no_prenatal": 694,
+    "prenatal_known": 4892
+  },
+  {
+    "county": "Jackson County, OR",
+    "fips": "41029",
+    "late_or_no_prenatal": 1737,
+    "prenatal_known": 10333
+  },
+  {
+    "county": "Lane County, OR",
+    "fips": "41039",
+    "late_or_no_prenatal": 2623,
+    "prenatal_known": 14683
+  },
+  {
+    "county": "Linn County, OR",
+    "fips": "41043",
+    "late_or_no_prenatal": 993,
+    "prenatal_known": 7135
+  },
+  {
+    "county": "Marion County, OR",
+    "fips": "41047",
+    "late_or_no_prenatal": 3724,
+    "prenatal_known": 19507
+  },
+  {
+    "county": "Multnomah County, OR",
+    "fips": "41051",
+    "late_or_no_prenatal": 6856,
+    "prenatal_known": 36013
+  },
+  {
+    "county": "Washington County, OR",
+    "fips": "41067",
+    "late_or_no_prenatal": 4999,
+    "prenatal_known": 29909
+  },
+  {
+    "county": "Unidentified Counties, OR",
+    "fips": "41999",
+    "late_or_no_prenatal": 8369,
+    "prenatal_known": 45784
+  },
+  {
+    "county": "Adams County, PA",
+    "fips": "42001",
+    "late_or_no_prenatal": 964,
+    "prenatal_known": 4480
+  },
+  {
+    "county": "Allegheny County, PA",
+    "fips": "42003",
+    "late_or_no_prenatal": 9871,
+    "prenatal_known": 56859
+  },
+  {
+    "county": "Beaver County, PA",
+    "fips": "42007",
+    "late_or_no_prenatal": 1381,
+    "prenatal_known": 7201
+  },
+  {
+    "county": "Berks County, PA",
+    "fips": "42011",
+    "late_or_no_prenatal": 3851,
+    "prenatal_known": 22183
+  },
+  {
+    "county": "Blair County, PA",
+    "fips": "42013",
+    "late_or_no_prenatal": 1005,
+    "prenatal_known": 5616
+  },
+  {
+    "county": "Bucks County, PA",
+    "fips": "42017",
+    "late_or_no_prenatal": 5065,
+    "prenatal_known": 26768
+  },
+  {
+    "county": "Butler County, PA",
+    "fips": "42019",
+    "late_or_no_prenatal": 1434,
+    "prenatal_known": 8367
+  },
+  {
+    "county": "Cambria County, PA",
+    "fips": "42021",
+    "late_or_no_prenatal": 976,
+    "prenatal_known": 5774
+  },
+  {
+    "county": "Centre County, PA",
+    "fips": "42027",
+    "late_or_no_prenatal": 1141,
+    "prenatal_known": 5341
+  },
+  {
+    "county": "Chester County, PA",
+    "fips": "42029",
+    "late_or_no_prenatal": 5248,
+    "prenatal_known": 27040
+  },
+  {
+    "county": "Cumberland County, PA",
+    "fips": "42041",
+    "late_or_no_prenatal": 3271,
+    "prenatal_known": 13016
+  },
+  {
+    "county": "Dauphin County, PA",
+    "fips": "42043",
+    "late_or_no_prenatal": 4126,
+    "prenatal_known": 16156
+  },
+  {
+    "county": "Delaware County, PA",
+    "fips": "42045",
+    "late_or_no_prenatal": 6692,
+    "prenatal_known": 30431
+  },
+  {
+    "county": "Erie County, PA",
+    "fips": "42049",
+    "late_or_no_prenatal": 2124,
+    "prenatal_known": 12594
+  },
+  {
+    "county": "Fayette County, PA",
+    "fips": "42051",
+    "late_or_no_prenatal": 1362,
+    "prenatal_known": 5509
+  },
+  {
+    "county": "Franklin County, PA",
+    "fips": "42055",
+    "late_or_no_prenatal": 1690,
+    "prenatal_known": 8292
+  },
+  {
+    "county": "Lackawanna County, PA",
+    "fips": "42069",
+    "late_or_no_prenatal": 2091,
+    "prenatal_known": 9791
+  },
+  {
+    "county": "Lancaster County, PA",
+    "fips": "42071",
+    "late_or_no_prenatal": 10850,
+    "prenatal_known": 33458
+  },
+  {
+    "county": "Lebanon County, PA",
+    "fips": "42075",
+    "late_or_no_prenatal": 1759,
+    "prenatal_known": 7640
+  },
+  {
+    "county": "Lehigh County, PA",
+    "fips": "42077",
+    "late_or_no_prenatal": 3410,
+    "prenatal_known": 19311
+  },
+  {
+    "county": "Luzerne County, PA",
+    "fips": "42079",
+    "late_or_no_prenatal": 3898,
+    "prenatal_known": 15724
+  },
+  {
+    "county": "Lycoming County, PA",
+    "fips": "42081",
+    "late_or_no_prenatal": 1096,
+    "prenatal_known": 5419
+  },
+  {
+    "county": "Mercer County, PA",
+    "fips": "42085",
+    "late_or_no_prenatal": 1285,
+    "prenatal_known": 4769
+  },
+  {
+    "county": "Monroe County, PA",
+    "fips": "42089",
+    "late_or_no_prenatal": 1378,
+    "prenatal_known": 6602
+  },
+  {
+    "county": "Montgomery County, PA",
+    "fips": "42091",
+    "late_or_no_prenatal": 7029,
+    "prenatal_known": 40225
+  },
+  {
+    "county": "Northampton County, PA",
+    "fips": "42095",
+    "late_or_no_prenatal": 2042,
+    "prenatal_known": 13700
+  },
+  {
+    "county": "Philadelphia County, PA",
+    "fips": "42101",
+    "late_or_no_prenatal": 29955,
+    "prenatal_known": 90693
+  },
+  {
+    "county": "Schuylkill County, PA",
+    "fips": "42107",
+    "late_or_no_prenatal": 1202,
+    "prenatal_known": 6189
+  },
+  {
+    "county": "Washington County, PA",
+    "fips": "42125",
+    "late_or_no_prenatal": 1710,
+    "prenatal_known": 9385
+  },
+  {
+    "county": "Westmoreland County, PA",
+    "fips": "42129",
+    "late_or_no_prenatal": 2265,
+    "prenatal_known": 13886
+  },
+  {
+    "county": "York County, PA",
+    "fips": "42133",
+    "late_or_no_prenatal": 4662,
+    "prenatal_known": 23555
+  },
+  {
+    "county": "Unidentified Counties, PA",
+    "fips": "42999",
+    "late_or_no_prenatal": 18679,
+    "prenatal_known": 73421
+  },
+  {
+    "county": "Kent County, RI",
+    "fips": "44003",
+    "late_or_no_prenatal": 827,
+    "prenatal_known": 7174
+  },
+  {
+    "county": "Providence County, RI",
+    "fips": "44007",
+    "late_or_no_prenatal": 5752,
+    "prenatal_known": 33889
+  },
+  {
+    "county": "Washington County, RI",
+    "fips": "44009",
+    "late_or_no_prenatal": 411,
+    "prenatal_known": 4166
+  },
+  {
+    "county": "Unidentified Counties, RI",
+    "fips": "44999",
+    "late_or_no_prenatal": 647,
+    "prenatal_known": 4816
+  },
+  {
+    "county": "Aiken County, SC",
+    "fips": "45003",
+    "late_or_no_prenatal": 2448,
+    "prenatal_known": 9570
+  },
+  {
+    "county": "Anderson County, SC",
+    "fips": "45007",
+    "late_or_no_prenatal": 2192,
+    "prenatal_known": 11530
+  },
+  {
+    "county": "Beaufort County, SC",
+    "fips": "45013",
+    "late_or_no_prenatal": 3119,
+    "prenatal_known": 9333
+  },
+  {
+    "county": "Berkeley County, SC",
+    "fips": "45015",
+    "late_or_no_prenatal": 3438,
+    "prenatal_known": 15106
+  },
+  {
+    "county": "Charleston County, SC",
+    "fips": "45019",
+    "late_or_no_prenatal": 5114,
+    "prenatal_known": 24857
+  },
+  {
+    "county": "Dorchester County, SC",
+    "fips": "45035",
+    "late_or_no_prenatal": 2351,
+    "prenatal_known": 9966
+  },
+  {
+    "county": "Florence County, SC",
+    "fips": "45041",
+    "late_or_no_prenatal": 1847,
+    "prenatal_known": 7873
+  },
+  {
+    "county": "Greenville County, SC",
+    "fips": "45045",
+    "late_or_no_prenatal": 7810,
+    "prenatal_known": 32621
+  },
+  {
+    "county": "Horry County, SC",
+    "fips": "45051",
+    "late_or_no_prenatal": 4824,
+    "prenatal_known": 16532
+  },
+  {
+    "county": "Lexington County, SC",
+    "fips": "45063",
+    "late_or_no_prenatal": 3912,
+    "prenatal_known": 16279
+  },
+  {
+    "county": "Pickens County, SC",
+    "fips": "45077",
+    "late_or_no_prenatal": 1004,
+    "prenatal_known": 6130
+  },
+  {
+    "county": "Richland County, SC",
+    "fips": "45079",
+    "late_or_no_prenatal": 7106,
+    "prenatal_known": 22653
+  },
+  {
+    "county": "Spartanburg County, SC",
+    "fips": "45083",
+    "late_or_no_prenatal": 5780,
+    "prenatal_known": 20813
+  },
+  {
+    "county": "Sumter County, SC",
+    "fips": "45085",
+    "late_or_no_prenatal": 1632,
+    "prenatal_known": 6589
+  },
+  {
+    "county": "York County, SC",
+    "fips": "45091",
+    "late_or_no_prenatal": 3058,
+    "prenatal_known": 14835
+  },
+  {
+    "county": "Unidentified Counties, SC",
+    "fips": "45999",
+    "late_or_no_prenatal": 16403,
+    "prenatal_known": 61883
+  },
+  {
+    "county": "Minnehaha County, SD",
+    "fips": "46099",
+    "late_or_no_prenatal": 2375,
+    "prenatal_known": 13806
+  },
+  {
+    "county": "Pennington County, SD",
+    "fips": "46103",
+    "late_or_no_prenatal": 1673,
+    "prenatal_known": 6991
+  },
+  {
+    "county": "Unidentified Counties, SD",
+    "fips": "46999",
+    "late_or_no_prenatal": 8527,
+    "prenatal_known": 34936
+  },
+  {
+    "county": "Blount County, TN",
+    "fips": "47009",
+    "late_or_no_prenatal": 1360,
+    "prenatal_known": 6555
+  },
+  {
+    "county": "Davidson County, TN",
+    "fips": "47037",
+    "late_or_no_prenatal": 14206,
+    "prenatal_known": 50293
+  },
+  {
+    "county": "Hamilton County, TN",
+    "fips": "47065",
+    "late_or_no_prenatal": 6352,
+    "prenatal_known": 20212
+  },
+  {
+    "county": "Knox County, TN",
+    "fips": "47093",
+    "late_or_no_prenatal": 5537,
+    "prenatal_known": 26718
+  },
+  {
+    "county": "Montgomery County, TN",
+    "fips": "47125",
+    "late_or_no_prenatal": 6064,
+    "prenatal_known": 17944
+  },
+  {
+    "county": "Rutherford County, TN",
+    "fips": "47149",
+    "late_or_no_prenatal": 6060,
+    "prenatal_known": 22130
+  },
+  {
+    "county": "Shelby County, TN",
+    "fips": "47157",
+    "late_or_no_prenatal": 21884,
+    "prenatal_known": 58287
+  },
+  {
+    "county": "Sullivan County, TN",
+    "fips": "47163",
+    "late_or_no_prenatal": 1099,
+    "prenatal_known": 7293
+  },
+  {
+    "county": "Sumner County, TN",
+    "fips": "47165",
+    "late_or_no_prenatal": 3090,
+    "prenatal_known": 11458
+  },
+  {
+    "county": "Washington County, TN",
+    "fips": "47179",
+    "late_or_no_prenatal": 824,
+    "prenatal_known": 6035
+  },
+  {
+    "county": "Williamson County, TN",
+    "fips": "47187",
+    "late_or_no_prenatal": 1664,
+    "prenatal_known": 11352
+  },
+  {
+    "county": "Wilson County, TN",
+    "fips": "47189",
+    "late_or_no_prenatal": 1589,
+    "prenatal_known": 9170
+  },
+  {
+    "county": "Unidentified Counties, TN",
+    "fips": "47999",
+    "late_or_no_prenatal": 36955,
+    "prenatal_known": 153927
+  },
+  {
+    "county": "Bell County, TX",
+    "fips": "48027",
+    "late_or_no_prenatal": 8945,
+    "prenatal_known": 30005
+  },
+  {
+    "county": "Bexar County, TX",
+    "fips": "48029",
+    "late_or_no_prenatal": 29960,
+    "prenatal_known": 125583
+  },
+  {
+    "county": "Brazoria County, TX",
+    "fips": "48039",
+    "late_or_no_prenatal": 6228,
+    "prenatal_known": 20877
+  },
+  {
+    "county": "Brazos County, TX",
+    "fips": "48041",
+    "late_or_no_prenatal": 3640,
+    "prenatal_known": 13146
+  },
+  {
+    "county": "Cameron County, TX",
+    "fips": "48061",
+    "late_or_no_prenatal": 6938,
+    "prenatal_known": 29486
+  },
+  {
+    "county": "Collin County, TX",
+    "fips": "48085",
+    "late_or_no_prenatal": 12460,
+    "prenatal_known": 62096
+  },
+  {
+    "county": "Comal County, TX",
+    "fips": "48091",
+    "late_or_no_prenatal": 2256,
+    "prenatal_known": 9401
+  },
+  {
+    "county": "Dallas County, TX",
+    "fips": "48113",
+    "late_or_no_prenatal": 68738,
+    "prenatal_known": 175745
+  },
+  {
+    "county": "Denton County, TX",
+    "fips": "48121",
+    "late_or_no_prenatal": 13410,
+    "prenatal_known": 54517
+  },
+  {
+    "county": "Ector County, TX",
+    "fips": "48135",
+    "late_or_no_prenatal": 3987,
+    "prenatal_known": 14622
+  },
+  {
+    "county": "Ellis County, TX",
+    "fips": "48139",
+    "late_or_no_prenatal": 5104,
+    "prenatal_known": 13124
+  },
+  {
+    "county": "El Paso County, TX",
+    "fips": "48141",
+    "late_or_no_prenatal": 16019,
+    "prenatal_known": 55045
+  },
+  {
+    "county": "Fort Bend County, TX",
+    "fips": "48157",
+    "late_or_no_prenatal": 14862,
+    "prenatal_known": 44396
+  },
+  {
+    "county": "Galveston County, TX",
+    "fips": "48167",
+    "late_or_no_prenatal": 4465,
+    "prenatal_known": 18795
+  },
+  {
+    "county": "Grayson County, TX",
+    "fips": "48181",
+    "late_or_no_prenatal": 2719,
+    "prenatal_known": 8544
+  },
+  {
+    "county": "Gregg County, TX",
+    "fips": "48183",
+    "late_or_no_prenatal": 1936,
+    "prenatal_known": 8232
+  },
+  {
+    "county": "Guadalupe County, TX",
+    "fips": "48187",
+    "late_or_no_prenatal": 2493,
+    "prenatal_known": 10127
+  },
+  {
+    "county": "Harris County, TX",
+    "fips": "48201",
+    "late_or_no_prenatal": 120556,
+    "prenatal_known": 304426
+  },
+  {
+    "county": "Hays County, TX",
+    "fips": "48209",
+    "late_or_no_prenatal": 3249,
+    "prenatal_known": 15726
+  },
+  {
+    "county": "Hidalgo County, TX",
+    "fips": "48215",
+    "late_or_no_prenatal": 23074,
+    "prenatal_known": 68069
+  },
+  {
+    "county": "Jefferson County, TX",
+    "fips": "48245",
+    "late_or_no_prenatal": 4487,
+    "prenatal_known": 15437
+  },
+  {
+    "county": "Johnson County, TX",
+    "fips": "48251",
+    "late_or_no_prenatal": 3914,
+    "prenatal_known": 11916
+  },
+  {
+    "county": "Kaufman County, TX",
+    "fips": "48257",
+    "late_or_no_prenatal": 3773,
+    "prenatal_known": 12494
+  },
+  {
+    "county": "Lubbock County, TX",
+    "fips": "48303",
+    "late_or_no_prenatal": 7933,
+    "prenatal_known": 18991
+  },
+  {
+    "county": "McLennan County, TX",
+    "fips": "48309",
+    "late_or_no_prenatal": 5058,
+    "prenatal_known": 16091
+  },
+  {
+    "county": "Midland County, TX",
+    "fips": "48329",
+    "late_or_no_prenatal": 4267,
+    "prenatal_known": 14975
+  },
+  {
+    "county": "Montgomery County, TX",
+    "fips": "48339",
+    "late_or_no_prenatal": 12462,
+    "prenatal_known": 41172
+  },
+  {
+    "county": "Nueces County, TX",
+    "fips": "48355",
+    "late_or_no_prenatal": 8311,
+    "prenatal_known": 21242
+  },
+  {
+    "county": "Parker County, TX",
+    "fips": "48367",
+    "late_or_no_prenatal": 2194,
+    "prenatal_known": 9282
+  },
+  {
+    "county": "Potter County, TX",
+    "fips": "48375",
+    "late_or_no_prenatal": 2879,
+    "prenatal_known": 7708
+  },
+  {
+    "county": "Randall County, TX",
+    "fips": "48381",
+    "late_or_no_prenatal": 1751,
+    "prenatal_known": 8467
+  },
+  {
+    "county": "Smith County, TX",
+    "fips": "48423",
+    "late_or_no_prenatal": 4137,
+    "prenatal_known": 14743
+  },
+  {
+    "county": "Tarrant County, TX",
+    "fips": "48439",
+    "late_or_no_prenatal": 48379,
+    "prenatal_known": 132175
+  },
+  {
+    "county": "Taylor County, TX",
+    "fips": "48441",
+    "late_or_no_prenatal": 2860,
+    "prenatal_known": 9520
+  },
+  {
+    "county": "Tom Green County, TX",
+    "fips": "48451",
+    "late_or_no_prenatal": 1327,
+    "prenatal_known": 7357
+  },
+  {
+    "county": "Travis County, TX",
+    "fips": "48453",
+    "late_or_no_prenatal": 15977,
+    "prenatal_known": 79000
+  },
+  {
+    "county": "Webb County, TX",
+    "fips": "48479",
+    "late_or_no_prenatal": 6528,
+    "prenatal_known": 21713
+  },
+  {
+    "county": "Wichita County, TX",
+    "fips": "48485",
+    "late_or_no_prenatal": 1431,
+    "prenatal_known": 7615
+  },
+  {
+    "county": "Williamson County, TX",
+    "fips": "48491",
+    "late_or_no_prenatal": 7434,
+    "prenatal_known": 39707
+  },
+  {
+    "county": "Unidentified Counties, TX",
+    "fips": "48999",
+    "late_or_no_prenatal": 85899,
+    "prenatal_known": 280985
+  },
+  {
+    "county": "Cache County, UT",
+    "fips": "49005",
+    "late_or_no_prenatal": 1286,
+    "prenatal_known": 10182
+  },
+  {
+    "county": "Davis County, UT",
+    "fips": "49011",
+    "late_or_no_prenatal": 3581,
+    "prenatal_known": 23317
+  },
+  {
+    "county": "Salt Lake County, UT",
+    "fips": "49035",
+    "late_or_no_prenatal": 15547,
+    "prenatal_known": 72426
+  },
+  {
+    "county": "Utah County, UT",
+    "fips": "49049",
+    "late_or_no_prenatal": 10606,
+    "prenatal_known": 59956
+  },
+  {
+    "county": "Washington County, UT",
+    "fips": "49053",
+    "late_or_no_prenatal": 3807,
+    "prenatal_known": 11576
+  },
+  {
+    "county": "Weber County, UT",
+    "fips": "49057",
+    "late_or_no_prenatal": 2833,
+    "prenatal_known": 17106
+  },
+  {
+    "county": "Unidentified Counties, UT",
+    "fips": "49999",
+    "late_or_no_prenatal": 6001,
+    "prenatal_known": 32008
+  },
+  {
+    "county": "Chittenden County, VT",
+    "fips": "50007",
+    "late_or_no_prenatal": 683,
+    "prenatal_known": 6772
+  },
+  {
+    "county": "Unidentified Counties, VT",
+    "fips": "50999",
+    "late_or_no_prenatal": 2339,
+    "prenatal_known": 18944
+  },
+  {
+    "county": "Arlington County, VA",
+    "fips": "51013",
+    "late_or_no_prenatal": 3379,
+    "prenatal_known": 11626
+  },
+  {
+    "county": "Chesterfield County, VA",
+    "fips": "51041",
+    "late_or_no_prenatal": 3301,
+    "prenatal_known": 20290
+  },
+  {
+    "county": "Fairfax County, VA",
+    "fips": "51059",
+    "late_or_no_prenatal": 13986,
+    "prenatal_known": 59734
+  },
+  {
+    "county": "Henrico County, VA",
+    "fips": "51087",
+    "late_or_no_prenatal": 2167,
+    "prenatal_known": 18186
+  },
+  {
+    "county": "Loudoun County, VA",
+    "fips": "51107",
+    "late_or_no_prenatal": 3773,
+    "prenatal_known": 23135
+  },
+  {
+    "county": "Prince William County, VA",
+    "fips": "51153",
+    "late_or_no_prenatal": 8922,
+    "prenatal_known": 30225
+  },
+  {
+    "county": "Spotsylvania County, VA",
+    "fips": "51177",
+    "late_or_no_prenatal": 1576,
+    "prenatal_known": 7878
+  },
+  {
+    "county": "Stafford County, VA",
+    "fips": "51179",
+    "late_or_no_prenatal": 1898,
+    "prenatal_known": 8983
+  },
+  {
+    "county": "Alexandria city, VA",
+    "fips": "51510",
+    "late_or_no_prenatal": 2443,
+    "prenatal_known": 11020
+  },
+  {
+    "county": "Chesapeake city, VA",
+    "fips": "51550",
+    "late_or_no_prenatal": 1662,
+    "prenatal_known": 13799
+  },
+  {
+    "county": "Hampton city, VA",
+    "fips": "51650",
+    "late_or_no_prenatal": 1730,
+    "prenatal_known": 7657
+  },
+  {
+    "county": "Newport News city, VA",
+    "fips": "51700",
+    "late_or_no_prenatal": 3249,
+    "prenatal_known": 12218
+  },
+  {
+    "county": "Norfolk city, VA",
+    "fips": "51710",
+    "late_or_no_prenatal": 2811,
+    "prenatal_known": 14984
+  },
+  {
+    "county": "Richmond city, VA",
+    "fips": "51760",
+    "late_or_no_prenatal": 3279,
+    "prenatal_known": 14570
+  },
+  {
+    "county": "Virginia Beach city, VA",
+    "fips": "51810",
+    "late_or_no_prenatal": 3666,
+    "prenatal_known": 25225
+  },
+  {
+    "county": "Unidentified Counties, VA",
+    "fips": "51999",
+    "late_or_no_prenatal": 38350,
+    "prenatal_known": 184805
+  },
+  {
+    "county": "Benton County, WA",
+    "fips": "53005",
+    "late_or_no_prenatal": 3059,
+    "prenatal_known": 11920
+  },
+  {
+    "county": "Clark County, WA",
+    "fips": "53011",
+    "late_or_no_prenatal": 6114,
+    "prenatal_known": 26576
+  },
+  {
+    "county": "Cowlitz County, WA",
+    "fips": "53015",
+    "late_or_no_prenatal": 1221,
+    "prenatal_known": 6011
+  },
+  {
+    "county": "King County, WA",
+    "fips": "53033",
+    "late_or_no_prenatal": 22319,
+    "prenatal_known": 103896
+  },
+  {
+    "county": "Kitsap County, WA",
+    "fips": "53035",
+    "late_or_no_prenatal": 3984,
+    "prenatal_known": 13182
+  },
+  {
+    "county": "Pierce County, WA",
+    "fips": "53053",
+    "late_or_no_prenatal": 15991,
+    "prenatal_known": 52506
+  },
+  {
+    "county": "Skagit County, WA",
+    "fips": "53057",
+    "late_or_no_prenatal": 1738,
+    "prenatal_known": 6535
+  },
+  {
+    "county": "Snohomish County, WA",
+    "fips": "53061",
+    "late_or_no_prenatal": 7546,
+    "prenatal_known": 36062
+  },
+  {
+    "county": "Spokane County, WA",
+    "fips": "53063",
+    "late_or_no_prenatal": 4897,
+    "prenatal_known": 25729
+  },
+  {
+    "county": "Thurston County, WA",
+    "fips": "53067",
+    "late_or_no_prenatal": 4070,
+    "prenatal_known": 14136
+  },
+  {
+    "county": "Whatcom County, WA",
+    "fips": "53073",
+    "late_or_no_prenatal": 1992,
+    "prenatal_known": 9764
+  },
+  {
+    "county": "Yakima County, WA",
+    "fips": "53077",
+    "late_or_no_prenatal": 3362,
+    "prenatal_known": 16409
+  },
+  {
+    "county": "Unidentified Counties, WA",
+    "fips": "53999",
+    "late_or_no_prenatal": 12396,
+    "prenatal_known": 55818
+  },
+  {
+    "county": "Berkeley County, WV",
+    "fips": "54003",
+    "late_or_no_prenatal": 1549,
+    "prenatal_known": 7667
+  },
+  {
+    "county": "Kanawha County, WV",
+    "fips": "54039",
+    "late_or_no_prenatal": 1567,
+    "prenatal_known": 8270
+  },
+  {
+    "county": "Unidentified Counties, WV",
+    "fips": "54999",
+    "late_or_no_prenatal": 13501,
+    "prenatal_known": 68364
+  },
+  {
+    "county": "Brown County, WI",
+    "fips": "55009",
+    "late_or_no_prenatal": 1814,
+    "prenatal_known": 14747
+  },
+  {
+    "county": "Dane County, WI",
+    "fips": "55025",
+    "late_or_no_prenatal": 3815,
+    "prenatal_known": 27399
+  },
+  {
+    "county": "Fond du Lac County, WI",
+    "fips": "55039",
+    "late_or_no_prenatal": 823,
+    "prenatal_known": 4896
+  },
+  {
+    "county": "Kenosha County, WI",
+    "fips": "55059",
+    "late_or_no_prenatal": 1383,
+    "prenatal_known": 8276
+  },
+  {
+    "county": "La Crosse County, WI",
+    "fips": "55063",
+    "late_or_no_prenatal": 669,
+    "prenatal_known": 5576
+  },
+  {
+    "county": "Marathon County, WI",
+    "fips": "55073",
+    "late_or_no_prenatal": 1116,
+    "prenatal_known": 7087
+  },
+  {
+    "county": "Milwaukee County, WI",
+    "fips": "55079",
+    "late_or_no_prenatal": 12981,
+    "prenatal_known": 56716
+  },
+  {
+    "county": "Outagamie County, WI",
+    "fips": "55087",
+    "late_or_no_prenatal": 1181,
+    "prenatal_known": 10340
+  },
+  {
+    "county": "Racine County, WI",
+    "fips": "55101",
+    "late_or_no_prenatal": 1946,
+    "prenatal_known": 10420
+  },
+  {
+    "county": "Rock County, WI",
+    "fips": "55105",
+    "late_or_no_prenatal": 1583,
+    "prenatal_known": 8915
+  },
+  {
+    "county": "Sheboygan County, WI",
+    "fips": "55117",
+    "late_or_no_prenatal": 673,
+    "prenatal_known": 5494
+  },
+  {
+    "county": "Walworth County, WI",
+    "fips": "55127",
+    "late_or_no_prenatal": 609,
+    "prenatal_known": 4404
+  },
+  {
+    "county": "Washington County, WI",
+    "fips": "55131",
+    "late_or_no_prenatal": 548,
+    "prenatal_known": 6113
+  },
+  {
+    "county": "Waukesha County, WI",
+    "fips": "55133",
+    "late_or_no_prenatal": 1635,
+    "prenatal_known": 18414
+  },
+  {
+    "county": "Winnebago County, WI",
+    "fips": "55139",
+    "late_or_no_prenatal": 1072,
+    "prenatal_known": 8328
+  },
+  {
+    "county": "Unidentified Counties, WI",
+    "fips": "55999",
+    "late_or_no_prenatal": 18510,
+    "prenatal_known": 99177
+  },
+  {
+    "county": "Unidentified Counties, WY",
+    "fips": "56999",
+    "late_or_no_prenatal": 5897,
+    "prenatal_known": 29908
+  }
+]

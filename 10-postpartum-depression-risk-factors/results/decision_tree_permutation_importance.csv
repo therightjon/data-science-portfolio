@@ -1,0 +1,39 @@
+feature,importance_mean,importance_sd
+Abuse,0.18100566236056007,0.03255661482956645
+Relationship with husband,0.053568643406910095,0.013329542964049697
+Fear of pregnancy,0.0406604957108466,0.017326643158627423
+Education Level,0.007683179059437795,0.011331725589789753
+Relationship with the in-laws,0.006767707591631874,0.010034374673132184
+Need for Support,0.006409995592174352,0.013050052789217746
+Age of immediate older children,0.004348489472078106,0.012976275912206759
+Birth compliancy,0.0,0.0
+Mode of delivery,0.0,0.0
+Age of newborn,0.0,0.0
+Major changes or losses during pregnancy,0.0,0.0
+Breastfeed,0.0,0.0
+Regular checkups,0.0,0.0
+Pregnancy plan,0.0,0.0
+Pregnancy length,0.0,0.0
+Number of the latest pregnancy,0.0,0.0
+Newborn illness,0.0,0.0
+Depression before pregnancy (PHQ2),0.0,0.0
+Trust and share feelings,0.0,0.0
+Diseases during pregnancy,0.0,0.0
+Depression during pregnancy (PHQ2),0.0,0.0
+Residence,0.0,0.0
+Husband's education level,0.0,0.0
+Marital status,0.0,0.0
+Occupation before latest pregnancy,0.0,0.0
+Monthly income before latest pregnancy,0.0,0.0
+Occupation After Your Latest Childbirth,0.0,0.0
+Current monthly income,0.0,0.0
+Husband’s monthly income,0.0,0.0
+Addiction,0.0,0.0
+Total children,0.0,0.0
+Disease before pregnancy,0.0,0.0
+History of pregnancy loss,0.0,0.0
+Number of household members,0.0,0.0
+Family type,-0.0003407588241277626,0.0006614541578738823
+Age,-0.0014783168887533135,0.005458515986032181
+Gender of newborn,-0.001664801817380442,0.007666910428913617
+Recieved Support,-0.008083273997219687,0.009357802041272473

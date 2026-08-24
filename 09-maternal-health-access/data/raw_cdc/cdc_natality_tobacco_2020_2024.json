@@ -1,0 +1,3758 @@
+[
+  {
+    "county": "Baldwin County, AL",
+    "fips": "01003",
+    "tobacco_known": 12547,
+    "tobacco_yes": 514
+  },
+  {
+    "county": "Calhoun County, AL",
+    "fips": "01015",
+    "tobacco_known": 6437,
+    "tobacco_yes": 713
+  },
+  {
+    "county": "Etowah County, AL",
+    "fips": "01055",
+    "tobacco_known": 5865,
+    "tobacco_yes": 443
+  },
+  {
+    "county": "Houston County, AL",
+    "fips": "01069",
+    "tobacco_known": 6448,
+    "tobacco_yes": 412
+  },
+  {
+    "county": "Jefferson County, AL",
+    "fips": "01073",
+    "tobacco_known": 39398,
+    "tobacco_yes": 921
+  },
+  {
+    "county": "Lee County, AL",
+    "fips": "01081",
+    "tobacco_known": 9701,
+    "tobacco_yes": 241
+  },
+  {
+    "county": "Madison County, AL",
+    "fips": "01089",
+    "tobacco_known": 22360,
+    "tobacco_yes": 659
+  },
+  {
+    "county": "Mobile County, AL",
+    "fips": "01097",
+    "tobacco_known": 25226,
+    "tobacco_yes": 1235
+  },
+  {
+    "county": "Montgomery County, AL",
+    "fips": "01101",
+    "tobacco_known": 14691,
+    "tobacco_yes": 378
+  },
+  {
+    "county": "Morgan County, AL",
+    "fips": "01103",
+    "tobacco_known": 7318,
+    "tobacco_yes": 551
+  },
+  {
+    "county": "Shelby County, AL",
+    "fips": "01117",
+    "tobacco_known": 11618,
+    "tobacco_yes": 235
+  },
+  {
+    "county": "Tuscaloosa County, AL",
+    "fips": "01125",
+    "tobacco_known": 12600,
+    "tobacco_yes": 356
+  },
+  {
+    "county": "Unidentified Counties, AL",
+    "fips": "01999",
+    "tobacco_known": 115064,
+    "tobacco_yes": 8225
+  },
+  {
+    "county": "Anchorage Borough, AK",
+    "fips": "02020",
+    "tobacco_known": 17616,
+    "tobacco_yes": 799
+  },
+  {
+    "county": "Unidentified Counties, AK",
+    "fips": "02999",
+    "tobacco_known": 27384,
+    "tobacco_yes": 2295
+  },
+  {
+    "county": "Cochise County, AZ",
+    "fips": "04003",
+    "tobacco_known": 6162,
+    "tobacco_yes": 335
+  },
+  {
+    "county": "Coconino County, AZ",
+    "fips": "04005",
+    "tobacco_known": 6470,
+    "tobacco_yes": 128
+  },
+  {
+    "county": "Maricopa County, AZ",
+    "fips": "04013",
+    "tobacco_known": 251448,
+    "tobacco_yes": 4969
+  },
+  {
+    "county": "Mohave County, AZ",
+    "fips": "04015",
+    "tobacco_known": 8702,
+    "tobacco_yes": 812
+  },
+  {
+    "county": "Navajo County, AZ",
+    "fips": "04017",
+    "tobacco_known": 6157,
+    "tobacco_yes": 292
+  },
+  {
+    "county": "Pima County, AZ",
+    "fips": "04019",
+    "tobacco_known": 49499,
+    "tobacco_yes": 1825
+  },
+  {
+    "county": "Pinal County, AZ",
+    "fips": "04021",
+    "tobacco_known": 25615,
+    "tobacco_yes": 889
+  },
+  {
+    "county": "Yavapai County, AZ",
+    "fips": "04025",
+    "tobacco_known": 8757,
+    "tobacco_yes": 605
+  },
+  {
+    "county": "Yuma County, AZ",
+    "fips": "04027",
+    "tobacco_known": 14410,
+    "tobacco_yes": 225
+  },
+  {
+    "county": "Unidentified Counties, AZ",
+    "fips": "04999",
+    "tobacco_known": 12621,
+    "tobacco_yes": 658
+  },
+  {
+    "county": "Benton County, AR",
+    "fips": "05007",
+    "tobacco_known": 19168,
+    "tobacco_yes": 678
+  },
+  {
+    "county": "Faulkner County, AR",
+    "fips": "05045",
+    "tobacco_known": 7400,
+    "tobacco_yes": 431
+  },
+  {
+    "county": "Pulaski County, AR",
+    "fips": "05119",
+    "tobacco_known": 24398,
+    "tobacco_yes": 766
+  },
+  {
+    "county": "Saline County, AR",
+    "fips": "05125",
+    "tobacco_known": 6898,
+    "tobacco_yes": 413
+  },
+  {
+    "county": "Sebastian County, AR",
+    "fips": "05131",
+    "tobacco_known": 7878,
+    "tobacco_yes": 862
+  },
+  {
+    "county": "Washington County, AR",
+    "fips": "05143",
+    "tobacco_known": 16169,
+    "tobacco_yes": 589
+  },
+  {
+    "county": "Unidentified Counties, AR",
+    "fips": "05999",
+    "tobacco_known": 94800,
+    "tobacco_yes": 10617
+  },
+  {
+    "county": "Alameda County, CA",
+    "fips": "06001",
+    "tobacco_known": 82986,
+    "tobacco_yes": 166
+  },
+  {
+    "county": "Butte County, CA",
+    "fips": "06007",
+    "tobacco_known": 9978,
+    "tobacco_yes": 621
+  },
+  {
+    "county": "Contra Costa County, CA",
+    "fips": "06013",
+    "tobacco_known": 57167,
+    "tobacco_yes": 293
+  },
+  {
+    "county": "El Dorado County, CA",
+    "fips": "06017",
+    "tobacco_known": 7548,
+    "tobacco_yes": 152
+  },
+  {
+    "county": "Fresno County, CA",
+    "fips": "06019",
+    "tobacco_known": 67895,
+    "tobacco_yes": 425
+  },
+  {
+    "county": "Humboldt County, CA",
+    "fips": "06023",
+    "tobacco_known": 5633,
+    "tobacco_yes": 297
+  },
+  {
+    "county": "Imperial County, CA",
+    "fips": "06025",
+    "tobacco_known": 11690,
+    "tobacco_yes": 15
+  },
+  {
+    "county": "Kern County, CA",
+    "fips": "06029",
+    "tobacco_known": 60369,
+    "tobacco_yes": 613
+  },
+  {
+    "county": "Kings County, CA",
+    "fips": "06031",
+    "tobacco_known": 10624,
+    "tobacco_yes": 48
+  },
+  {
+    "county": "Los Angeles County, CA",
+    "fips": "06037",
+    "tobacco_known": 470459,
+    "tobacco_yes": 1547
+  },
+  {
+    "county": "Madera County, CA",
+    "fips": "06039",
+    "tobacco_known": 10568,
+    "tobacco_yes": 62
+  },
+  {
+    "county": "Marin County, CA",
+    "fips": "06041",
+    "tobacco_known": 10844,
+    "tobacco_yes": 21
+  },
+  {
+    "county": "Merced County, CA",
+    "fips": "06047",
+    "tobacco_known": 18824,
+    "tobacco_yes": 45
+  },
+  {
+    "county": "Monterey County, CA",
+    "fips": "06053",
+    "tobacco_known": 27184,
+    "tobacco_yes": 93
+  },
+  {
+    "county": "Napa County, CA",
+    "fips": "06055",
+    "tobacco_known": 5901,
+    "tobacco_yes": 32
+  },
+  {
+    "county": "Orange County, CA",
+    "fips": "06059",
+    "tobacco_known": 153427,
+    "tobacco_yes": 443
+  },
+  {
+    "county": "Placer County, CA",
+    "fips": "06061",
+    "tobacco_known": 18809,
+    "tobacco_yes": 191
+  },
+  {
+    "county": "Riverside County, CA",
+    "fips": "06065",
+    "tobacco_known": 135293,
+    "tobacco_yes": 953
+  },
+  {
+    "county": "Sacramento County, CA",
+    "fips": "06067",
+    "tobacco_known": 89053,
+    "tobacco_yes": 1179
+  },
+  {
+    "county": "San Bernardino County, CA",
+    "fips": "06071",
+    "tobacco_known": 128760,
+    "tobacco_yes": 1341
+  },
+  {
+    "county": "San Diego County, CA",
+    "fips": "06073",
+    "tobacco_known": 183447,
+    "tobacco_yes": 475
+  },
+  {
+    "county": "San Francisco County, CA",
+    "fips": "06075",
+    "tobacco_known": 36271,
+    "tobacco_yes": 240
+  },
+  {
+    "county": "San Joaquin County, CA",
+    "fips": "06077",
+    "tobacco_known": 48561,
+    "tobacco_yes": 455
+  },
+  {
+    "county": "San Luis Obispo County, CA",
+    "fips": "06079",
+    "tobacco_known": 11911,
+    "tobacco_yes": 165
+  },
+  {
+    "county": "San Mateo County, CA",
+    "fips": "06081",
+    "tobacco_known": 37061,
+    "tobacco_yes": 37
+  },
+  {
+    "county": "Santa Barbara County, CA",
+    "fips": "06083",
+    "tobacco_known": 27271,
+    "tobacco_yes": 115
+  },
+  {
+    "county": "Santa Clara County, CA",
+    "fips": "06085",
+    "tobacco_known": 94758,
+    "tobacco_yes": 187
+  },
+  {
+    "county": "Santa Cruz County, CA",
+    "fips": "06087",
+    "tobacco_known": 10914,
+    "tobacco_yes": 69
+  },
+  {
+    "county": "Shasta County, CA",
+    "fips": "06089",
+    "tobacco_known": 8839,
+    "tobacco_yes": 722
+  },
+  {
+    "county": "Solano County, CA",
+    "fips": "06095",
+    "tobacco_known": 23661,
+    "tobacco_yes": 84
+  },
+  {
+    "county": "Sonoma County, CA",
+    "fips": "06097",
+    "tobacco_known": 21982,
+    "tobacco_yes": 108
+  },
+  {
+    "county": "Stanislaus County, CA",
+    "fips": "06099",
+    "tobacco_known": 34851,
+    "tobacco_yes": 546
+  },
+  {
+    "county": "Tulare County, CA",
+    "fips": "06107",
+    "tobacco_known": 33293,
+    "tobacco_yes": 110
+  },
+  {
+    "county": "Ventura County, CA",
+    "fips": "06111",
+    "tobacco_known": 42277,
+    "tobacco_yes": 197
+  },
+  {
+    "county": "Yolo County, CA",
+    "fips": "06113",
+    "tobacco_known": 9487,
+    "tobacco_yes": 67
+  },
+  {
+    "county": "Unidentified Counties, CA",
+    "fips": "06999",
+    "tobacco_known": 47846,
+    "tobacco_yes": 2186
+  },
+  {
+    "county": "Adams County, CO",
+    "fips": "08001",
+    "tobacco_known": 31291,
+    "tobacco_yes": 1086
+  },
+  {
+    "county": "Arapahoe County, CO",
+    "fips": "08005",
+    "tobacco_known": 37791,
+    "tobacco_yes": 1132
+  },
+  {
+    "county": "Boulder County, CO",
+    "fips": "08013",
+    "tobacco_known": 12135,
+    "tobacco_yes": 264
+  },
+  {
+    "county": "Denver County, CO",
+    "fips": "08031",
+    "tobacco_known": 45100,
+    "tobacco_yes": 1224
+  },
+  {
+    "county": "Douglas County, CO",
+    "fips": "08035",
+    "tobacco_known": 19000,
+    "tobacco_yes": 223
+  },
+  {
+    "county": "El Paso County, CO",
+    "fips": "08041",
+    "tobacco_known": 45517,
+    "tobacco_yes": 1027
+  },
+  {
+    "county": "Jefferson County, CO",
+    "fips": "08059",
+    "tobacco_known": 27197,
+    "tobacco_yes": 782
+  },
+  {
+    "county": "Larimer County, CO",
+    "fips": "08069",
+    "tobacco_known": 15095,
+    "tobacco_yes": 575
+  },
+  {
+    "county": "Mesa County, CO",
+    "fips": "08077",
+    "tobacco_known": 7398,
+    "tobacco_yes": 449
+  },
+  {
+    "county": "Pueblo County, CO",
+    "fips": "08101",
+    "tobacco_known": 8393,
+    "tobacco_yes": 622
+  },
+  {
+    "county": "Weld County, CO",
+    "fips": "08123",
+    "tobacco_known": 23507,
+    "tobacco_yes": 1125
+  },
+  {
+    "county": "Unidentified Counties, CO",
+    "fips": "08999",
+    "tobacco_known": 39492,
+    "tobacco_yes": 1917
+  },
+  {
+    "county": "Fairfield County, CT",
+    "fips": "09001",
+    "tobacco_known": 50052,
+    "tobacco_yes": 307
+  },
+  {
+    "county": "Hartford County, CT",
+    "fips": "09003",
+    "tobacco_known": 44131,
+    "tobacco_yes": 958
+  },
+  {
+    "county": "Litchfield County, CT",
+    "fips": "09005",
+    "tobacco_known": 7200,
+    "tobacco_yes": 304
+  },
+  {
+    "county": "Middlesex County, CT",
+    "fips": "09007",
+    "tobacco_known": 6565,
+    "tobacco_yes": 140
+  },
+  {
+    "county": "New Haven County, CT",
+    "fips": "09009",
+    "tobacco_known": 42166,
+    "tobacco_yes": 1076
+  },
+  {
+    "county": "New London County, CT",
+    "fips": "09011",
+    "tobacco_known": 12428,
+    "tobacco_yes": 456
+  },
+  {
+    "county": "Tolland County, CT",
+    "fips": "09013",
+    "tobacco_known": 5754,
+    "tobacco_yes": 159
+  },
+  {
+    "county": "Windham County, CT",
+    "fips": "09015",
+    "tobacco_known": 5166,
+    "tobacco_yes": 306
+  },
+  {
+    "county": "Kent County, DE",
+    "fips": "10001",
+    "tobacco_known": 10479,
+    "tobacco_yes": 557
+  },
+  {
+    "county": "New Castle County, DE",
+    "fips": "10003",
+    "tobacco_known": 30122,
+    "tobacco_yes": 1005
+  },
+  {
+    "county": "Sussex County, DE",
+    "fips": "10005",
+    "tobacco_known": 11717,
+    "tobacco_yes": 643
+  },
+  {
+    "county": "District of Columbia, DC",
+    "fips": "11001",
+    "tobacco_known": 40800,
+    "tobacco_yes": 490
+  },
+  {
+    "county": "Alachua County, FL",
+    "fips": "12001",
+    "tobacco_known": 12882,
+    "tobacco_yes": 356
+  },
+  {
+    "county": "Bay County, FL",
+    "fips": "12005",
+    "tobacco_known": 10453,
+    "tobacco_yes": 405
+  },
+  {
+    "county": "Brevard County, FL",
+    "fips": "12009",
+    "tobacco_known": 25921,
+    "tobacco_yes": 1199
+  },
+  {
+    "county": "Broward County, FL",
+    "fips": "12011",
+    "tobacco_known": 101505,
+    "tobacco_yes": 319
+  },
+  {
+    "county": "Charlotte County, FL",
+    "fips": "12015",
+    "tobacco_known": 5386,
+    "tobacco_yes": 331
+  },
+  {
+    "county": "Citrus County, FL",
+    "fips": "12017",
+    "tobacco_known": 5170,
+    "tobacco_yes": 479
+  },
+  {
+    "county": "Clay County, FL",
+    "fips": "12019",
+    "tobacco_known": 11154,
+    "tobacco_yes": 473
+  },
+  {
+    "county": "Collier County, FL",
+    "fips": "12021",
+    "tobacco_known": 16249,
+    "tobacco_yes": 97
+  },
+  {
+    "county": "Duval County, FL",
+    "fips": "12031",
+    "tobacco_known": 62990,
+    "tobacco_yes": 2030
+  },
+  {
+    "county": "Escambia County, FL",
+    "fips": "12033",
+    "tobacco_known": 18412,
+    "tobacco_yes": 1385
+  },
+  {
+    "county": "Hernando County, FL",
+    "fips": "12053",
+    "tobacco_known": 8352,
+    "tobacco_yes": 448
+  },
+  {
+    "county": "Hillsborough County, FL",
+    "fips": "12057",
+    "tobacco_known": 84667,
+    "tobacco_yes": 1837
+  },
+  {
+    "county": "Indian River County, FL",
+    "fips": "12061",
+    "tobacco_known": 6135,
+    "tobacco_yes": 254
+  },
+  {
+    "county": "Lake County, FL",
+    "fips": "12069",
+    "tobacco_known": 18204,
+    "tobacco_yes": 549
+  },
+  {
+    "county": "Lee County, FL",
+    "fips": "12071",
+    "tobacco_known": 37041,
+    "tobacco_yes": 578
+  },
+  {
+    "county": "Leon County, FL",
+    "fips": "12073",
+    "tobacco_known": 13831,
+    "tobacco_yes": 206
+  },
+  {
+    "county": "Manatee County, FL",
+    "fips": "12081",
+    "tobacco_known": 18825,
+    "tobacco_yes": 584
+  },
+  {
+    "county": "Marion County, FL",
+    "fips": "12083",
+    "tobacco_known": 18064,
+    "tobacco_yes": 876
+  },
+  {
+    "county": "Martin County, FL",
+    "fips": "12085",
+    "tobacco_known": 6355,
+    "tobacco_yes": 159
+  },
+  {
+    "county": "Miami-Dade County, FL",
+    "fips": "12086",
+    "tobacco_known": 142830,
+    "tobacco_yes": 438
+  },
+  {
+    "county": "Okaloosa County, FL",
+    "fips": "12091",
+    "tobacco_known": 12979,
+    "tobacco_yes": 720
+  },
+  {
+    "county": "Orange County, FL",
+    "fips": "12095",
+    "tobacco_known": 80649,
+    "tobacco_yes": 626
+  },
+  {
+    "county": "Osceola County, FL",
+    "fips": "12097",
+    "tobacco_known": 24148,
+    "tobacco_yes": 176
+  },
+  {
+    "county": "Palm Beach County, FL",
+    "fips": "12099",
+    "tobacco_known": 73772,
+    "tobacco_yes": 516
+  },
+  {
+    "county": "Pasco County, FL",
+    "fips": "12101",
+    "tobacco_known": 27842,
+    "tobacco_yes": 1372
+  },
+  {
+    "county": "Pinellas County, FL",
+    "fips": "12103",
+    "tobacco_known": 36258,
+    "tobacco_yes": 1600
+  },
+  {
+    "county": "Polk County, FL",
+    "fips": "12105",
+    "tobacco_known": 44073,
+    "tobacco_yes": 1469
+  },
+  {
+    "county": "St. Johns County, FL",
+    "fips": "12109",
+    "tobacco_known": 12148,
+    "tobacco_yes": 288
+  },
+  {
+    "county": "St. Lucie County, FL",
+    "fips": "12111",
+    "tobacco_known": 17614,
+    "tobacco_yes": 394
+  },
+  {
+    "county": "Santa Rosa County, FL",
+    "fips": "12113",
+    "tobacco_known": 9858,
+    "tobacco_yes": 669
+  },
+  {
+    "county": "Sarasota County, FL",
+    "fips": "12115",
+    "tobacco_known": 14602,
+    "tobacco_yes": 457
+  },
+  {
+    "county": "Seminole County, FL",
+    "fips": "12117",
+    "tobacco_known": 22077,
+    "tobacco_yes": 294
+  },
+  {
+    "county": "Volusia County, FL",
+    "fips": "12127",
+    "tobacco_known": 24509,
+    "tobacco_yes": 954
+  },
+  {
+    "county": "Unidentified Counties, FL",
+    "fips": "12999",
+    "tobacco_known": 65344,
+    "tobacco_yes": 3881
+  },
+  {
+    "county": "Bartow County, GA",
+    "fips": "13015",
+    "tobacco_known": 6825,
+    "tobacco_yes": 360
+  },
+  {
+    "county": "Bibb County, GA",
+    "fips": "13021",
+    "tobacco_known": 10194,
+    "tobacco_yes": 545
+  },
+  {
+    "county": "Carroll County, GA",
+    "fips": "13045",
+    "tobacco_known": 7968,
+    "tobacco_yes": 466
+  },
+  {
+    "county": "Chatham County, GA",
+    "fips": "13051",
+    "tobacco_known": 17970,
+    "tobacco_yes": 322
+  },
+  {
+    "county": "Cherokee County, GA",
+    "fips": "13057",
+    "tobacco_known": 14463,
+    "tobacco_yes": 237
+  },
+  {
+    "county": "Clarke County, GA",
+    "fips": "13059",
+    "tobacco_known": 6622,
+    "tobacco_yes": 198
+  },
+  {
+    "county": "Clayton County, GA",
+    "fips": "13063",
+    "tobacco_known": 16936,
+    "tobacco_yes": 268
+  },
+  {
+    "county": "Cobb County, GA",
+    "fips": "13067",
+    "tobacco_known": 43947,
+    "tobacco_yes": 238
+  },
+  {
+    "county": "Columbia County, GA",
+    "fips": "13073",
+    "tobacco_known": 8402,
+    "tobacco_yes": 111
+  },
+  {
+    "county": "Coweta County, GA",
+    "fips": "13077",
+    "tobacco_known": 8248,
+    "tobacco_yes": 173
+  },
+  {
+    "county": "DeKalb County, GA",
+    "fips": "13089",
+    "tobacco_known": 49029,
+    "tobacco_yes": 262
+  },
+  {
+    "county": "Douglas County, GA",
+    "fips": "13097",
+    "tobacco_known": 8417,
+    "tobacco_yes": 180
+  },
+  {
+    "county": "Fayette County, GA",
+    "fips": "13113",
+    "tobacco_known": 4527,
+    "tobacco_yes": 36
+  },
+  {
+    "county": "Forsyth County, GA",
+    "fips": "13117",
+    "tobacco_known": 11544,
+    "tobacco_yes": 127
+  },
+  {
+    "county": "Fulton County, GA",
+    "fips": "13121",
+    "tobacco_known": 61219,
+    "tobacco_yes": 456
+  },
+  {
+    "county": "Gwinnett County, GA",
+    "fips": "13135",
+    "tobacco_known": 54894,
+    "tobacco_yes": 250
+  },
+  {
+    "county": "Hall County, GA",
+    "fips": "13139",
+    "tobacco_known": 13651,
+    "tobacco_yes": 249
+  },
+  {
+    "county": "Henry County, GA",
+    "fips": "13151",
+    "tobacco_known": 13988,
+    "tobacco_yes": 249
+  },
+  {
+    "county": "Houston County, GA",
+    "fips": "13153",
+    "tobacco_known": 9846,
+    "tobacco_yes": 355
+  },
+  {
+    "county": "Lowndes County, GA",
+    "fips": "13185",
+    "tobacco_known": 7898,
+    "tobacco_yes": 267
+  },
+  {
+    "county": "Muscogee County, GA",
+    "fips": "13215",
+    "tobacco_known": 13248,
+    "tobacco_yes": 436
+  },
+  {
+    "county": "Paulding County, GA",
+    "fips": "13223",
+    "tobacco_known": 9178,
+    "tobacco_yes": 148
+  },
+  {
+    "county": "Richmond County, GA",
+    "fips": "13245",
+    "tobacco_known": 13845,
+    "tobacco_yes": 395
+  },
+  {
+    "county": "Whitfield County, GA",
+    "fips": "13313",
+    "tobacco_known": 6292,
+    "tobacco_yes": 462
+  },
+  {
+    "county": "Unidentified Counties, GA",
+    "fips": "13999",
+    "tobacco_known": 203746,
+    "tobacco_yes": 10999
+  },
+  {
+    "county": "Hawaii County, HI",
+    "fips": "15001",
+    "tobacco_known": 9650,
+    "tobacco_yes": 427
+  },
+  {
+    "county": "Honolulu County, HI",
+    "fips": "15003",
+    "tobacco_known": 54331,
+    "tobacco_yes": 405
+  },
+  {
+    "county": "Maui County, HI",
+    "fips": "15009",
+    "tobacco_known": 7830,
+    "tobacco_yes": 116
+  },
+  {
+    "county": "Unidentified Counties, HI",
+    "fips": "15999",
+    "tobacco_known": 3587,
+    "tobacco_yes": 59
+  },
+  {
+    "county": "Ada County, ID",
+    "fips": "16001",
+    "tobacco_known": 25312,
+    "tobacco_yes": 607
+  },
+  {
+    "county": "Bonneville County, ID",
+    "fips": "16019",
+    "tobacco_known": 8973,
+    "tobacco_yes": 394
+  },
+  {
+    "county": "Canyon County, ID",
+    "fips": "16027",
+    "tobacco_known": 16805,
+    "tobacco_yes": 680
+  },
+  {
+    "county": "Kootenai County, ID",
+    "fips": "16055",
+    "tobacco_known": 9634,
+    "tobacco_yes": 443
+  },
+  {
+    "county": "Unidentified Counties, ID",
+    "fips": "16999",
+    "tobacco_known": 50911,
+    "tobacco_yes": 2531
+  },
+  {
+    "county": "Champaign County, IL",
+    "fips": "17019",
+    "tobacco_known": 9977,
+    "tobacco_yes": 405
+  },
+  {
+    "county": "Cook County, IL",
+    "fips": "17031",
+    "tobacco_known": 263412,
+    "tobacco_yes": 2547
+  },
+  {
+    "county": "DeKalb County, IL",
+    "fips": "17037",
+    "tobacco_known": 5102,
+    "tobacco_yes": 219
+  },
+  {
+    "county": "DuPage County, IL",
+    "fips": "17043",
+    "tobacco_known": 47886,
+    "tobacco_yes": 337
+  },
+  {
+    "county": "Kane County, IL",
+    "fips": "17089",
+    "tobacco_known": 27721,
+    "tobacco_yes": 383
+  },
+  {
+    "county": "Kankakee County, IL",
+    "fips": "17091",
+    "tobacco_known": 5631,
+    "tobacco_yes": 370
+  },
+  {
+    "county": "Kendall County, IL",
+    "fips": "17093",
+    "tobacco_known": 7446,
+    "tobacco_yes": 82
+  },
+  {
+    "county": "Lake County, IL",
+    "fips": "17097",
+    "tobacco_known": 33095,
+    "tobacco_yes": 398
+  },
+  {
+    "county": "LaSalle County, IL",
+    "fips": "17099",
+    "tobacco_known": 5431,
+    "tobacco_yes": 584
+  },
+  {
+    "county": "McHenry County, IL",
+    "fips": "17111",
+    "tobacco_known": 15270,
+    "tobacco_yes": 293
+  },
+  {
+    "county": "McLean County, IL",
+    "fips": "17113",
+    "tobacco_known": 8189,
+    "tobacco_yes": 441
+  },
+  {
+    "county": "Macon County, IL",
+    "fips": "17115",
+    "tobacco_known": 5689,
+    "tobacco_yes": 573
+  },
+  {
+    "county": "Madison County, IL",
+    "fips": "17119",
+    "tobacco_known": 13080,
+    "tobacco_yes": 959
+  },
+  {
+    "county": "Peoria County, IL",
+    "fips": "17143",
+    "tobacco_known": 10512,
+    "tobacco_yes": 899
+  },
+  {
+    "county": "Rock Island County, IL",
+    "fips": "17161",
+    "tobacco_known": 7659,
+    "tobacco_yes": 496
+  },
+  {
+    "county": "St. Clair County, IL",
+    "fips": "17163",
+    "tobacco_known": 12969,
+    "tobacco_yes": 927
+  },
+  {
+    "county": "Sangamon County, IL",
+    "fips": "17167",
+    "tobacco_known": 10094,
+    "tobacco_yes": 984
+  },
+  {
+    "county": "Tazewell County, IL",
+    "fips": "17179",
+    "tobacco_known": 6298,
+    "tobacco_yes": 548
+  },
+  {
+    "county": "Will County, IL",
+    "fips": "17197",
+    "tobacco_known": 34355,
+    "tobacco_yes": 539
+  },
+  {
+    "county": "Winnebago County, IL",
+    "fips": "17201",
+    "tobacco_known": 16096,
+    "tobacco_yes": 1376
+  },
+  {
+    "county": "Unidentified Counties, IL",
+    "fips": "17999",
+    "tobacco_known": 96992,
+    "tobacco_yes": 10475
+  },
+  {
+    "county": "Allen County, IN",
+    "fips": "18003",
+    "tobacco_known": 25898,
+    "tobacco_yes": 1411
+  },
+  {
+    "county": "Clark County, IN",
+    "fips": "18019",
+    "tobacco_known": 7231,
+    "tobacco_yes": 575
+  },
+  {
+    "county": "Delaware County, IN",
+    "fips": "18035",
+    "tobacco_known": 5361,
+    "tobacco_yes": 680
+  },
+  {
+    "county": "Elkhart County, IN",
+    "fips": "18039",
+    "tobacco_known": 14419,
+    "tobacco_yes": 775
+  },
+  {
+    "county": "Hamilton County, IN",
+    "fips": "18057",
+    "tobacco_known": 19323,
+    "tobacco_yes": 143
+  },
+  {
+    "county": "Hendricks County, IN",
+    "fips": "18063",
+    "tobacco_known": 9195,
+    "tobacco_yes": 262
+  },
+  {
+    "county": "Johnson County, IN",
+    "fips": "18081",
+    "tobacco_known": 9461,
+    "tobacco_yes": 538
+  },
+  {
+    "county": "Lake County, IN",
+    "fips": "18089",
+    "tobacco_known": 26134,
+    "tobacco_yes": 1004
+  },
+  {
+    "county": "La Porte County, IN",
+    "fips": "18091",
+    "tobacco_known": 5542,
+    "tobacco_yes": 649
+  },
+  {
+    "county": "Madison County, IN",
+    "fips": "18095",
+    "tobacco_known": 7136,
+    "tobacco_yes": 881
+  },
+  {
+    "county": "Marion County, IN",
+    "fips": "18097",
+    "tobacco_known": 70238,
+    "tobacco_yes": 3267
+  },
+  {
+    "county": "Monroe County, IN",
+    "fips": "18105",
+    "tobacco_known": 5245,
+    "tobacco_yes": 431
+  },
+  {
+    "county": "Porter County, IN",
+    "fips": "18127",
+    "tobacco_known": 7925,
+    "tobacco_yes": 329
+  },
+  {
+    "county": "St. Joseph County, IN",
+    "fips": "18141",
+    "tobacco_known": 15928,
+    "tobacco_yes": 816
+  },
+  {
+    "county": "Tippecanoe County, IN",
+    "fips": "18157",
+    "tobacco_known": 9680,
+    "tobacco_yes": 589
+  },
+  {
+    "county": "Vanderburgh County, IN",
+    "fips": "18163",
+    "tobacco_known": 10643,
+    "tobacco_yes": 842
+  },
+  {
+    "county": "Vigo County, IN",
+    "fips": "18167",
+    "tobacco_known": 5531,
+    "tobacco_yes": 746
+  },
+  {
+    "county": "Unidentified Counties, IN",
+    "fips": "18999",
+    "tobacco_known": 141082,
+    "tobacco_yes": 14233
+  },
+  {
+    "county": "Black Hawk County, IA",
+    "fips": "19013",
+    "tobacco_known": 7911,
+    "tobacco_yes": 704
+  },
+  {
+    "county": "Johnson County, IA",
+    "fips": "19103",
+    "tobacco_known": 8271,
+    "tobacco_yes": 187
+  },
+  {
+    "county": "Linn County, IA",
+    "fips": "19113",
+    "tobacco_known": 12831,
+    "tobacco_yes": 852
+  },
+  {
+    "county": "Polk County, IA",
+    "fips": "19153",
+    "tobacco_known": 32037,
+    "tobacco_yes": 1787
+  },
+  {
+    "county": "Scott County, IA",
+    "fips": "19163",
+    "tobacco_known": 9534,
+    "tobacco_yes": 650
+  },
+  {
+    "county": "Woodbury County, IA",
+    "fips": "19193",
+    "tobacco_known": 7064,
+    "tobacco_yes": 603
+  },
+  {
+    "county": "Unidentified Counties, IA",
+    "fips": "19999",
+    "tobacco_known": 104126,
+    "tobacco_yes": 8249
+  },
+  {
+    "county": "Douglas County, KS",
+    "fips": "20045",
+    "tobacco_known": 4971,
+    "tobacco_yes": 332
+  },
+  {
+    "county": "Johnson County, KS",
+    "fips": "20091",
+    "tobacco_known": 34333,
+    "tobacco_yes": 386
+  },
+  {
+    "county": "Sedgwick County, KS",
+    "fips": "20173",
+    "tobacco_known": 32636,
+    "tobacco_yes": 2097
+  },
+  {
+    "county": "Shawnee County, KS",
+    "fips": "20177",
+    "tobacco_known": 9567,
+    "tobacco_yes": 937
+  },
+  {
+    "county": "Wyandotte County, KS",
+    "fips": "20209",
+    "tobacco_known": 11783,
+    "tobacco_yes": 459
+  },
+  {
+    "county": "Unidentified Counties, KS",
+    "fips": "20999",
+    "tobacco_known": 77456,
+    "tobacco_yes": 5862
+  },
+  {
+    "county": "Boone County, KY",
+    "fips": "21015",
+    "tobacco_known": 8504,
+    "tobacco_yes": 473
+  },
+  {
+    "county": "Fayette County, KY",
+    "fips": "21067",
+    "tobacco_known": 18448,
+    "tobacco_yes": 1133
+  },
+  {
+    "county": "Hardin County, KY",
+    "fips": "21093",
+    "tobacco_known": 6662,
+    "tobacco_yes": 753
+  },
+  {
+    "county": "Jefferson County, KY",
+    "fips": "21111",
+    "tobacco_known": 47447,
+    "tobacco_yes": 3365
+  },
+  {
+    "county": "Kenton County, KY",
+    "fips": "21117",
+    "tobacco_known": 10877,
+    "tobacco_yes": 954
+  },
+  {
+    "county": "Warren County, KY",
+    "fips": "21227",
+    "tobacco_known": 9059,
+    "tobacco_yes": 416
+  },
+  {
+    "county": "Unidentified Counties, KY",
+    "fips": "21999",
+    "tobacco_known": 158870,
+    "tobacco_yes": 20599
+  },
+  {
+    "county": "Ascension Parish, LA",
+    "fips": "22005",
+    "tobacco_known": 8232,
+    "tobacco_yes": 115
+  },
+  {
+    "county": "Bossier Parish, LA",
+    "fips": "22015",
+    "tobacco_known": 7973,
+    "tobacco_yes": 264
+  },
+  {
+    "county": "Caddo Parish, LA",
+    "fips": "22017",
+    "tobacco_known": 13834,
+    "tobacco_yes": 604
+  },
+  {
+    "county": "Calcasieu Parish, LA",
+    "fips": "22019",
+    "tobacco_known": 11893,
+    "tobacco_yes": 317
+  },
+  {
+    "county": "East Baton Rouge Parish, LA",
+    "fips": "22033",
+    "tobacco_known": 27316,
+    "tobacco_yes": 458
+  },
+  {
+    "county": "Jefferson Parish, LA",
+    "fips": "22051",
+    "tobacco_known": 25912,
+    "tobacco_yes": 386
+  },
+  {
+    "county": "Lafayette Parish, LA",
+    "fips": "22055",
+    "tobacco_known": 16592,
+    "tobacco_yes": 329
+  },
+  {
+    "county": "Livingston Parish, LA",
+    "fips": "22063",
+    "tobacco_known": 9367,
+    "tobacco_yes": 242
+  },
+  {
+    "county": "Orleans Parish, LA",
+    "fips": "22071",
+    "tobacco_known": 20002,
+    "tobacco_yes": 286
+  },
+  {
+    "county": "Ouachita Parish, LA",
+    "fips": "22073",
+    "tobacco_known": 9796,
+    "tobacco_yes": 492
+  },
+  {
+    "county": "Rapides Parish, LA",
+    "fips": "22079",
+    "tobacco_known": 7989,
+    "tobacco_yes": 431
+  },
+  {
+    "county": "St. Tammany Parish, LA",
+    "fips": "22103",
+    "tobacco_known": 14386,
+    "tobacco_yes": 555
+  },
+  {
+    "county": "Tangipahoa Parish, LA",
+    "fips": "22105",
+    "tobacco_known": 9591,
+    "tobacco_yes": 221
+  },
+  {
+    "county": "Terrebonne Parish, LA",
+    "fips": "22109",
+    "tobacco_known": 6491,
+    "tobacco_yes": 285
+  },
+  {
+    "county": "Unidentified Counties, LA",
+    "fips": "22999",
+    "tobacco_known": 87341,
+    "tobacco_yes": 4946
+  },
+  {
+    "county": "Androscoggin County, ME",
+    "fips": "23001",
+    "tobacco_known": 5661,
+    "tobacco_yes": 541
+  },
+  {
+    "county": "Cumberland County, ME",
+    "fips": "23005",
+    "tobacco_known": 13985,
+    "tobacco_yes": 560
+  },
+  {
+    "county": "Kennebec County, ME",
+    "fips": "23011",
+    "tobacco_known": 5299,
+    "tobacco_yes": 457
+  },
+  {
+    "county": "Penobscot County, ME",
+    "fips": "23019",
+    "tobacco_known": 6362,
+    "tobacco_yes": 646
+  },
+  {
+    "county": "York County, ME",
+    "fips": "23031",
+    "tobacco_known": 9105,
+    "tobacco_yes": 560
+  },
+  {
+    "county": "Unidentified Counties, ME",
+    "fips": "23999",
+    "tobacco_known": 18400,
+    "tobacco_yes": 2283
+  },
+  {
+    "county": "Anne Arundel County, MD",
+    "fips": "24003",
+    "tobacco_known": 33705,
+    "tobacco_yes": 773
+  },
+  {
+    "county": "Baltimore County, MD",
+    "fips": "24005",
+    "tobacco_known": 45870,
+    "tobacco_yes": 1401
+  },
+  {
+    "county": "Carroll County, MD",
+    "fips": "24013",
+    "tobacco_known": 8475,
+    "tobacco_yes": 317
+  },
+  {
+    "county": "Cecil County, MD",
+    "fips": "24015",
+    "tobacco_known": 5660,
+    "tobacco_yes": 573
+  },
+  {
+    "county": "Charles County, MD",
+    "fips": "24017",
+    "tobacco_known": 8899,
+    "tobacco_yes": 209
+  },
+  {
+    "county": "Frederick County, MD",
+    "fips": "24021",
+    "tobacco_known": 15638,
+    "tobacco_yes": 395
+  },
+  {
+    "county": "Harford County, MD",
+    "fips": "24025",
+    "tobacco_known": 12951,
+    "tobacco_yes": 539
+  },
+  {
+    "county": "Howard County, MD",
+    "fips": "24027",
+    "tobacco_known": 15623,
+    "tobacco_yes": 124
+  },
+  {
+    "county": "Montgomery County, MD",
+    "fips": "24031",
+    "tobacco_known": 56814,
+    "tobacco_yes": 329
+  },
+  {
+    "county": "Prince George's County, MD",
+    "fips": "24033",
+    "tobacco_known": 53844,
+    "tobacco_yes": 403
+  },
+  {
+    "county": "St. Mary's County, MD",
+    "fips": "24037",
+    "tobacco_known": 6827,
+    "tobacco_yes": 314
+  },
+  {
+    "county": "Washington County, MD",
+    "fips": "24043",
+    "tobacco_known": 8026,
+    "tobacco_yes": 782
+  },
+  {
+    "county": "Baltimore city, MD",
+    "fips": "24510",
+    "tobacco_known": 35425,
+    "tobacco_yes": 1616
+  },
+  {
+    "county": "Unidentified Counties, MD",
+    "fips": "24999",
+    "tobacco_known": 27840,
+    "tobacco_yes": 1941
+  },
+  {
+    "county": "Barnstable County, MA",
+    "fips": "25001",
+    "tobacco_known": 7409,
+    "tobacco_yes": 335
+  },
+  {
+    "county": "Berkshire County, MA",
+    "fips": "25003",
+    "tobacco_known": 4508,
+    "tobacco_yes": 416
+  },
+  {
+    "county": "Bristol County, MA",
+    "fips": "25005",
+    "tobacco_known": 28187,
+    "tobacco_yes": 1246
+  },
+  {
+    "county": "Essex County, MA",
+    "fips": "25009",
+    "tobacco_known": 42507,
+    "tobacco_yes": 656
+  },
+  {
+    "county": "Hampden County, MA",
+    "fips": "25013",
+    "tobacco_known": 23558,
+    "tobacco_yes": 847
+  },
+  {
+    "county": "Hampshire County, MA",
+    "fips": "25015",
+    "tobacco_known": 4493,
+    "tobacco_yes": 159
+  },
+  {
+    "county": "Middlesex County, MA",
+    "fips": "25017",
+    "tobacco_known": 79568,
+    "tobacco_yes": 955
+  },
+  {
+    "county": "Norfolk County, MA",
+    "fips": "25021",
+    "tobacco_known": 34921,
+    "tobacco_yes": 404
+  },
+  {
+    "county": "Plymouth County, MA",
+    "fips": "25023",
+    "tobacco_known": 26445,
+    "tobacco_yes": 635
+  },
+  {
+    "county": "Suffolk County, MA",
+    "fips": "25025",
+    "tobacco_known": 41298,
+    "tobacco_yes": 401
+  },
+  {
+    "county": "Worcester County, MA",
+    "fips": "25027",
+    "tobacco_known": 42440,
+    "tobacco_yes": 1567
+  },
+  {
+    "county": "Unidentified Counties, MA",
+    "fips": "25999",
+    "tobacco_known": 4014,
+    "tobacco_yes": 189
+  },
+  {
+    "county": "Allegan County, MI",
+    "fips": "26005",
+    "tobacco_known": 5993,
+    "tobacco_yes": 438
+  },
+  {
+    "county": "Bay County, MI",
+    "fips": "26017",
+    "tobacco_known": 4472,
+    "tobacco_yes": 638
+  },
+  {
+    "county": "Berrien County, MI",
+    "fips": "26021",
+    "tobacco_known": 7359,
+    "tobacco_yes": 728
+  },
+  {
+    "county": "Calhoun County, MI",
+    "fips": "26025",
+    "tobacco_known": 7279,
+    "tobacco_yes": 826
+  },
+  {
+    "county": "Eaton County, MI",
+    "fips": "26045",
+    "tobacco_known": 5044,
+    "tobacco_yes": 352
+  },
+  {
+    "county": "Genesee County, MI",
+    "fips": "26049",
+    "tobacco_known": 21108,
+    "tobacco_yes": 2420
+  },
+  {
+    "county": "Ingham County, MI",
+    "fips": "26065",
+    "tobacco_known": 14003,
+    "tobacco_yes": 1114
+  },
+  {
+    "county": "Jackson County, MI",
+    "fips": "26075",
+    "tobacco_known": 7922,
+    "tobacco_yes": 985
+  },
+  {
+    "county": "Kalamazoo County, MI",
+    "fips": "26077",
+    "tobacco_known": 13236,
+    "tobacco_yes": 1202
+  },
+  {
+    "county": "Kent County, MI",
+    "fips": "26081",
+    "tobacco_known": 40175,
+    "tobacco_yes": 667
+  },
+  {
+    "county": "Livingston County, MI",
+    "fips": "26093",
+    "tobacco_known": 8432,
+    "tobacco_yes": 295
+  },
+  {
+    "county": "Macomb County, MI",
+    "fips": "26099",
+    "tobacco_known": 43181,
+    "tobacco_yes": 2034
+  },
+  {
+    "county": "Monroe County, MI",
+    "fips": "26115",
+    "tobacco_known": 7374,
+    "tobacco_yes": 655
+  },
+  {
+    "county": "Muskegon County, MI",
+    "fips": "26121",
+    "tobacco_known": 9234,
+    "tobacco_yes": 1014
+  },
+  {
+    "county": "Oakland County, MI",
+    "fips": "26125",
+    "tobacco_known": 61665,
+    "tobacco_yes": 1680
+  },
+  {
+    "county": "Ottawa County, MI",
+    "fips": "26139",
+    "tobacco_known": 15308,
+    "tobacco_yes": 381
+  },
+  {
+    "county": "Saginaw County, MI",
+    "fips": "26145",
+    "tobacco_known": 9379,
+    "tobacco_yes": 1089
+  },
+  {
+    "county": "St. Clair County, MI",
+    "fips": "26147",
+    "tobacco_known": 7206,
+    "tobacco_yes": 951
+  },
+  {
+    "county": "Washtenaw County, MI",
+    "fips": "26161",
+    "tobacco_known": 15453,
+    "tobacco_yes": 526
+  },
+  {
+    "county": "Wayne County, MI",
+    "fips": "26163",
+    "tobacco_known": 103119,
+    "tobacco_yes": 5039
+  },
+  {
+    "county": "Unidentified Counties, MI",
+    "fips": "26999",
+    "tobacco_known": 99479,
+    "tobacco_yes": 11872
+  },
+  {
+    "county": "Anoka County, MN",
+    "fips": "27003",
+    "tobacco_known": 20113,
+    "tobacco_yes": 645
+  },
+  {
+    "county": "Dakota County, MN",
+    "fips": "27037",
+    "tobacco_known": 24426,
+    "tobacco_yes": 523
+  },
+  {
+    "county": "Hennepin County, MN",
+    "fips": "27053",
+    "tobacco_known": 72037,
+    "tobacco_yes": 1594
+  },
+  {
+    "county": "Olmsted County, MN",
+    "fips": "27109",
+    "tobacco_known": 9666,
+    "tobacco_yes": 370
+  },
+  {
+    "county": "Ramsey County, MN",
+    "fips": "27123",
+    "tobacco_known": 32852,
+    "tobacco_yes": 1105
+  },
+  {
+    "county": "St. Louis County, MN",
+    "fips": "27137",
+    "tobacco_known": 8787,
+    "tobacco_yes": 1013
+  },
+  {
+    "county": "Scott County, MN",
+    "fips": "27139",
+    "tobacco_known": 8337,
+    "tobacco_yes": 168
+  },
+  {
+    "county": "Stearns County, MN",
+    "fips": "27145",
+    "tobacco_known": 10015,
+    "tobacco_yes": 593
+  },
+  {
+    "county": "Washington County, MN",
+    "fips": "27163",
+    "tobacco_known": 13735,
+    "tobacco_yes": 305
+  },
+  {
+    "county": "Wright County, MN",
+    "fips": "27171",
+    "tobacco_known": 9251,
+    "tobacco_yes": 304
+  },
+  {
+    "county": "Unidentified Counties, MN",
+    "fips": "27999",
+    "tobacco_known": 106150,
+    "tobacco_yes": 7880
+  },
+  {
+    "county": "DeSoto County, MS",
+    "fips": "28033",
+    "tobacco_known": 11057,
+    "tobacco_yes": 415
+  },
+  {
+    "county": "Harrison County, MS",
+    "fips": "28047",
+    "tobacco_known": 12084,
+    "tobacco_yes": 577
+  },
+  {
+    "county": "Hinds County, MS",
+    "fips": "28049",
+    "tobacco_known": 13216,
+    "tobacco_yes": 459
+  },
+  {
+    "county": "Jackson County, MS",
+    "fips": "28059",
+    "tobacco_known": 7687,
+    "tobacco_yes": 476
+  },
+  {
+    "county": "Rankin County, MS",
+    "fips": "28121",
+    "tobacco_known": 8671,
+    "tobacco_yes": 266
+  },
+  {
+    "county": "Unidentified Counties, MS",
+    "fips": "28999",
+    "tobacco_known": 120314,
+    "tobacco_yes": 7164
+  },
+  {
+    "county": "Boone County, MO",
+    "fips": "29019",
+    "tobacco_known": 9539,
+    "tobacco_yes": 639
+  },
+  {
+    "county": "Clay County, MO",
+    "fips": "29047",
+    "tobacco_known": 14624,
+    "tobacco_yes": 759
+  },
+  {
+    "county": "Franklin County, MO",
+    "fips": "29071",
+    "tobacco_known": 5550,
+    "tobacco_yes": 612
+  },
+  {
+    "county": "Greene County, MO",
+    "fips": "29077",
+    "tobacco_known": 16212,
+    "tobacco_yes": 1602
+  },
+  {
+    "county": "Jackson County, MO",
+    "fips": "29095",
+    "tobacco_known": 42474,
+    "tobacco_yes": 2568
+  },
+  {
+    "county": "Jasper County, MO",
+    "fips": "29097",
+    "tobacco_known": 7630,
+    "tobacco_yes": 735
+  },
+  {
+    "county": "Jefferson County, MO",
+    "fips": "29099",
+    "tobacco_known": 11663,
+    "tobacco_yes": 1087
+  },
+  {
+    "county": "St. Charles County, MO",
+    "fips": "29183",
+    "tobacco_known": 20296,
+    "tobacco_yes": 657
+  },
+  {
+    "county": "St. Louis County, MO",
+    "fips": "29189",
+    "tobacco_known": 50006,
+    "tobacco_yes": 1903
+  },
+  {
+    "county": "St. Louis city, MO",
+    "fips": "29510",
+    "tobacco_known": 16918,
+    "tobacco_yes": 1153
+  },
+  {
+    "county": "Unidentified Counties, MO",
+    "fips": "29999",
+    "tobacco_known": 143258,
+    "tobacco_yes": 16874
+  },
+  {
+    "county": "Missoula County, MT",
+    "fips": "30063",
+    "tobacco_known": 5354,
+    "tobacco_yes": 348
+  },
+  {
+    "county": "Yellowstone County, MT",
+    "fips": "30111",
+    "tobacco_known": 9155,
+    "tobacco_yes": 1135
+  },
+  {
+    "county": "Unidentified Counties, MT",
+    "fips": "30999",
+    "tobacco_known": 41065,
+    "tobacco_yes": 3516
+  },
+  {
+    "county": "Douglas County, NE",
+    "fips": "31055",
+    "tobacco_known": 39629,
+    "tobacco_yes": 1630
+  },
+  {
+    "county": "Lancaster County, NE",
+    "fips": "31109",
+    "tobacco_known": 18444,
+    "tobacco_yes": 898
+  },
+  {
+    "county": "Sarpy County, NE",
+    "fips": "31153",
+    "tobacco_known": 11950,
+    "tobacco_yes": 368
+  },
+  {
+    "county": "Unidentified Counties, NE",
+    "fips": "31999",
+    "tobacco_known": 52040,
+    "tobacco_yes": 3579
+  },
+  {
+    "county": "Clark County, NV",
+    "fips": "32003",
+    "tobacco_known": 122677,
+    "tobacco_yes": 2808
+  },
+  {
+    "county": "Washoe County, NV",
+    "fips": "32031",
+    "tobacco_known": 24340,
+    "tobacco_yes": 679
+  },
+  {
+    "county": "Unidentified Counties, NV",
+    "fips": "32999",
+    "tobacco_known": 16420,
+    "tobacco_yes": 1060
+  },
+  {
+    "county": "Hillsborough County, NH",
+    "fips": "33011",
+    "tobacco_known": 20680,
+    "tobacco_yes": 905
+  },
+  {
+    "county": "Merrimack County, NH",
+    "fips": "33013",
+    "tobacco_known": 6448,
+    "tobacco_yes": 277
+  },
+  {
+    "county": "Rockingham County, NH",
+    "fips": "33015",
+    "tobacco_known": 13614,
+    "tobacco_yes": 294
+  },
+  {
+    "county": "Strafford County, NH",
+    "fips": "33017",
+    "tobacco_known": 5640,
+    "tobacco_yes": 349
+  },
+  {
+    "county": "Unidentified Counties, NH",
+    "fips": "33999",
+    "tobacco_known": 13297,
+    "tobacco_yes": 1127
+  },
+  {
+    "county": "Atlantic County, NJ",
+    "fips": "34001",
+    "tobacco_known": 13653,
+    "tobacco_yes": 700
+  },
+  {
+    "county": "Bergen County, NJ",
+    "fips": "34003",
+    "tobacco_known": 44103,
+    "tobacco_yes": 239
+  },
+  {
+    "county": "Burlington County, NJ",
+    "fips": "34005",
+    "tobacco_known": 22840,
+    "tobacco_yes": 602
+  },
+  {
+    "county": "Camden County, NJ",
+    "fips": "34007",
+    "tobacco_known": 29781,
+    "tobacco_yes": 1043
+  },
+  {
+    "county": "Cumberland County, NJ",
+    "fips": "34011",
+    "tobacco_known": 9033,
+    "tobacco_yes": 498
+  },
+  {
+    "county": "Essex County, NJ",
+    "fips": "34013",
+    "tobacco_known": 49162,
+    "tobacco_yes": 558
+  },
+  {
+    "county": "Gloucester County, NJ",
+    "fips": "34015",
+    "tobacco_known": 14514,
+    "tobacco_yes": 570
+  },
+  {
+    "county": "Hudson County, NJ",
+    "fips": "34017",
+    "tobacco_known": 45271,
+    "tobacco_yes": 298
+  },
+  {
+    "county": "Hunterdon County, NJ",
+    "fips": "34019",
+    "tobacco_known": 5284,
+    "tobacco_yes": 84
+  },
+  {
+    "county": "Mercer County, NJ",
+    "fips": "34021",
+    "tobacco_known": 20445,
+    "tobacco_yes": 317
+  },
+  {
+    "county": "Middlesex County, NJ",
+    "fips": "34023",
+    "tobacco_known": 42221,
+    "tobacco_yes": 433
+  },
+  {
+    "county": "Monmouth County, NJ",
+    "fips": "34025",
+    "tobacco_known": 31131,
+    "tobacco_yes": 279
+  },
+  {
+    "county": "Morris County, NJ",
+    "fips": "34027",
+    "tobacco_known": 24402,
+    "tobacco_yes": 143
+  },
+  {
+    "county": "Ocean County, NJ",
+    "fips": "34029",
+    "tobacco_known": 51026,
+    "tobacco_yes": 514
+  },
+  {
+    "county": "Passaic County, NJ",
+    "fips": "34031",
+    "tobacco_known": 30963,
+    "tobacco_yes": 313
+  },
+  {
+    "county": "Somerset County, NJ",
+    "fips": "34035",
+    "tobacco_known": 15878,
+    "tobacco_yes": 169
+  },
+  {
+    "county": "Sussex County, NJ",
+    "fips": "34037",
+    "tobacco_known": 6849,
+    "tobacco_yes": 207
+  },
+  {
+    "county": "Union County, NJ",
+    "fips": "34039",
+    "tobacco_known": 32859,
+    "tobacco_yes": 198
+  },
+  {
+    "county": "Warren County, NJ",
+    "fips": "34041",
+    "tobacco_known": 5202,
+    "tobacco_yes": 197
+  },
+  {
+    "county": "Unidentified Counties, NJ",
+    "fips": "34999",
+    "tobacco_known": 6990,
+    "tobacco_yes": 444
+  },
+  {
+    "county": "Bernalillo County, NM",
+    "fips": "35001",
+    "tobacco_known": 31965,
+    "tobacco_yes": 1033
+  },
+  {
+    "county": "Dona Ana County, NM",
+    "fips": "35013",
+    "tobacco_known": 12736,
+    "tobacco_yes": 259
+  },
+  {
+    "county": "Sandoval County, NM",
+    "fips": "35043",
+    "tobacco_known": 6496,
+    "tobacco_yes": 147
+  },
+  {
+    "county": "San Juan County, NM",
+    "fips": "35045",
+    "tobacco_known": 6298,
+    "tobacco_yes": 323
+  },
+  {
+    "county": "Santa Fe County, NM",
+    "fips": "35049",
+    "tobacco_known": 5521,
+    "tobacco_yes": 149
+  },
+  {
+    "county": "Unidentified Counties, NM",
+    "fips": "35999",
+    "tobacco_known": 43693,
+    "tobacco_yes": 2088
+  },
+  {
+    "county": "Albany County, NY",
+    "fips": "36001",
+    "tobacco_known": 13864,
+    "tobacco_yes": 685
+  },
+  {
+    "county": "Bronx County, NY",
+    "fips": "36005",
+    "tobacco_known": 84787,
+    "tobacco_yes": 392
+  },
+  {
+    "county": "Broome County, NY",
+    "fips": "36007",
+    "tobacco_known": 8742,
+    "tobacco_yes": 903
+  },
+  {
+    "county": "Chautauqua County, NY",
+    "fips": "36013",
+    "tobacco_known": 6015,
+    "tobacco_yes": 698
+  },
+  {
+    "county": "Dutchess County, NY",
+    "fips": "36027",
+    "tobacco_known": 13024,
+    "tobacco_yes": 321
+  },
+  {
+    "county": "Erie County, NY",
+    "fips": "36029",
+    "tobacco_known": 45589,
+    "tobacco_yes": 2638
+  },
+  {
+    "county": "Jefferson County, NY",
+    "fips": "36045",
+    "tobacco_known": 8542,
+    "tobacco_yes": 707
+  },
+  {
+    "county": "Kings County, NY",
+    "fips": "36047",
+    "tobacco_known": 167812,
+    "tobacco_yes": 320
+  },
+  {
+    "county": "Monroe County, NY",
+    "fips": "36055",
+    "tobacco_known": 36442,
+    "tobacco_yes": 1704
+  },
+  {
+    "county": "Nassau County, NY",
+    "fips": "36059",
+    "tobacco_known": 68195,
+    "tobacco_yes": 213
+  },
+  {
+    "county": "New York County, NY",
+    "fips": "36061",
+    "tobacco_known": 70166,
+    "tobacco_yes": 205
+  },
+  {
+    "county": "Niagara County, NY",
+    "fips": "36063",
+    "tobacco_known": 9583,
+    "tobacco_yes": 1032
+  },
+  {
+    "county": "Oneida County, NY",
+    "fips": "36065",
+    "tobacco_known": 11442,
+    "tobacco_yes": 1033
+  },
+  {
+    "county": "Onondaga County, NY",
+    "fips": "36067",
+    "tobacco_known": 23223,
+    "tobacco_yes": 1452
+  },
+  {
+    "county": "Ontario County, NY",
+    "fips": "36069",
+    "tobacco_known": 4794,
+    "tobacco_yes": 317
+  },
+  {
+    "county": "Orange County, NY",
+    "fips": "36071",
+    "tobacco_known": 27564,
+    "tobacco_yes": 426
+  },
+  {
+    "county": "Oswego County, NY",
+    "fips": "36075",
+    "tobacco_known": 5676,
+    "tobacco_yes": 792
+  },
+  {
+    "county": "Queens County, NY",
+    "fips": "36081",
+    "tobacco_known": 120483,
+    "tobacco_yes": 283
+  },
+  {
+    "county": "Rensselaer County, NY",
+    "fips": "36083",
+    "tobacco_known": 7557,
+    "tobacco_yes": 493
+  },
+  {
+    "county": "Richmond County, NY",
+    "fips": "36085",
+    "tobacco_known": 24917,
+    "tobacco_yes": 137
+  },
+  {
+    "county": "Rockland County, NY",
+    "fips": "36087",
+    "tobacco_known": 31750,
+    "tobacco_yes": 45
+  },
+  {
+    "county": "St. Lawrence County, NY",
+    "fips": "36089",
+    "tobacco_known": 4856,
+    "tobacco_yes": 608
+  },
+  {
+    "county": "Saratoga County, NY",
+    "fips": "36091",
+    "tobacco_known": 10026,
+    "tobacco_yes": 448
+  },
+  {
+    "county": "Schenectady County, NY",
+    "fips": "36093",
+    "tobacco_known": 8803,
+    "tobacco_yes": 277
+  },
+  {
+    "county": "Suffolk County, NY",
+    "fips": "36103",
+    "tobacco_known": 77981,
+    "tobacco_yes": 830
+  },
+  {
+    "county": "Tompkins County, NY",
+    "fips": "36109",
+    "tobacco_known": 3258,
+    "tobacco_yes": 240
+  },
+  {
+    "county": "Ulster County, NY",
+    "fips": "36111",
+    "tobacco_known": 7361,
+    "tobacco_yes": 367
+  },
+  {
+    "county": "Westchester County, NY",
+    "fips": "36119",
+    "tobacco_known": 49044,
+    "tobacco_yes": 190
+  },
+  {
+    "county": "Unidentified Counties, NY",
+    "fips": "36999",
+    "tobacco_known": 84458,
+    "tobacco_yes": 8728
+  },
+  {
+    "county": "Alamance County, NC",
+    "fips": "37001",
+    "tobacco_known": 9642,
+    "tobacco_yes": 423
+  },
+  {
+    "county": "Brunswick County, NC",
+    "fips": "37019",
+    "tobacco_known": 5766,
+    "tobacco_yes": 483
+  },
+  {
+    "county": "Buncombe County, NC",
+    "fips": "37021",
+    "tobacco_known": 11854,
+    "tobacco_yes": 656
+  },
+  {
+    "county": "Cabarrus County, NC",
+    "fips": "37025",
+    "tobacco_known": 13355,
+    "tobacco_yes": 387
+  },
+  {
+    "county": "Catawba County, NC",
+    "fips": "37035",
+    "tobacco_known": 8306,
+    "tobacco_yes": 682
+  },
+  {
+    "county": "Craven County, NC",
+    "fips": "37049",
+    "tobacco_known": 6364,
+    "tobacco_yes": 368
+  },
+  {
+    "county": "Cumberland County, NC",
+    "fips": "37051",
+    "tobacco_known": 25797,
+    "tobacco_yes": 1357
+  },
+  {
+    "county": "Davidson County, NC",
+    "fips": "37057",
+    "tobacco_known": 8868,
+    "tobacco_yes": 769
+  },
+  {
+    "county": "Durham County, NC",
+    "fips": "37063",
+    "tobacco_known": 20519,
+    "tobacco_yes": 232
+  },
+  {
+    "county": "Forsyth County, NC",
+    "fips": "37067",
+    "tobacco_known": 22150,
+    "tobacco_yes": 958
+  },
+  {
+    "county": "Gaston County, NC",
+    "fips": "37071",
+    "tobacco_known": 13714,
+    "tobacco_yes": 1014
+  },
+  {
+    "county": "Guilford County, NC",
+    "fips": "37081",
+    "tobacco_known": 28979,
+    "tobacco_yes": 1050
+  },
+  {
+    "county": "Harnett County, NC",
+    "fips": "37085",
+    "tobacco_known": 9427,
+    "tobacco_yes": 490
+  },
+  {
+    "county": "Henderson County, NC",
+    "fips": "37089",
+    "tobacco_known": 5048,
+    "tobacco_yes": 277
+  },
+  {
+    "county": "Iredell County, NC",
+    "fips": "37097",
+    "tobacco_known": 10109,
+    "tobacco_yes": 554
+  },
+  {
+    "county": "Johnston County, NC",
+    "fips": "37101",
+    "tobacco_known": 13940,
+    "tobacco_yes": 192
+  },
+  {
+    "county": "Mecklenburg County, NC",
+    "fips": "37119",
+    "tobacco_known": 75394,
+    "tobacco_yes": 697
+  },
+  {
+    "county": "New Hanover County, NC",
+    "fips": "37129",
+    "tobacco_known": 10841,
+    "tobacco_yes": 371
+  },
+  {
+    "county": "Onslow County, NC",
+    "fips": "37133",
+    "tobacco_known": 18860,
+    "tobacco_yes": 452
+  },
+  {
+    "county": "Orange County, NC",
+    "fips": "37135",
+    "tobacco_known": 5750,
+    "tobacco_yes": 143
+  },
+  {
+    "county": "Pitt County, NC",
+    "fips": "37147",
+    "tobacco_known": 10255,
+    "tobacco_yes": 492
+  },
+  {
+    "county": "Randolph County, NC",
+    "fips": "37151",
+    "tobacco_known": 7825,
+    "tobacco_yes": 612
+  },
+  {
+    "county": "Robeson County, NC",
+    "fips": "37155",
+    "tobacco_known": 9305,
+    "tobacco_yes": 1025
+  },
+  {
+    "county": "Rowan County, NC",
+    "fips": "37159",
+    "tobacco_known": 7979,
+    "tobacco_yes": 622
+  },
+  {
+    "county": "Union County, NC",
+    "fips": "37179",
+    "tobacco_known": 12593,
+    "tobacco_yes": 262
+  },
+  {
+    "county": "Wake County, NC",
+    "fips": "37183",
+    "tobacco_known": 65158,
+    "tobacco_yes": 682
+  },
+  {
+    "county": "Wayne County, NC",
+    "fips": "37191",
+    "tobacco_known": 8107,
+    "tobacco_yes": 340
+  },
+  {
+    "county": "Unidentified Counties, NC",
+    "fips": "37999",
+    "tobacco_known": 155198,
+    "tobacco_yes": 12357
+  },
+  {
+    "county": "Cass County, ND",
+    "fips": "38017",
+    "tobacco_known": 11734,
+    "tobacco_yes": 590
+  },
+  {
+    "county": "Unidentified Counties, ND",
+    "fips": "38999",
+    "tobacco_known": 36833,
+    "tobacco_yes": 2946
+  },
+  {
+    "county": "Allen County, OH",
+    "fips": "39003",
+    "tobacco_known": 6044,
+    "tobacco_yes": 692
+  },
+  {
+    "county": "Ashtabula County, OH",
+    "fips": "39007",
+    "tobacco_known": 5024,
+    "tobacco_yes": 754
+  },
+  {
+    "county": "Butler County, OH",
+    "fips": "39017",
+    "tobacco_known": 21362,
+    "tobacco_yes": 1673
+  },
+  {
+    "county": "Clark County, OH",
+    "fips": "39023",
+    "tobacco_known": 7963,
+    "tobacco_yes": 950
+  },
+  {
+    "county": "Clermont County, OH",
+    "fips": "39025",
+    "tobacco_known": 11018,
+    "tobacco_yes": 946
+  },
+  {
+    "county": "Columbiana County, OH",
+    "fips": "39029",
+    "tobacco_known": 4770,
+    "tobacco_yes": 948
+  },
+  {
+    "county": "Cuyahoga County, OH",
+    "fips": "39035",
+    "tobacco_known": 64125,
+    "tobacco_yes": 2640
+  },
+  {
+    "county": "Delaware County, OH",
+    "fips": "39041",
+    "tobacco_known": 10662,
+    "tobacco_yes": 269
+  },
+  {
+    "county": "Fairfield County, OH",
+    "fips": "39045",
+    "tobacco_known": 8349,
+    "tobacco_yes": 604
+  },
+  {
+    "county": "Franklin County, OH",
+    "fips": "39049",
+    "tobacco_known": 86851,
+    "tobacco_yes": 4487
+  },
+  {
+    "county": "Greene County, OH",
+    "fips": "39057",
+    "tobacco_known": 8426,
+    "tobacco_yes": 530
+  },
+  {
+    "county": "Hamilton County, OH",
+    "fips": "39061",
+    "tobacco_known": 51036,
+    "tobacco_yes": 2965
+  },
+  {
+    "county": "Lake County, OH",
+    "fips": "39085",
+    "tobacco_known": 10320,
+    "tobacco_yes": 634
+  },
+  {
+    "county": "Licking County, OH",
+    "fips": "39089",
+    "tobacco_known": 9296,
+    "tobacco_yes": 807
+  },
+  {
+    "county": "Lorain County, OH",
+    "fips": "39093",
+    "tobacco_known": 15688,
+    "tobacco_yes": 1381
+  },
+  {
+    "county": "Lucas County, OH",
+    "fips": "39095",
+    "tobacco_known": 24045,
+    "tobacco_yes": 1740
+  },
+  {
+    "county": "Mahoning County, OH",
+    "fips": "39099",
+    "tobacco_known": 11491,
+    "tobacco_yes": 2042
+  },
+  {
+    "county": "Medina County, OH",
+    "fips": "39103",
+    "tobacco_known": 8185,
+    "tobacco_yes": 333
+  },
+  {
+    "county": "Miami County, OH",
+    "fips": "39109",
+    "tobacco_known": 5680,
+    "tobacco_yes": 477
+  },
+  {
+    "county": "Montgomery County, OH",
+    "fips": "39113",
+    "tobacco_known": 30310,
+    "tobacco_yes": 2090
+  },
+  {
+    "county": "Portage County, OH",
+    "fips": "39133",
+    "tobacco_known": 6743,
+    "tobacco_yes": 582
+  },
+  {
+    "county": "Richland County, OH",
+    "fips": "39139",
+    "tobacco_known": 6703,
+    "tobacco_yes": 877
+  },
+  {
+    "county": "Stark County, OH",
+    "fips": "39151",
+    "tobacco_known": 19492,
+    "tobacco_yes": 2054
+  },
+  {
+    "county": "Summit County, OH",
+    "fips": "39153",
+    "tobacco_known": 26888,
+    "tobacco_yes": 2033
+  },
+  {
+    "county": "Trumbull County, OH",
+    "fips": "39155",
+    "tobacco_known": 9767,
+    "tobacco_yes": 1698
+  },
+  {
+    "county": "Warren County, OH",
+    "fips": "39165",
+    "tobacco_known": 12056,
+    "tobacco_yes": 472
+  },
+  {
+    "county": "Wayne County, OH",
+    "fips": "39169",
+    "tobacco_known": 6963,
+    "tobacco_yes": 507
+  },
+  {
+    "county": "Wood County, OH",
+    "fips": "39173",
+    "tobacco_known": 6149,
+    "tobacco_yes": 308
+  },
+  {
+    "county": "Unidentified Counties, OH",
+    "fips": "39999",
+    "tobacco_known": 144565,
+    "tobacco_yes": 16523
+  },
+  {
+    "county": "Canadian County, OK",
+    "fips": "40017",
+    "tobacco_known": 10252,
+    "tobacco_yes": 256
+  },
+  {
+    "county": "Cleveland County, OK",
+    "fips": "40027",
+    "tobacco_known": 13551,
+    "tobacco_yes": 636
+  },
+  {
+    "county": "Comanche County, OK",
+    "fips": "40031",
+    "tobacco_known": 7987,
+    "tobacco_yes": 473
+  },
+  {
+    "county": "Oklahoma County, OK",
+    "fips": "40109",
+    "tobacco_known": 54595,
+    "tobacco_yes": 1905
+  },
+  {
+    "county": "Tulsa County, OK",
+    "fips": "40143",
+    "tobacco_known": 43271,
+    "tobacco_yes": 2308
+  },
+  {
+    "county": "Unidentified Counties, OK",
+    "fips": "40999",
+    "tobacco_known": 110384,
+    "tobacco_yes": 10387
+  },
+  {
+    "county": "Clackamas County, OR",
+    "fips": "41005",
+    "tobacco_known": 18540,
+    "tobacco_yes": 544
+  },
+  {
+    "county": "Deschutes County, OR",
+    "fips": "41017",
+    "tobacco_known": 9323,
+    "tobacco_yes": 370
+  },
+  {
+    "county": "Douglas County, OR",
+    "fips": "41019",
+    "tobacco_known": 4875,
+    "tobacco_yes": 574
+  },
+  {
+    "county": "Jackson County, OR",
+    "fips": "41029",
+    "tobacco_known": 10342,
+    "tobacco_yes": 647
+  },
+  {
+    "county": "Lane County, OR",
+    "fips": "41039",
+    "tobacco_known": 14629,
+    "tobacco_yes": 934
+  },
+  {
+    "county": "Linn County, OR",
+    "fips": "41043",
+    "tobacco_known": 7101,
+    "tobacco_yes": 476
+  },
+  {
+    "county": "Marion County, OR",
+    "fips": "41047",
+    "tobacco_known": 19547,
+    "tobacco_yes": 747
+  },
+  {
+    "county": "Multnomah County, OR",
+    "fips": "41051",
+    "tobacco_known": 35950,
+    "tobacco_yes": 1102
+  },
+  {
+    "county": "Washington County, OR",
+    "fips": "41067",
+    "tobacco_known": 29988,
+    "tobacco_yes": 401
+  },
+  {
+    "county": "Unidentified Counties, OR",
+    "fips": "41999",
+    "tobacco_known": 45736,
+    "tobacco_yes": 3226
+  },
+  {
+    "county": "Adams County, PA",
+    "fips": "42001",
+    "tobacco_known": 4517,
+    "tobacco_yes": 280
+  },
+  {
+    "county": "Allegheny County, PA",
+    "fips": "42003",
+    "tobacco_known": 59083,
+    "tobacco_yes": 3238
+  },
+  {
+    "county": "Beaver County, PA",
+    "fips": "42007",
+    "tobacco_known": 7454,
+    "tobacco_yes": 755
+  },
+  {
+    "county": "Berks County, PA",
+    "fips": "42011",
+    "tobacco_known": 22387,
+    "tobacco_yes": 929
+  },
+  {
+    "county": "Blair County, PA",
+    "fips": "42013",
+    "tobacco_known": 5706,
+    "tobacco_yes": 740
+  },
+  {
+    "county": "Bucks County, PA",
+    "fips": "42017",
+    "tobacco_known": 27668,
+    "tobacco_yes": 958
+  },
+  {
+    "county": "Butler County, PA",
+    "fips": "42019",
+    "tobacco_known": 8557,
+    "tobacco_yes": 583
+  },
+  {
+    "county": "Cambria County, PA",
+    "fips": "42021",
+    "tobacco_known": 5801,
+    "tobacco_yes": 780
+  },
+  {
+    "county": "Centre County, PA",
+    "fips": "42027",
+    "tobacco_known": 5396,
+    "tobacco_yes": 255
+  },
+  {
+    "county": "Chester County, PA",
+    "fips": "42029",
+    "tobacco_known": 27285,
+    "tobacco_yes": 593
+  },
+  {
+    "county": "Cumberland County, PA",
+    "fips": "42041",
+    "tobacco_known": 13221,
+    "tobacco_yes": 651
+  },
+  {
+    "county": "Dauphin County, PA",
+    "fips": "42043",
+    "tobacco_known": 16305,
+    "tobacco_yes": 974
+  },
+  {
+    "county": "Delaware County, PA",
+    "fips": "42045",
+    "tobacco_known": 30958,
+    "tobacco_yes": 1049
+  },
+  {
+    "county": "Erie County, PA",
+    "fips": "42049",
+    "tobacco_known": 12853,
+    "tobacco_yes": 1463
+  },
+  {
+    "county": "Fayette County, PA",
+    "fips": "42051",
+    "tobacco_known": 5722,
+    "tobacco_yes": 925
+  },
+  {
+    "county": "Franklin County, PA",
+    "fips": "42055",
+    "tobacco_known": 8433,
+    "tobacco_yes": 592
+  },
+  {
+    "county": "Lackawanna County, PA",
+    "fips": "42069",
+    "tobacco_known": 10010,
+    "tobacco_yes": 1037
+  },
+  {
+    "county": "Lancaster County, PA",
+    "fips": "42071",
+    "tobacco_known": 34463,
+    "tobacco_yes": 1278
+  },
+  {
+    "county": "Lebanon County, PA",
+    "fips": "42075",
+    "tobacco_known": 7774,
+    "tobacco_yes": 424
+  },
+  {
+    "county": "Lehigh County, PA",
+    "fips": "42077",
+    "tobacco_known": 19307,
+    "tobacco_yes": 798
+  },
+  {
+    "county": "Luzerne County, PA",
+    "fips": "42079",
+    "tobacco_known": 15672,
+    "tobacco_yes": 1401
+  },
+  {
+    "county": "Lycoming County, PA",
+    "fips": "42081",
+    "tobacco_known": 5482,
+    "tobacco_yes": 710
+  },
+  {
+    "county": "Mercer County, PA",
+    "fips": "42085",
+    "tobacco_known": 5005,
+    "tobacco_yes": 663
+  },
+  {
+    "county": "Monroe County, PA",
+    "fips": "42089",
+    "tobacco_known": 6655,
+    "tobacco_yes": 435
+  },
+  {
+    "county": "Montgomery County, PA",
+    "fips": "42091",
+    "tobacco_known": 41925,
+    "tobacco_yes": 1042
+  },
+  {
+    "county": "Northampton County, PA",
+    "fips": "42095",
+    "tobacco_known": 13720,
+    "tobacco_yes": 606
+  },
+  {
+    "county": "Philadelphia County, PA",
+    "fips": "42101",
+    "tobacco_known": 93486,
+    "tobacco_yes": 2880
+  },
+  {
+    "county": "Schuylkill County, PA",
+    "fips": "42107",
+    "tobacco_known": 6259,
+    "tobacco_yes": 831
+  },
+  {
+    "county": "Washington County, PA",
+    "fips": "42125",
+    "tobacco_known": 9527,
+    "tobacco_yes": 956
+  },
+  {
+    "county": "Westmoreland County, PA",
+    "fips": "42129",
+    "tobacco_known": 14110,
+    "tobacco_yes": 1281
+  },
+  {
+    "county": "York County, PA",
+    "fips": "42133",
+    "tobacco_known": 23763,
+    "tobacco_yes": 1381
+  },
+  {
+    "county": "Unidentified Counties, PA",
+    "fips": "42999",
+    "tobacco_known": 74820,
+    "tobacco_yes": 9530
+  },
+  {
+    "county": "Kent County, RI",
+    "fips": "44003",
+    "tobacco_known": 7245,
+    "tobacco_yes": 246
+  },
+  {
+    "county": "Providence County, RI",
+    "fips": "44007",
+    "tobacco_known": 34080,
+    "tobacco_yes": 792
+  },
+  {
+    "county": "Washington County, RI",
+    "fips": "44009",
+    "tobacco_known": 4196,
+    "tobacco_yes": 135
+  },
+  {
+    "county": "Unidentified Counties, RI",
+    "fips": "44999",
+    "tobacco_known": 4840,
+    "tobacco_yes": 115
+  },
+  {
+    "county": "Aiken County, SC",
+    "fips": "45003",
+    "tobacco_known": 9625,
+    "tobacco_yes": 462
+  },
+  {
+    "county": "Anderson County, SC",
+    "fips": "45007",
+    "tobacco_known": 11500,
+    "tobacco_yes": 880
+  },
+  {
+    "county": "Beaufort County, SC",
+    "fips": "45013",
+    "tobacco_known": 9346,
+    "tobacco_yes": 180
+  },
+  {
+    "county": "Berkeley County, SC",
+    "fips": "45015",
+    "tobacco_known": 15069,
+    "tobacco_yes": 564
+  },
+  {
+    "county": "Charleston County, SC",
+    "fips": "45019",
+    "tobacco_known": 24827,
+    "tobacco_yes": 405
+  },
+  {
+    "county": "Dorchester County, SC",
+    "fips": "45035",
+    "tobacco_known": 9931,
+    "tobacco_yes": 364
+  },
+  {
+    "county": "Florence County, SC",
+    "fips": "45041",
+    "tobacco_known": 7871,
+    "tobacco_yes": 393
+  },
+  {
+    "county": "Greenville County, SC",
+    "fips": "45045",
+    "tobacco_known": 32491,
+    "tobacco_yes": 1039
+  },
+  {
+    "county": "Horry County, SC",
+    "fips": "45051",
+    "tobacco_known": 16516,
+    "tobacco_yes": 1116
+  },
+  {
+    "county": "Lexington County, SC",
+    "fips": "45063",
+    "tobacco_known": 16292,
+    "tobacco_yes": 509
+  },
+  {
+    "county": "Pickens County, SC",
+    "fips": "45077",
+    "tobacco_known": 6078,
+    "tobacco_yes": 386
+  },
+  {
+    "county": "Richland County, SC",
+    "fips": "45079",
+    "tobacco_known": 22664,
+    "tobacco_yes": 198
+  },
+  {
+    "county": "Spartanburg County, SC",
+    "fips": "45083",
+    "tobacco_known": 20744,
+    "tobacco_yes": 930
+  },
+  {
+    "county": "Sumter County, SC",
+    "fips": "45085",
+    "tobacco_known": 6619,
+    "tobacco_yes": 199
+  },
+  {
+    "county": "York County, SC",
+    "fips": "45091",
+    "tobacco_known": 14846,
+    "tobacco_yes": 497
+  },
+  {
+    "county": "Unidentified Counties, SC",
+    "fips": "45999",
+    "tobacco_known": 61808,
+    "tobacco_yes": 4307
+  },
+  {
+    "county": "Minnehaha County, SD",
+    "fips": "46099",
+    "tobacco_known": 13810,
+    "tobacco_yes": 691
+  },
+  {
+    "county": "Pennington County, SD",
+    "fips": "46103",
+    "tobacco_known": 6969,
+    "tobacco_yes": 650
+  },
+  {
+    "county": "Unidentified Counties, SD",
+    "fips": "46999",
+    "tobacco_known": 35110,
+    "tobacco_yes": 2945
+  },
+  {
+    "county": "Blount County, TN",
+    "fips": "47009",
+    "tobacco_known": 6545,
+    "tobacco_yes": 691
+  },
+  {
+    "county": "Davidson County, TN",
+    "fips": "47037",
+    "tobacco_known": 50675,
+    "tobacco_yes": 1473
+  },
+  {
+    "county": "Hamilton County, TN",
+    "fips": "47065",
+    "tobacco_known": 22029,
+    "tobacco_yes": 1059
+  },
+  {
+    "county": "Knox County, TN",
+    "fips": "47093",
+    "tobacco_known": 26694,
+    "tobacco_yes": 2011
+  },
+  {
+    "county": "Montgomery County, TN",
+    "fips": "47125",
+    "tobacco_known": 18150,
+    "tobacco_yes": 930
+  },
+  {
+    "county": "Rutherford County, TN",
+    "fips": "47149",
+    "tobacco_known": 22170,
+    "tobacco_yes": 734
+  },
+  {
+    "county": "Shelby County, TN",
+    "fips": "47157",
+    "tobacco_known": 60607,
+    "tobacco_yes": 1620
+  },
+  {
+    "county": "Sullivan County, TN",
+    "fips": "47163",
+    "tobacco_known": 7429,
+    "tobacco_yes": 1033
+  },
+  {
+    "county": "Sumner County, TN",
+    "fips": "47165",
+    "tobacco_known": 11484,
+    "tobacco_yes": 693
+  },
+  {
+    "county": "Washington County, TN",
+    "fips": "47179",
+    "tobacco_known": 6203,
+    "tobacco_yes": 647
+  },
+  {
+    "county": "Williamson County, TN",
+    "fips": "47187",
+    "tobacco_known": 11406,
+    "tobacco_yes": 118
+  },
+  {
+    "county": "Wilson County, TN",
+    "fips": "47189",
+    "tobacco_known": 9160,
+    "tobacco_yes": 444
+  },
+  {
+    "county": "Unidentified Counties, TN",
+    "fips": "47999",
+    "tobacco_known": 154696,
+    "tobacco_yes": 19150
+  },
+  {
+    "county": "Bell County, TX",
+    "fips": "48027",
+    "tobacco_known": 30097,
+    "tobacco_yes": 522
+  },
+  {
+    "county": "Bexar County, TX",
+    "fips": "48029",
+    "tobacco_known": 130502,
+    "tobacco_yes": 720
+  },
+  {
+    "county": "Brazoria County, TX",
+    "fips": "48039",
+    "tobacco_known": 23137,
+    "tobacco_yes": 356
+  },
+  {
+    "county": "Brazos County, TX",
+    "fips": "48041",
+    "tobacco_known": 13579,
+    "tobacco_yes": 172
+  },
+  {
+    "county": "Cameron County, TX",
+    "fips": "48061",
+    "tobacco_known": 29527,
+    "tobacco_yes": 73
+  },
+  {
+    "county": "Collin County, TX",
+    "fips": "48085",
+    "tobacco_known": 63043,
+    "tobacco_yes": 225
+  },
+  {
+    "county": "Comal County, TX",
+    "fips": "48091",
+    "tobacco_known": 9576,
+    "tobacco_yes": 128
+  },
+  {
+    "county": "Dallas County, TX",
+    "fips": "48113",
+    "tobacco_known": 182163,
+    "tobacco_yes": 767
+  },
+  {
+    "county": "Denton County, TX",
+    "fips": "48121",
+    "tobacco_known": 55814,
+    "tobacco_yes": 381
+  },
+  {
+    "county": "Ector County, TX",
+    "fips": "48135",
+    "tobacco_known": 14639,
+    "tobacco_yes": 418
+  },
+  {
+    "county": "Ellis County, TX",
+    "fips": "48139",
+    "tobacco_known": 13552,
+    "tobacco_yes": 151
+  },
+  {
+    "county": "El Paso County, TX",
+    "fips": "48141",
+    "tobacco_known": 55080,
+    "tobacco_yes": 277
+  },
+  {
+    "county": "Fort Bend County, TX",
+    "fips": "48157",
+    "tobacco_known": 46284,
+    "tobacco_yes": 138
+  },
+  {
+    "county": "Galveston County, TX",
+    "fips": "48167",
+    "tobacco_known": 19432,
+    "tobacco_yes": 424
+  },
+  {
+    "county": "Grayson County, TX",
+    "fips": "48181",
+    "tobacco_known": 8658,
+    "tobacco_yes": 305
+  },
+  {
+    "county": "Gregg County, TX",
+    "fips": "48183",
+    "tobacco_known": 8250,
+    "tobacco_yes": 399
+  },
+  {
+    "county": "Guadalupe County, TX",
+    "fips": "48187",
+    "tobacco_known": 10254,
+    "tobacco_yes": 133
+  },
+  {
+    "county": "Harris County, TX",
+    "fips": "48201",
+    "tobacco_known": 320859,
+    "tobacco_yes": 1568
+  },
+  {
+    "county": "Hays County, TX",
+    "fips": "48209",
+    "tobacco_known": 15999,
+    "tobacco_yes": 105
+  },
+  {
+    "county": "Hidalgo County, TX",
+    "fips": "48215",
+    "tobacco_known": 68700,
+    "tobacco_yes": 166
+  },
+  {
+    "county": "Jefferson County, TX",
+    "fips": "48245",
+    "tobacco_known": 15710,
+    "tobacco_yes": 574
+  },
+  {
+    "county": "Johnson County, TX",
+    "fips": "48251",
+    "tobacco_known": 12105,
+    "tobacco_yes": 395
+  },
+  {
+    "county": "Kaufman County, TX",
+    "fips": "48257",
+    "tobacco_known": 12973,
+    "tobacco_yes": 164
+  },
+  {
+    "county": "Lubbock County, TX",
+    "fips": "48303",
+    "tobacco_known": 20330,
+    "tobacco_yes": 529
+  },
+  {
+    "county": "McLennan County, TX",
+    "fips": "48309",
+    "tobacco_known": 16571,
+    "tobacco_yes": 490
+  },
+  {
+    "county": "Midland County, TX",
+    "fips": "48329",
+    "tobacco_known": 15004,
+    "tobacco_yes": 333
+  },
+  {
+    "county": "Montgomery County, TX",
+    "fips": "48339",
+    "tobacco_known": 41951,
+    "tobacco_yes": 663
+  },
+  {
+    "county": "Nueces County, TX",
+    "fips": "48355",
+    "tobacco_known": 21321,
+    "tobacco_yes": 231
+  },
+  {
+    "county": "Parker County, TX",
+    "fips": "48367",
+    "tobacco_known": 9201,
+    "tobacco_yes": 255
+  },
+  {
+    "county": "Potter County, TX",
+    "fips": "48375",
+    "tobacco_known": 7727,
+    "tobacco_yes": 583
+  },
+  {
+    "county": "Randall County, TX",
+    "fips": "48381",
+    "tobacco_known": 8484,
+    "tobacco_yes": 422
+  },
+  {
+    "county": "Smith County, TX",
+    "fips": "48423",
+    "tobacco_known": 15203,
+    "tobacco_yes": 260
+  },
+  {
+    "county": "Tarrant County, TX",
+    "fips": "48439",
+    "tobacco_known": 136603,
+    "tobacco_yes": 1720
+  },
+  {
+    "county": "Taylor County, TX",
+    "fips": "48441",
+    "tobacco_known": 9650,
+    "tobacco_yes": 449
+  },
+  {
+    "county": "Tom Green County, TX",
+    "fips": "48451",
+    "tobacco_known": 7363,
+    "tobacco_yes": 197
+  },
+  {
+    "county": "Travis County, TX",
+    "fips": "48453",
+    "tobacco_known": 79964,
+    "tobacco_yes": 452
+  },
+  {
+    "county": "Webb County, TX",
+    "fips": "48479",
+    "tobacco_known": 21874,
+    "tobacco_yes": 0
+  },
+  {
+    "county": "Wichita County, TX",
+    "fips": "48485",
+    "tobacco_known": 7621,
+    "tobacco_yes": 466
+  },
+  {
+    "county": "Williamson County, TX",
+    "fips": "48491",
+    "tobacco_known": 40283,
+    "tobacco_yes": 263
+  },
+  {
+    "county": "Unidentified Counties, TX",
+    "fips": "48999",
+    "tobacco_known": 286841,
+    "tobacco_yes": 10696
+  },
+  {
+    "county": "Cache County, UT",
+    "fips": "49005",
+    "tobacco_known": 10274,
+    "tobacco_yes": 92
+  },
+  {
+    "county": "Davis County, UT",
+    "fips": "49011",
+    "tobacco_known": 23591,
+    "tobacco_yes": 363
+  },
+  {
+    "county": "Salt Lake County, UT",
+    "fips": "49035",
+    "tobacco_known": 73540,
+    "tobacco_yes": 1207
+  },
+  {
+    "county": "Utah County, UT",
+    "fips": "49049",
+    "tobacco_known": 60513,
+    "tobacco_yes": 385
+  },
+  {
+    "county": "Washington County, UT",
+    "fips": "49053",
+    "tobacco_known": 11700,
+    "tobacco_yes": 137
+  },
+  {
+    "county": "Weber County, UT",
+    "fips": "49057",
+    "tobacco_known": 17308,
+    "tobacco_yes": 451
+  },
+  {
+    "county": "Unidentified Counties, UT",
+    "fips": "49999",
+    "tobacco_known": 32249,
+    "tobacco_yes": 1091
+  },
+  {
+    "county": "Chittenden County, VT",
+    "fips": "50007",
+    "tobacco_known": 6761,
+    "tobacco_yes": 330
+  },
+  {
+    "county": "Unidentified Counties, VT",
+    "fips": "50999",
+    "tobacco_known": 18950,
+    "tobacco_yes": 1958
+  },
+  {
+    "county": "Arlington County, VA",
+    "fips": "51013",
+    "tobacco_known": 12188,
+    "tobacco_yes": 0
+  },
+  {
+    "county": "Chesterfield County, VA",
+    "fips": "51041",
+    "tobacco_known": 20407,
+    "tobacco_yes": 365
+  },
+  {
+    "county": "Fairfax County, VA",
+    "fips": "51059",
+    "tobacco_known": 61856,
+    "tobacco_yes": 81
+  },
+  {
+    "county": "Henrico County, VA",
+    "fips": "51087",
+    "tobacco_known": 18382,
+    "tobacco_yes": 416
+  },
+  {
+    "county": "Loudoun County, VA",
+    "fips": "51107",
+    "tobacco_known": 23620,
+    "tobacco_yes": 52
+  },
+  {
+    "county": "Prince William County, VA",
+    "fips": "51153",
+    "tobacco_known": 31120,
+    "tobacco_yes": 166
+  },
+  {
+    "county": "Spotsylvania County, VA",
+    "fips": "51177",
+    "tobacco_known": 8043,
+    "tobacco_yes": 307
+  },
+  {
+    "county": "Stafford County, VA",
+    "fips": "51179",
+    "tobacco_known": 9117,
+    "tobacco_yes": 190
+  },
+  {
+    "county": "Alexandria city, VA",
+    "fips": "51510",
+    "tobacco_known": 11326,
+    "tobacco_yes": 15
+  },
+  {
+    "county": "Chesapeake city, VA",
+    "fips": "51550",
+    "tobacco_known": 13919,
+    "tobacco_yes": 283
+  },
+  {
+    "county": "Hampton city, VA",
+    "fips": "51650",
+    "tobacco_known": 7804,
+    "tobacco_yes": 275
+  },
+  {
+    "county": "Newport News city, VA",
+    "fips": "51700",
+    "tobacco_known": 12429,
+    "tobacco_yes": 513
+  },
+  {
+    "county": "Norfolk city, VA",
+    "fips": "51710",
+    "tobacco_known": 15253,
+    "tobacco_yes": 476
+  },
+  {
+    "county": "Richmond city, VA",
+    "fips": "51760",
+    "tobacco_known": 14687,
+    "tobacco_yes": 494
+  },
+  {
+    "county": "Virginia Beach city, VA",
+    "fips": "51810",
+    "tobacco_known": 25404,
+    "tobacco_yes": 516
+  },
+  {
+    "county": "Unidentified Counties, VA",
+    "fips": "51999",
+    "tobacco_known": 187166,
+    "tobacco_yes": 12045
+  },
+  {
+    "county": "Benton County, WA",
+    "fips": "53005",
+    "tobacco_known": 12058,
+    "tobacco_yes": 327
+  },
+  {
+    "county": "Clark County, WA",
+    "fips": "53011",
+    "tobacco_known": 26852,
+    "tobacco_yes": 1122
+  },
+  {
+    "county": "Cowlitz County, WA",
+    "fips": "53015",
+    "tobacco_known": 5864,
+    "tobacco_yes": 550
+  },
+  {
+    "county": "King County, WA",
+    "fips": "53033",
+    "tobacco_known": 112545,
+    "tobacco_yes": 1344
+  },
+  {
+    "county": "Kitsap County, WA",
+    "fips": "53035",
+    "tobacco_known": 13053,
+    "tobacco_yes": 498
+  },
+  {
+    "county": "Pierce County, WA",
+    "fips": "53053",
+    "tobacco_known": 53344,
+    "tobacco_yes": 2109
+  },
+  {
+    "county": "Skagit County, WA",
+    "fips": "53057",
+    "tobacco_known": 6702,
+    "tobacco_yes": 219
+  },
+  {
+    "county": "Snohomish County, WA",
+    "fips": "53061",
+    "tobacco_known": 47370,
+    "tobacco_yes": 1310
+  },
+  {
+    "county": "Spokane County, WA",
+    "fips": "53063",
+    "tobacco_known": 28132,
+    "tobacco_yes": 1647
+  },
+  {
+    "county": "Thurston County, WA",
+    "fips": "53067",
+    "tobacco_known": 14773,
+    "tobacco_yes": 661
+  },
+  {
+    "county": "Whatcom County, WA",
+    "fips": "53073",
+    "tobacco_known": 9751,
+    "tobacco_yes": 304
+  },
+  {
+    "county": "Yakima County, WA",
+    "fips": "53077",
+    "tobacco_known": 16667,
+    "tobacco_yes": 437
+  },
+  {
+    "county": "Unidentified Counties, WA",
+    "fips": "53999",
+    "tobacco_known": 56336,
+    "tobacco_yes": 3060
+  },
+  {
+    "county": "Berkeley County, WV",
+    "fips": "54003",
+    "tobacco_known": 7694,
+    "tobacco_yes": 637
+  },
+  {
+    "county": "Kanawha County, WV",
+    "fips": "54039",
+    "tobacco_known": 8348,
+    "tobacco_yes": 1378
+  },
+  {
+    "county": "Unidentified Counties, WV",
+    "fips": "54999",
+    "tobacco_known": 68889,
+    "tobacco_yes": 11236
+  },
+  {
+    "county": "Brown County, WI",
+    "fips": "55009",
+    "tobacco_known": 14827,
+    "tobacco_yes": 776
+  },
+  {
+    "county": "Dane County, WI",
+    "fips": "55025",
+    "tobacco_known": 27629,
+    "tobacco_yes": 742
+  },
+  {
+    "county": "Fond du Lac County, WI",
+    "fips": "55039",
+    "tobacco_known": 5005,
+    "tobacco_yes": 358
+  },
+  {
+    "county": "Kenosha County, WI",
+    "fips": "55059",
+    "tobacco_known": 8372,
+    "tobacco_yes": 404
+  },
+  {
+    "county": "La Crosse County, WI",
+    "fips": "55063",
+    "tobacco_known": 5575,
+    "tobacco_yes": 302
+  },
+  {
+    "county": "Marathon County, WI",
+    "fips": "55073",
+    "tobacco_known": 7069,
+    "tobacco_yes": 461
+  },
+  {
+    "county": "Milwaukee County, WI",
+    "fips": "55079",
+    "tobacco_known": 58174,
+    "tobacco_yes": 2377
+  },
+  {
+    "county": "Outagamie County, WI",
+    "fips": "55087",
+    "tobacco_known": 10432,
+    "tobacco_yes": 546
+  },
+  {
+    "county": "Racine County, WI",
+    "fips": "55101",
+    "tobacco_known": 10558,
+    "tobacco_yes": 599
+  },
+  {
+    "county": "Rock County, WI",
+    "fips": "55105",
+    "tobacco_known": 9016,
+    "tobacco_yes": 702
+  },
+  {
+    "county": "Sheboygan County, WI",
+    "fips": "55117",
+    "tobacco_known": 5462,
+    "tobacco_yes": 322
+  },
+  {
+    "county": "Walworth County, WI",
+    "fips": "55127",
+    "tobacco_known": 4437,
+    "tobacco_yes": 226
+  },
+  {
+    "county": "Washington County, WI",
+    "fips": "55131",
+    "tobacco_known": 6196,
+    "tobacco_yes": 230
+  },
+  {
+    "county": "Waukesha County, WI",
+    "fips": "55133",
+    "tobacco_known": 18684,
+    "tobacco_yes": 356
+  },
+  {
+    "county": "Winnebago County, WI",
+    "fips": "55139",
+    "tobacco_known": 8399,
+    "tobacco_yes": 625
+  },
+  {
+    "county": "Unidentified Counties, WI",
+    "fips": "55999",
+    "tobacco_known": 100130,
+    "tobacco_yes": 7811
+  },
+  {
+    "county": "Unidentified Counties, WY",
+    "fips": "56999",
+    "tobacco_known": 29634,
+    "tobacco_yes": 2623
+  }
+]

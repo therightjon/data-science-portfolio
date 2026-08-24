@@ -1,0 +1,15 @@
+factor,level,n,high_risk_rate
+Depression during pregnancy,Negative,616,0.3912337662337662
+Depression during pregnancy,Positive,184,0.5869565217391305
+Depression before pregnancy,Negative,719,0.40751043115438107
+Depression before pregnancy,Positive,81,0.691358024691358
+Abuse reported,No,359,0.6406685236768802
+Abuse reported,Yes,403,0.2878411910669975
+Abuse reported,Missing,38,0.07894736842105263
+Ability to confide,No,255,0.5647058823529412
+Ability to confide,Yes,544,0.37683823529411764
+Unplanned pregnancy,No,232,0.5387931034482759
+Unplanned pregnancy,Yes,568,0.39436619718309857
+Support received,High,307,0.2703583061889251
+Support received,Low,154,0.5714285714285714
+Support received,Medium,339,0.5250737463126843

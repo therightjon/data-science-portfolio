@@ -1,0 +1,24 @@
+column,action,records_affected,detail
+Disease before pregnancy,Invalid value recoded as missing,1,1.2
+Occupation before latest pregnancy,Category normalized,1,House wife -> Housewife
+Occupation After Your Latest Childbirth,Category normalized,1,House wife -> Housewife
+Education Level,Category normalized,11,Primary school -> Primary School
+Education Level,Category normalized,9,High school -> High School
+Husband's education level,Category normalized,6,Primary school -> Primary School
+Husband's education level,Category normalized,8,High school -> High School
+Total children,Category normalized,9,More than Two -> More than two
+History of pregnancy loss,Category normalized,24,Still-born Delivery -> Stillbirth
+History of pregnancy loss,Category normalized,5,Still-born delivery -> Stillbirth
+Diseases during pregnancy,Category normalized,13,Chronic disease -> Chronic Disease
+Diseases during pregnancy,Category normalized,16,Non-chronic disease -> Non-Chronic Disease
+Addiction,Category normalized,2,Drinking -> Alcohol
+Addiction,Blank mapped to documented response,789,None
+Disease before pregnancy,Blank mapped to documented response,589,None
+History of pregnancy loss,Blank mapped to documented response,613,None
+Monthly income before latest pregnancy,Blank mapped to documented response,437,None
+Current monthly income,Blank mapped to documented response,525,None
+Husband’s monthly income,Blank mapped to documented response,28,None
+Education Level,Blank mapped to documented response,6,None
+Husband's education level,Blank mapped to documented response,9,None
+Diseases during pregnancy,Blank mapped to documented response,371,None
+Age of immediate older children,Structural or unavailable blank labeled,517,Not available or not applicable

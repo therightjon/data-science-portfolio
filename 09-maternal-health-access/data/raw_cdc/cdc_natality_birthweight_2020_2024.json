@@ -1,0 +1,3758 @@
+[
+  {
+    "births_known": 12546,
+    "county": "Baldwin County, AL",
+    "fips": "01003",
+    "low_birth_weight": 1043
+  },
+  {
+    "births_known": 6426,
+    "county": "Calhoun County, AL",
+    "fips": "01015",
+    "low_birth_weight": 585
+  },
+  {
+    "births_known": 5859,
+    "county": "Etowah County, AL",
+    "fips": "01055",
+    "low_birth_weight": 460
+  },
+  {
+    "births_known": 6444,
+    "county": "Houston County, AL",
+    "fips": "01069",
+    "low_birth_weight": 691
+  },
+  {
+    "births_known": 39451,
+    "county": "Jefferson County, AL",
+    "fips": "01073",
+    "low_birth_weight": 4489
+  },
+  {
+    "births_known": 9693,
+    "county": "Lee County, AL",
+    "fips": "01081",
+    "low_birth_weight": 955
+  },
+  {
+    "births_known": 22365,
+    "county": "Madison County, AL",
+    "fips": "01089",
+    "low_birth_weight": 2252
+  },
+  {
+    "births_known": 25213,
+    "county": "Mobile County, AL",
+    "fips": "01097",
+    "low_birth_weight": 3054
+  },
+  {
+    "births_known": 14694,
+    "county": "Montgomery County, AL",
+    "fips": "01101",
+    "low_birth_weight": 1951
+  },
+  {
+    "births_known": 7307,
+    "county": "Morgan County, AL",
+    "fips": "01103",
+    "low_birth_weight": 649
+  },
+  {
+    "births_known": 11627,
+    "county": "Shelby County, AL",
+    "fips": "01117",
+    "low_birth_weight": 1032
+  },
+  {
+    "births_known": 12593,
+    "county": "Tuscaloosa County, AL",
+    "fips": "01125",
+    "low_birth_weight": 1522
+  },
+  {
+    "births_known": 115228,
+    "county": "Unidentified Counties, AL",
+    "fips": "01999",
+    "low_birth_weight": 11504
+  },
+  {
+    "births_known": 17992,
+    "county": "Anchorage Borough, AK",
+    "fips": "02020",
+    "low_birth_weight": 1279
+  },
+  {
+    "births_known": 28138,
+    "county": "Unidentified Counties, AK",
+    "fips": "02999",
+    "low_birth_weight": 1866
+  },
+  {
+    "births_known": 6137,
+    "county": "Cochise County, AZ",
+    "fips": "04003",
+    "low_birth_weight": 507
+  },
+  {
+    "births_known": 6456,
+    "county": "Coconino County, AZ",
+    "fips": "04005",
+    "low_birth_weight": 492
+  },
+  {
+    "births_known": 251438,
+    "county": "Maricopa County, AZ",
+    "fips": "04013",
+    "low_birth_weight": 19556
+  },
+  {
+    "births_known": 8683,
+    "county": "Mohave County, AZ",
+    "fips": "04015",
+    "low_birth_weight": 660
+  },
+  {
+    "births_known": 6150,
+    "county": "Navajo County, AZ",
+    "fips": "04017",
+    "low_birth_weight": 513
+  },
+  {
+    "births_known": 49557,
+    "county": "Pima County, AZ",
+    "fips": "04019",
+    "low_birth_weight": 4133
+  },
+  {
+    "births_known": 25604,
+    "county": "Pinal County, AZ",
+    "fips": "04021",
+    "low_birth_weight": 1818
+  },
+  {
+    "births_known": 8739,
+    "county": "Yavapai County, AZ",
+    "fips": "04025",
+    "low_birth_weight": 640
+  },
+  {
+    "births_known": 14408,
+    "county": "Yuma County, AZ",
+    "fips": "04027",
+    "low_birth_weight": 1002
+  },
+  {
+    "births_known": 12627,
+    "county": "Unidentified Counties, AZ",
+    "fips": "04999",
+    "low_birth_weight": 1053
+  },
+  {
+    "births_known": 19199,
+    "county": "Benton County, AR",
+    "fips": "05007",
+    "low_birth_weight": 1413
+  },
+  {
+    "births_known": 7397,
+    "county": "Faulkner County, AR",
+    "fips": "05045",
+    "low_birth_weight": 649
+  },
+  {
+    "births_known": 24441,
+    "county": "Pulaski County, AR",
+    "fips": "05119",
+    "low_birth_weight": 2957
+  },
+  {
+    "births_known": 6890,
+    "county": "Saline County, AR",
+    "fips": "05125",
+    "low_birth_weight": 610
+  },
+  {
+    "births_known": 7876,
+    "county": "Sebastian County, AR",
+    "fips": "05131",
+    "low_birth_weight": 651
+  },
+  {
+    "births_known": 16262,
+    "county": "Washington County, AR",
+    "fips": "05143",
+    "low_birth_weight": 1249
+  },
+  {
+    "births_known": 95116,
+    "county": "Unidentified Counties, AR",
+    "fips": "05999",
+    "low_birth_weight": 9351
+  },
+  {
+    "births_known": 83071,
+    "county": "Alameda County, CA",
+    "fips": "06001",
+    "low_birth_weight": 6317
+  },
+  {
+    "births_known": 10026,
+    "county": "Butte County, CA",
+    "fips": "06007",
+    "low_birth_weight": 691
+  },
+  {
+    "births_known": 57302,
+    "county": "Contra Costa County, CA",
+    "fips": "06013",
+    "low_birth_weight": 4279
+  },
+  {
+    "births_known": 7580,
+    "county": "El Dorado County, CA",
+    "fips": "06017",
+    "low_birth_weight": 499
+  },
+  {
+    "births_known": 68054,
+    "county": "Fresno County, CA",
+    "fips": "06019",
+    "low_birth_weight": 5281
+  },
+  {
+    "births_known": 5862,
+    "county": "Humboldt County, CA",
+    "fips": "06023",
+    "low_birth_weight": 373
+  },
+  {
+    "births_known": 11706,
+    "county": "Imperial County, CA",
+    "fips": "06025",
+    "low_birth_weight": 778
+  },
+  {
+    "births_known": 61164,
+    "county": "Kern County, CA",
+    "fips": "06029",
+    "low_birth_weight": 4686
+  },
+  {
+    "births_known": 10627,
+    "county": "Kings County, CA",
+    "fips": "06031",
+    "low_birth_weight": 734
+  },
+  {
+    "births_known": 471328,
+    "county": "Los Angeles County, CA",
+    "fips": "06037",
+    "low_birth_weight": 35934
+  },
+  {
+    "births_known": 10584,
+    "county": "Madera County, CA",
+    "fips": "06039",
+    "low_birth_weight": 679
+  },
+  {
+    "births_known": 10847,
+    "county": "Marin County, CA",
+    "fips": "06041",
+    "low_birth_weight": 582
+  },
+  {
+    "births_known": 18853,
+    "county": "Merced County, CA",
+    "fips": "06047",
+    "low_birth_weight": 1260
+  },
+  {
+    "births_known": 27206,
+    "county": "Monterey County, CA",
+    "fips": "06053",
+    "low_birth_weight": 1826
+  },
+  {
+    "births_known": 5911,
+    "county": "Napa County, CA",
+    "fips": "06055",
+    "low_birth_weight": 381
+  },
+  {
+    "births_known": 153575,
+    "county": "Orange County, CA",
+    "fips": "06059",
+    "low_birth_weight": 10629
+  },
+  {
+    "births_known": 18831,
+    "county": "Placer County, CA",
+    "fips": "06061",
+    "low_birth_weight": 1052
+  },
+  {
+    "births_known": 135628,
+    "county": "Riverside County, CA",
+    "fips": "06065",
+    "low_birth_weight": 9892
+  },
+  {
+    "births_known": 89417,
+    "county": "Sacramento County, CA",
+    "fips": "06067",
+    "low_birth_weight": 6557
+  },
+  {
+    "births_known": 129606,
+    "county": "San Bernardino County, CA",
+    "fips": "06071",
+    "low_birth_weight": 10667
+  },
+  {
+    "births_known": 183643,
+    "county": "San Diego County, CA",
+    "fips": "06073",
+    "low_birth_weight": 12746
+  },
+  {
+    "births_known": 36344,
+    "county": "San Francisco County, CA",
+    "fips": "06075",
+    "low_birth_weight": 2667
+  },
+  {
+    "births_known": 48729,
+    "county": "San Joaquin County, CA",
+    "fips": "06077",
+    "low_birth_weight": 3795
+  },
+  {
+    "births_known": 12014,
+    "county": "San Luis Obispo County, CA",
+    "fips": "06079",
+    "low_birth_weight": 778
+  },
+  {
+    "births_known": 37092,
+    "county": "San Mateo County, CA",
+    "fips": "06081",
+    "low_birth_weight": 2573
+  },
+  {
+    "births_known": 27319,
+    "county": "Santa Barbara County, CA",
+    "fips": "06083",
+    "low_birth_weight": 1835
+  },
+  {
+    "births_known": 94871,
+    "county": "Santa Clara County, CA",
+    "fips": "06085",
+    "low_birth_weight": 7054
+  },
+  {
+    "births_known": 10951,
+    "county": "Santa Cruz County, CA",
+    "fips": "06087",
+    "low_birth_weight": 669
+  },
+  {
+    "births_known": 8984,
+    "county": "Shasta County, CA",
+    "fips": "06089",
+    "low_birth_weight": 621
+  },
+  {
+    "births_known": 24030,
+    "county": "Solano County, CA",
+    "fips": "06095",
+    "low_birth_weight": 1802
+  },
+  {
+    "births_known": 22060,
+    "county": "Sonoma County, CA",
+    "fips": "06097",
+    "low_birth_weight": 1304
+  },
+  {
+    "births_known": 34943,
+    "county": "Stanislaus County, CA",
+    "fips": "06099",
+    "low_birth_weight": 2388
+  },
+  {
+    "births_known": 33326,
+    "county": "Tulare County, CA",
+    "fips": "06107",
+    "low_birth_weight": 2418
+  },
+  {
+    "births_known": 42332,
+    "county": "Ventura County, CA",
+    "fips": "06111",
+    "low_birth_weight": 2756
+  },
+  {
+    "births_known": 9555,
+    "county": "Yolo County, CA",
+    "fips": "06113",
+    "low_birth_weight": 602
+  },
+  {
+    "births_known": 48267,
+    "county": "Unidentified Counties, CA",
+    "fips": "06999",
+    "low_birth_weight": 3409
+  },
+  {
+    "births_known": 31352,
+    "county": "Adams County, CO",
+    "fips": "08001",
+    "low_birth_weight": 2986
+  },
+  {
+    "births_known": 37823,
+    "county": "Arapahoe County, CO",
+    "fips": "08005",
+    "low_birth_weight": 3874
+  },
+  {
+    "births_known": 12163,
+    "county": "Boulder County, CO",
+    "fips": "08013",
+    "low_birth_weight": 986
+  },
+  {
+    "births_known": 45134,
+    "county": "Denver County, CO",
+    "fips": "08031",
+    "low_birth_weight": 4543
+  },
+  {
+    "births_known": 19010,
+    "county": "Douglas County, CO",
+    "fips": "08035",
+    "low_birth_weight": 1677
+  },
+  {
+    "births_known": 44774,
+    "county": "El Paso County, CO",
+    "fips": "08041",
+    "low_birth_weight": 4383
+  },
+  {
+    "births_known": 27256,
+    "county": "Jefferson County, CO",
+    "fips": "08059",
+    "low_birth_weight": 2516
+  },
+  {
+    "births_known": 15105,
+    "county": "Larimer County, CO",
+    "fips": "08069",
+    "low_birth_weight": 1336
+  },
+  {
+    "births_known": 7397,
+    "county": "Mesa County, CO",
+    "fips": "08077",
+    "low_birth_weight": 627
+  },
+  {
+    "births_known": 8367,
+    "county": "Pueblo County, CO",
+    "fips": "08101",
+    "low_birth_weight": 893
+  },
+  {
+    "births_known": 23530,
+    "county": "Weld County, CO",
+    "fips": "08123",
+    "low_birth_weight": 2067
+  },
+  {
+    "births_known": 39526,
+    "county": "Unidentified Counties, CO",
+    "fips": "08999",
+    "low_birth_weight": 3949
+  },
+  {
+    "births_known": 50061,
+    "county": "Fairfield County, CT",
+    "fips": "09001",
+    "low_birth_weight": 3633
+  },
+  {
+    "births_known": 44165,
+    "county": "Hartford County, CT",
+    "fips": "09003",
+    "low_birth_weight": 3887
+  },
+  {
+    "births_known": 7193,
+    "county": "Litchfield County, CT",
+    "fips": "09005",
+    "low_birth_weight": 444
+  },
+  {
+    "births_known": 6554,
+    "county": "Middlesex County, CT",
+    "fips": "09007",
+    "low_birth_weight": 466
+  },
+  {
+    "births_known": 42212,
+    "county": "New Haven County, CT",
+    "fips": "09009",
+    "low_birth_weight": 3637
+  },
+  {
+    "births_known": 12429,
+    "county": "New London County, CT",
+    "fips": "09011",
+    "low_birth_weight": 1003
+  },
+  {
+    "births_known": 5743,
+    "county": "Tolland County, CT",
+    "fips": "09013",
+    "low_birth_weight": 410
+  },
+  {
+    "births_known": 5155,
+    "county": "Windham County, CT",
+    "fips": "09015",
+    "low_birth_weight": 389
+  },
+  {
+    "births_known": 10534,
+    "county": "Kent County, DE",
+    "fips": "10001",
+    "low_birth_weight": 1039
+  },
+  {
+    "births_known": 30322,
+    "county": "New Castle County, DE",
+    "fips": "10003",
+    "low_birth_weight": 2845
+  },
+  {
+    "births_known": 11777,
+    "county": "Sussex County, DE",
+    "fips": "10005",
+    "low_birth_weight": 923
+  },
+  {
+    "births_known": 41115,
+    "county": "District of Columbia, DC",
+    "fips": "11001",
+    "low_birth_weight": 4165
+  },
+  {
+    "births_known": 12903,
+    "county": "Alachua County, FL",
+    "fips": "12001",
+    "low_birth_weight": 1312
+  },
+  {
+    "births_known": 10501,
+    "county": "Bay County, FL",
+    "fips": "12005",
+    "low_birth_weight": 882
+  },
+  {
+    "births_known": 25938,
+    "county": "Brevard County, FL",
+    "fips": "12009",
+    "low_birth_weight": 2288
+  },
+  {
+    "births_known": 101794,
+    "county": "Broward County, FL",
+    "fips": "12011",
+    "low_birth_weight": 9827
+  },
+  {
+    "births_known": 5426,
+    "county": "Charlotte County, FL",
+    "fips": "12015",
+    "low_birth_weight": 489
+  },
+  {
+    "births_known": 5190,
+    "county": "Citrus County, FL",
+    "fips": "12017",
+    "low_birth_weight": 419
+  },
+  {
+    "births_known": 11180,
+    "county": "Clay County, FL",
+    "fips": "12019",
+    "low_birth_weight": 981
+  },
+  {
+    "births_known": 16796,
+    "county": "Collier County, FL",
+    "fips": "12021",
+    "low_birth_weight": 1234
+  },
+  {
+    "births_known": 63220,
+    "county": "Duval County, FL",
+    "fips": "12031",
+    "low_birth_weight": 6593
+  },
+  {
+    "births_known": 18493,
+    "county": "Escambia County, FL",
+    "fips": "12033",
+    "low_birth_weight": 2073
+  },
+  {
+    "births_known": 8441,
+    "county": "Hernando County, FL",
+    "fips": "12053",
+    "low_birth_weight": 729
+  },
+  {
+    "births_known": 84931,
+    "county": "Hillsborough County, FL",
+    "fips": "12057",
+    "low_birth_weight": 7745
+  },
+  {
+    "births_known": 6130,
+    "county": "Indian River County, FL",
+    "fips": "12061",
+    "low_birth_weight": 507
+  },
+  {
+    "births_known": 18296,
+    "county": "Lake County, FL",
+    "fips": "12069",
+    "low_birth_weight": 1607
+  },
+  {
+    "births_known": 37386,
+    "county": "Lee County, FL",
+    "fips": "12071",
+    "low_birth_weight": 3304
+  },
+  {
+    "births_known": 13899,
+    "county": "Leon County, FL",
+    "fips": "12073",
+    "low_birth_weight": 1592
+  },
+  {
+    "births_known": 18978,
+    "county": "Manatee County, FL",
+    "fips": "12081",
+    "low_birth_weight": 1599
+  },
+  {
+    "births_known": 18109,
+    "county": "Marion County, FL",
+    "fips": "12083",
+    "low_birth_weight": 1583
+  },
+  {
+    "births_known": 6399,
+    "county": "Martin County, FL",
+    "fips": "12085",
+    "low_birth_weight": 440
+  },
+  {
+    "births_known": 143147,
+    "county": "Miami-Dade County, FL",
+    "fips": "12086",
+    "low_birth_weight": 11477
+  },
+  {
+    "births_known": 13001,
+    "county": "Okaloosa County, FL",
+    "fips": "12091",
+    "low_birth_weight": 1091
+  },
+  {
+    "births_known": 81140,
+    "county": "Orange County, FL",
+    "fips": "12095",
+    "low_birth_weight": 7577
+  },
+  {
+    "births_known": 24243,
+    "county": "Osceola County, FL",
+    "fips": "12097",
+    "low_birth_weight": 2148
+  },
+  {
+    "births_known": 74076,
+    "county": "Palm Beach County, FL",
+    "fips": "12099",
+    "low_birth_weight": 6585
+  },
+  {
+    "births_known": 28042,
+    "county": "Pasco County, FL",
+    "fips": "12101",
+    "low_birth_weight": 2318
+  },
+  {
+    "births_known": 36311,
+    "county": "Pinellas County, FL",
+    "fips": "12103",
+    "low_birth_weight": 3085
+  },
+  {
+    "births_known": 44247,
+    "county": "Polk County, FL",
+    "fips": "12105",
+    "low_birth_weight": 4103
+  },
+  {
+    "births_known": 12173,
+    "county": "St. Johns County, FL",
+    "fips": "12109",
+    "low_birth_weight": 886
+  },
+  {
+    "births_known": 17733,
+    "county": "St. Lucie County, FL",
+    "fips": "12111",
+    "low_birth_weight": 1631
+  },
+  {
+    "births_known": 9890,
+    "county": "Santa Rosa County, FL",
+    "fips": "12113",
+    "low_birth_weight": 806
+  },
+  {
+    "births_known": 14708,
+    "county": "Sarasota County, FL",
+    "fips": "12115",
+    "low_birth_weight": 1117
+  },
+  {
+    "births_known": 22385,
+    "county": "Seminole County, FL",
+    "fips": "12117",
+    "low_birth_weight": 1885
+  },
+  {
+    "births_known": 24752,
+    "county": "Volusia County, FL",
+    "fips": "12127",
+    "low_birth_weight": 2236
+  },
+  {
+    "births_known": 65589,
+    "county": "Unidentified Counties, FL",
+    "fips": "12999",
+    "low_birth_weight": 6065
+  },
+  {
+    "births_known": 6822,
+    "county": "Bartow County, GA",
+    "fips": "13015",
+    "low_birth_weight": 506
+  },
+  {
+    "births_known": 10182,
+    "county": "Bibb County, GA",
+    "fips": "13021",
+    "low_birth_weight": 1419
+  },
+  {
+    "births_known": 7957,
+    "county": "Carroll County, GA",
+    "fips": "13045",
+    "low_birth_weight": 704
+  },
+  {
+    "births_known": 18058,
+    "county": "Chatham County, GA",
+    "fips": "13051",
+    "low_birth_weight": 2053
+  },
+  {
+    "births_known": 14466,
+    "county": "Cherokee County, GA",
+    "fips": "13057",
+    "low_birth_weight": 980
+  },
+  {
+    "births_known": 6618,
+    "county": "Clarke County, GA",
+    "fips": "13059",
+    "low_birth_weight": 690
+  },
+  {
+    "births_known": 16941,
+    "county": "Clayton County, GA",
+    "fips": "13063",
+    "low_birth_weight": 2387
+  },
+  {
+    "births_known": 43942,
+    "county": "Cobb County, GA",
+    "fips": "13067",
+    "low_birth_weight": 3927
+  },
+  {
+    "births_known": 8411,
+    "county": "Columbia County, GA",
+    "fips": "13073",
+    "low_birth_weight": 655
+  },
+  {
+    "births_known": 8244,
+    "county": "Coweta County, GA",
+    "fips": "13077",
+    "low_birth_weight": 789
+  },
+  {
+    "births_known": 49047,
+    "county": "DeKalb County, GA",
+    "fips": "13089",
+    "low_birth_weight": 5260
+  },
+  {
+    "births_known": 8412,
+    "county": "Douglas County, GA",
+    "fips": "13097",
+    "low_birth_weight": 961
+  },
+  {
+    "births_known": 4524,
+    "county": "Fayette County, GA",
+    "fips": "13113",
+    "low_birth_weight": 479
+  },
+  {
+    "births_known": 11546,
+    "county": "Forsyth County, GA",
+    "fips": "13117",
+    "low_birth_weight": 814
+  },
+  {
+    "births_known": 61251,
+    "county": "Fulton County, GA",
+    "fips": "13121",
+    "low_birth_weight": 7042
+  },
+  {
+    "births_known": 54920,
+    "county": "Gwinnett County, GA",
+    "fips": "13135",
+    "low_birth_weight": 5047
+  },
+  {
+    "births_known": 13709,
+    "county": "Hall County, GA",
+    "fips": "13139",
+    "low_birth_weight": 978
+  },
+  {
+    "births_known": 13990,
+    "county": "Henry County, GA",
+    "fips": "13151",
+    "low_birth_weight": 1743
+  },
+  {
+    "births_known": 9841,
+    "county": "Houston County, GA",
+    "fips": "13153",
+    "low_birth_weight": 1002
+  },
+  {
+    "births_known": 7893,
+    "county": "Lowndes County, GA",
+    "fips": "13185",
+    "low_birth_weight": 945
+  },
+  {
+    "births_known": 13249,
+    "county": "Muscogee County, GA",
+    "fips": "13215",
+    "low_birth_weight": 1682
+  },
+  {
+    "births_known": 9173,
+    "county": "Paulding County, GA",
+    "fips": "13223",
+    "low_birth_weight": 889
+  },
+  {
+    "births_known": 13894,
+    "county": "Richmond County, GA",
+    "fips": "13245",
+    "low_birth_weight": 1792
+  },
+  {
+    "births_known": 6306,
+    "county": "Whitfield County, GA",
+    "fips": "13313",
+    "low_birth_weight": 476
+  },
+  {
+    "births_known": 204403,
+    "county": "Unidentified Counties, GA",
+    "fips": "13999",
+    "low_birth_weight": 20993
+  },
+  {
+    "births_known": 10277,
+    "county": "Hawaii County, HI",
+    "fips": "15001",
+    "low_birth_weight": 949
+  },
+  {
+    "births_known": 54357,
+    "county": "Honolulu County, HI",
+    "fips": "15003",
+    "low_birth_weight": 4685
+  },
+  {
+    "births_known": 8206,
+    "county": "Maui County, HI",
+    "fips": "15009",
+    "low_birth_weight": 663
+  },
+  {
+    "births_known": 3765,
+    "county": "Unidentified Counties, HI",
+    "fips": "15999",
+    "low_birth_weight": 300
+  },
+  {
+    "births_known": 25347,
+    "county": "Ada County, ID",
+    "fips": "16001",
+    "low_birth_weight": 1620
+  },
+  {
+    "births_known": 8980,
+    "county": "Bonneville County, ID",
+    "fips": "16019",
+    "low_birth_weight": 741
+  },
+  {
+    "births_known": 16830,
+    "county": "Canyon County, ID",
+    "fips": "16027",
+    "low_birth_weight": 1141
+  },
+  {
+    "births_known": 9683,
+    "county": "Kootenai County, ID",
+    "fips": "16055",
+    "low_birth_weight": 527
+  },
+  {
+    "births_known": 51100,
+    "county": "Unidentified Counties, ID",
+    "fips": "16999",
+    "low_birth_weight": 3707
+  },
+  {
+    "births_known": 9987,
+    "county": "Champaign County, IL",
+    "fips": "17019",
+    "low_birth_weight": 949
+  },
+  {
+    "births_known": 264004,
+    "county": "Cook County, IL",
+    "fips": "17031",
+    "low_birth_weight": 23614
+  },
+  {
+    "births_known": 5091,
+    "county": "DeKalb County, IL",
+    "fips": "17037",
+    "low_birth_weight": 418
+  },
+  {
+    "births_known": 47912,
+    "county": "DuPage County, IL",
+    "fips": "17043",
+    "low_birth_weight": 3281
+  },
+  {
+    "births_known": 27718,
+    "county": "Kane County, IL",
+    "fips": "17089",
+    "low_birth_weight": 2090
+  },
+  {
+    "births_known": 5626,
+    "county": "Kankakee County, IL",
+    "fips": "17091",
+    "low_birth_weight": 495
+  },
+  {
+    "births_known": 7443,
+    "county": "Kendall County, IL",
+    "fips": "17093",
+    "low_birth_weight": 528
+  },
+  {
+    "births_known": 33121,
+    "county": "Lake County, IL",
+    "fips": "17097",
+    "low_birth_weight": 2531
+  },
+  {
+    "births_known": 5425,
+    "county": "LaSalle County, IL",
+    "fips": "17099",
+    "low_birth_weight": 423
+  },
+  {
+    "births_known": 15271,
+    "county": "McHenry County, IL",
+    "fips": "17111",
+    "low_birth_weight": 1028
+  },
+  {
+    "births_known": 8193,
+    "county": "McLean County, IL",
+    "fips": "17113",
+    "low_birth_weight": 643
+  },
+  {
+    "births_known": 5679,
+    "county": "Macon County, IL",
+    "fips": "17115",
+    "low_birth_weight": 701
+  },
+  {
+    "births_known": 13126,
+    "county": "Madison County, IL",
+    "fips": "17119",
+    "low_birth_weight": 1193
+  },
+  {
+    "births_known": 10508,
+    "county": "Peoria County, IL",
+    "fips": "17143",
+    "low_birth_weight": 1056
+  },
+  {
+    "births_known": 7658,
+    "county": "Rock Island County, IL",
+    "fips": "17161",
+    "low_birth_weight": 709
+  },
+  {
+    "births_known": 13024,
+    "county": "St. Clair County, IL",
+    "fips": "17163",
+    "low_birth_weight": 1475
+  },
+  {
+    "births_known": 10089,
+    "county": "Sangamon County, IL",
+    "fips": "17167",
+    "low_birth_weight": 1219
+  },
+  {
+    "births_known": 6289,
+    "county": "Tazewell County, IL",
+    "fips": "17179",
+    "low_birth_weight": 462
+  },
+  {
+    "births_known": 34360,
+    "county": "Will County, IL",
+    "fips": "17197",
+    "low_birth_weight": 2645
+  },
+  {
+    "births_known": 16112,
+    "county": "Winnebago County, IL",
+    "fips": "17201",
+    "low_birth_weight": 1605
+  },
+  {
+    "births_known": 97367,
+    "county": "Unidentified Counties, IL",
+    "fips": "17999",
+    "low_birth_weight": 8096
+  },
+  {
+    "births_known": 25982,
+    "county": "Allen County, IN",
+    "fips": "18003",
+    "low_birth_weight": 2398
+  },
+  {
+    "births_known": 7233,
+    "county": "Clark County, IN",
+    "fips": "18019",
+    "low_birth_weight": 579
+  },
+  {
+    "births_known": 5358,
+    "county": "Delaware County, IN",
+    "fips": "18035",
+    "low_birth_weight": 466
+  },
+  {
+    "births_known": 14451,
+    "county": "Elkhart County, IN",
+    "fips": "18039",
+    "low_birth_weight": 1009
+  },
+  {
+    "births_known": 19431,
+    "county": "Hamilton County, IN",
+    "fips": "18057",
+    "low_birth_weight": 1302
+  },
+  {
+    "births_known": 9229,
+    "county": "Hendricks County, IN",
+    "fips": "18063",
+    "low_birth_weight": 683
+  },
+  {
+    "births_known": 9493,
+    "county": "Johnson County, IN",
+    "fips": "18081",
+    "low_birth_weight": 724
+  },
+  {
+    "births_known": 26172,
+    "county": "Lake County, IN",
+    "fips": "18089",
+    "low_birth_weight": 2390
+  },
+  {
+    "births_known": 5540,
+    "county": "La Porte County, IN",
+    "fips": "18091",
+    "low_birth_weight": 521
+  },
+  {
+    "births_known": 7154,
+    "county": "Madison County, IN",
+    "fips": "18095",
+    "low_birth_weight": 705
+  },
+  {
+    "births_known": 70793,
+    "county": "Marion County, IN",
+    "fips": "18097",
+    "low_birth_weight": 7235
+  },
+  {
+    "births_known": 5246,
+    "county": "Monroe County, IN",
+    "fips": "18105",
+    "low_birth_weight": 442
+  },
+  {
+    "births_known": 7920,
+    "county": "Porter County, IN",
+    "fips": "18127",
+    "low_birth_weight": 612
+  },
+  {
+    "births_known": 15944,
+    "county": "St. Joseph County, IN",
+    "fips": "18141",
+    "low_birth_weight": 1422
+  },
+  {
+    "births_known": 9683,
+    "county": "Tippecanoe County, IN",
+    "fips": "18157",
+    "low_birth_weight": 872
+  },
+  {
+    "births_known": 10665,
+    "county": "Vanderburgh County, IN",
+    "fips": "18163",
+    "low_birth_weight": 1014
+  },
+  {
+    "births_known": 5526,
+    "county": "Vigo County, IN",
+    "fips": "18167",
+    "low_birth_weight": 487
+  },
+  {
+    "births_known": 141381,
+    "county": "Unidentified Counties, IN",
+    "fips": "18999",
+    "low_birth_weight": 10755
+  },
+  {
+    "births_known": 7911,
+    "county": "Black Hawk County, IA",
+    "fips": "19013",
+    "low_birth_weight": 712
+  },
+  {
+    "births_known": 8264,
+    "county": "Johnson County, IA",
+    "fips": "19103",
+    "low_birth_weight": 588
+  },
+  {
+    "births_known": 12830,
+    "county": "Linn County, IA",
+    "fips": "19113",
+    "low_birth_weight": 903
+  },
+  {
+    "births_known": 32053,
+    "county": "Polk County, IA",
+    "fips": "19153",
+    "low_birth_weight": 2478
+  },
+  {
+    "births_known": 9519,
+    "county": "Scott County, IA",
+    "fips": "19163",
+    "low_birth_weight": 751
+  },
+  {
+    "births_known": 7057,
+    "county": "Woodbury County, IA",
+    "fips": "19193",
+    "low_birth_weight": 558
+  },
+  {
+    "births_known": 104194,
+    "county": "Unidentified Counties, IA",
+    "fips": "19999",
+    "low_birth_weight": 7045
+  },
+  {
+    "births_known": 4974,
+    "county": "Douglas County, KS",
+    "fips": "20045",
+    "low_birth_weight": 346
+  },
+  {
+    "births_known": 34400,
+    "county": "Johnson County, KS",
+    "fips": "20091",
+    "low_birth_weight": 2254
+  },
+  {
+    "births_known": 32691,
+    "county": "Sedgwick County, KS",
+    "fips": "20173",
+    "low_birth_weight": 2770
+  },
+  {
+    "births_known": 9649,
+    "county": "Shawnee County, KS",
+    "fips": "20177",
+    "low_birth_weight": 841
+  },
+  {
+    "births_known": 11829,
+    "county": "Wyandotte County, KS",
+    "fips": "20209",
+    "low_birth_weight": 1168
+  },
+  {
+    "births_known": 77900,
+    "county": "Unidentified Counties, KS",
+    "fips": "20999",
+    "low_birth_weight": 5624
+  },
+  {
+    "births_known": 8492,
+    "county": "Boone County, KY",
+    "fips": "21015",
+    "low_birth_weight": 602
+  },
+  {
+    "births_known": 18475,
+    "county": "Fayette County, KY",
+    "fips": "21067",
+    "low_birth_weight": 1737
+  },
+  {
+    "births_known": 6688,
+    "county": "Hardin County, KY",
+    "fips": "21093",
+    "low_birth_weight": 568
+  },
+  {
+    "births_known": 47942,
+    "county": "Jefferson County, KY",
+    "fips": "21111",
+    "low_birth_weight": 4522
+  },
+  {
+    "births_known": 10877,
+    "county": "Kenton County, KY",
+    "fips": "21117",
+    "low_birth_weight": 848
+  },
+  {
+    "births_known": 9065,
+    "county": "Warren County, KY",
+    "fips": "21227",
+    "low_birth_weight": 775
+  },
+  {
+    "births_known": 159425,
+    "county": "Unidentified Counties, KY",
+    "fips": "21999",
+    "low_birth_weight": 13956
+  },
+  {
+    "births_known": 8238,
+    "county": "Ascension Parish, LA",
+    "fips": "22005",
+    "low_birth_weight": 842
+  },
+  {
+    "births_known": 7981,
+    "county": "Bossier Parish, LA",
+    "fips": "22015",
+    "low_birth_weight": 954
+  },
+  {
+    "births_known": 13854,
+    "county": "Caddo Parish, LA",
+    "fips": "22017",
+    "low_birth_weight": 2072
+  },
+  {
+    "births_known": 12791,
+    "county": "Calcasieu Parish, LA",
+    "fips": "22019",
+    "low_birth_weight": 1362
+  },
+  {
+    "births_known": 27366,
+    "county": "East Baton Rouge Parish, LA",
+    "fips": "22033",
+    "low_birth_weight": 3433
+  },
+  {
+    "births_known": 26118,
+    "county": "Jefferson Parish, LA",
+    "fips": "22051",
+    "low_birth_weight": 2686
+  },
+  {
+    "births_known": 16665,
+    "county": "Lafayette Parish, LA",
+    "fips": "22055",
+    "low_birth_weight": 1700
+  },
+  {
+    "births_known": 9380,
+    "county": "Livingston Parish, LA",
+    "fips": "22063",
+    "low_birth_weight": 838
+  },
+  {
+    "births_known": 20168,
+    "county": "Orleans Parish, LA",
+    "fips": "22071",
+    "low_birth_weight": 2521
+  },
+  {
+    "births_known": 9816,
+    "county": "Ouachita Parish, LA",
+    "fips": "22073",
+    "low_birth_weight": 1336
+  },
+  {
+    "births_known": 7992,
+    "county": "Rapides Parish, LA",
+    "fips": "22079",
+    "low_birth_weight": 998
+  },
+  {
+    "births_known": 14410,
+    "county": "St. Tammany Parish, LA",
+    "fips": "22103",
+    "low_birth_weight": 1280
+  },
+  {
+    "births_known": 9591,
+    "county": "Tangipahoa Parish, LA",
+    "fips": "22105",
+    "low_birth_weight": 1042
+  },
+  {
+    "births_known": 6500,
+    "county": "Terrebonne Parish, LA",
+    "fips": "22109",
+    "low_birth_weight": 696
+  },
+  {
+    "births_known": 88411,
+    "county": "Unidentified Counties, LA",
+    "fips": "22999",
+    "low_birth_weight": 9840
+  },
+  {
+    "births_known": 5651,
+    "county": "Androscoggin County, ME",
+    "fips": "23001",
+    "low_birth_weight": 532
+  },
+  {
+    "births_known": 13985,
+    "county": "Cumberland County, ME",
+    "fips": "23005",
+    "low_birth_weight": 997
+  },
+  {
+    "births_known": 5291,
+    "county": "Kennebec County, ME",
+    "fips": "23011",
+    "low_birth_weight": 431
+  },
+  {
+    "births_known": 6357,
+    "county": "Penobscot County, ME",
+    "fips": "23019",
+    "low_birth_weight": 423
+  },
+  {
+    "births_known": 9120,
+    "county": "York County, ME",
+    "fips": "23031",
+    "low_birth_weight": 680
+  },
+  {
+    "births_known": 18395,
+    "county": "Unidentified Counties, ME",
+    "fips": "23999",
+    "low_birth_weight": 1458
+  },
+  {
+    "births_known": 33957,
+    "county": "Anne Arundel County, MD",
+    "fips": "24003",
+    "low_birth_weight": 2591
+  },
+  {
+    "births_known": 46026,
+    "county": "Baltimore County, MD",
+    "fips": "24005",
+    "low_birth_weight": 4298
+  },
+  {
+    "births_known": 8533,
+    "county": "Carroll County, MD",
+    "fips": "24013",
+    "low_birth_weight": 511
+  },
+  {
+    "births_known": 5668,
+    "county": "Cecil County, MD",
+    "fips": "24015",
+    "low_birth_weight": 461
+  },
+  {
+    "births_known": 8931,
+    "county": "Charles County, MD",
+    "fips": "24017",
+    "low_birth_weight": 841
+  },
+  {
+    "births_known": 15662,
+    "county": "Frederick County, MD",
+    "fips": "24021",
+    "low_birth_weight": 1012
+  },
+  {
+    "births_known": 12965,
+    "county": "Harford County, MD",
+    "fips": "24025",
+    "low_birth_weight": 999
+  },
+  {
+    "births_known": 15722,
+    "county": "Howard County, MD",
+    "fips": "24027",
+    "low_birth_weight": 1352
+  },
+  {
+    "births_known": 56915,
+    "county": "Montgomery County, MD",
+    "fips": "24031",
+    "low_birth_weight": 4237
+  },
+  {
+    "births_known": 54019,
+    "county": "Prince George's County, MD",
+    "fips": "24033",
+    "low_birth_weight": 5112
+  },
+  {
+    "births_known": 6848,
+    "county": "St. Mary's County, MD",
+    "fips": "24037",
+    "low_birth_weight": 473
+  },
+  {
+    "births_known": 8103,
+    "county": "Washington County, MD",
+    "fips": "24043",
+    "low_birth_weight": 795
+  },
+  {
+    "births_known": 35578,
+    "county": "Baltimore city, MD",
+    "fips": "24510",
+    "low_birth_weight": 4269
+  },
+  {
+    "births_known": 27902,
+    "county": "Unidentified Counties, MD",
+    "fips": "24999",
+    "low_birth_weight": 2374
+  },
+  {
+    "births_known": 7366,
+    "county": "Barnstable County, MA",
+    "fips": "25001",
+    "low_birth_weight": 454
+  },
+  {
+    "births_known": 4472,
+    "county": "Berkshire County, MA",
+    "fips": "25003",
+    "low_birth_weight": 393
+  },
+  {
+    "births_known": 28102,
+    "county": "Bristol County, MA",
+    "fips": "25005",
+    "low_birth_weight": 2470
+  },
+  {
+    "births_known": 42407,
+    "county": "Essex County, MA",
+    "fips": "25009",
+    "low_birth_weight": 2996
+  },
+  {
+    "births_known": 23473,
+    "county": "Hampden County, MA",
+    "fips": "25013",
+    "low_birth_weight": 2176
+  },
+  {
+    "births_known": 4450,
+    "county": "Hampshire County, MA",
+    "fips": "25015",
+    "low_birth_weight": 332
+  },
+  {
+    "births_known": 78930,
+    "county": "Middlesex County, MA",
+    "fips": "25017",
+    "low_birth_weight": 5586
+  },
+  {
+    "births_known": 34717,
+    "county": "Norfolk County, MA",
+    "fips": "25021",
+    "low_birth_weight": 2430
+  },
+  {
+    "births_known": 26342,
+    "county": "Plymouth County, MA",
+    "fips": "25023",
+    "low_birth_weight": 1890
+  },
+  {
+    "births_known": 41141,
+    "county": "Suffolk County, MA",
+    "fips": "25025",
+    "low_birth_weight": 3317
+  },
+  {
+    "births_known": 42098,
+    "county": "Worcester County, MA",
+    "fips": "25027",
+    "low_birth_weight": 3317
+  },
+  {
+    "births_known": 3934,
+    "county": "Unidentified Counties, MA",
+    "fips": "25999",
+    "low_birth_weight": 236
+  },
+  {
+    "births_known": 6023,
+    "county": "Allegan County, MI",
+    "fips": "26005",
+    "low_birth_weight": 429
+  },
+  {
+    "births_known": 4512,
+    "county": "Bay County, MI",
+    "fips": "26017",
+    "low_birth_weight": 398
+  },
+  {
+    "births_known": 7392,
+    "county": "Berrien County, MI",
+    "fips": "26021",
+    "low_birth_weight": 648
+  },
+  {
+    "births_known": 7294,
+    "county": "Calhoun County, MI",
+    "fips": "26025",
+    "low_birth_weight": 704
+  },
+  {
+    "births_known": 5098,
+    "county": "Eaton County, MI",
+    "fips": "26045",
+    "low_birth_weight": 444
+  },
+  {
+    "births_known": 21207,
+    "county": "Genesee County, MI",
+    "fips": "26049",
+    "low_birth_weight": 2277
+  },
+  {
+    "births_known": 14143,
+    "county": "Ingham County, MI",
+    "fips": "26065",
+    "low_birth_weight": 1292
+  },
+  {
+    "births_known": 7989,
+    "county": "Jackson County, MI",
+    "fips": "26075",
+    "low_birth_weight": 777
+  },
+  {
+    "births_known": 13242,
+    "county": "Kalamazoo County, MI",
+    "fips": "26077",
+    "low_birth_weight": 1075
+  },
+  {
+    "births_known": 40389,
+    "county": "Kent County, MI",
+    "fips": "26081",
+    "low_birth_weight": 3644
+  },
+  {
+    "births_known": 8513,
+    "county": "Livingston County, MI",
+    "fips": "26093",
+    "low_birth_weight": 568
+  },
+  {
+    "births_known": 43325,
+    "county": "Macomb County, MI",
+    "fips": "26099",
+    "low_birth_weight": 4068
+  },
+  {
+    "births_known": 7400,
+    "county": "Monroe County, MI",
+    "fips": "26115",
+    "low_birth_weight": 545
+  },
+  {
+    "births_known": 9252,
+    "county": "Muskegon County, MI",
+    "fips": "26121",
+    "low_birth_weight": 945
+  },
+  {
+    "births_known": 61886,
+    "county": "Oakland County, MI",
+    "fips": "26125",
+    "low_birth_weight": 5032
+  },
+  {
+    "births_known": 15467,
+    "county": "Ottawa County, MI",
+    "fips": "26139",
+    "low_birth_weight": 1031
+  },
+  {
+    "births_known": 9587,
+    "county": "Saginaw County, MI",
+    "fips": "26145",
+    "low_birth_weight": 991
+  },
+  {
+    "births_known": 7227,
+    "county": "St. Clair County, MI",
+    "fips": "26147",
+    "low_birth_weight": 554
+  },
+  {
+    "births_known": 15743,
+    "county": "Washtenaw County, MI",
+    "fips": "26161",
+    "low_birth_weight": 1260
+  },
+  {
+    "births_known": 103915,
+    "county": "Wayne County, MI",
+    "fips": "26163",
+    "low_birth_weight": 12068
+  },
+  {
+    "births_known": 100038,
+    "county": "Unidentified Counties, MI",
+    "fips": "26999",
+    "low_birth_weight": 7333
+  },
+  {
+    "births_known": 20095,
+    "county": "Anoka County, MN",
+    "fips": "27003",
+    "low_birth_weight": 1466
+  },
+  {
+    "births_known": 24421,
+    "county": "Dakota County, MN",
+    "fips": "27037",
+    "low_birth_weight": 1688
+  },
+  {
+    "births_known": 71959,
+    "county": "Hennepin County, MN",
+    "fips": "27053",
+    "low_birth_weight": 5647
+  },
+  {
+    "births_known": 9658,
+    "county": "Olmsted County, MN",
+    "fips": "27109",
+    "low_birth_weight": 716
+  },
+  {
+    "births_known": 32829,
+    "county": "Ramsey County, MN",
+    "fips": "27123",
+    "low_birth_weight": 2831
+  },
+  {
+    "births_known": 8793,
+    "county": "St. Louis County, MN",
+    "fips": "27137",
+    "low_birth_weight": 647
+  },
+  {
+    "births_known": 8316,
+    "county": "Scott County, MN",
+    "fips": "27139",
+    "low_birth_weight": 553
+  },
+  {
+    "births_known": 10008,
+    "county": "Stearns County, MN",
+    "fips": "27145",
+    "low_birth_weight": 692
+  },
+  {
+    "births_known": 13719,
+    "county": "Washington County, MN",
+    "fips": "27163",
+    "low_birth_weight": 948
+  },
+  {
+    "births_known": 9230,
+    "county": "Wright County, MN",
+    "fips": "27171",
+    "low_birth_weight": 489
+  },
+  {
+    "births_known": 106227,
+    "county": "Unidentified Counties, MN",
+    "fips": "27999",
+    "low_birth_weight": 6891
+  },
+  {
+    "births_known": 11071,
+    "county": "DeSoto County, MS",
+    "fips": "28033",
+    "low_birth_weight": 1158
+  },
+  {
+    "births_known": 12172,
+    "county": "Harrison County, MS",
+    "fips": "28047",
+    "low_birth_weight": 1366
+  },
+  {
+    "births_known": 13205,
+    "county": "Hinds County, MS",
+    "fips": "28049",
+    "low_birth_weight": 2082
+  },
+  {
+    "births_known": 7686,
+    "county": "Jackson County, MS",
+    "fips": "28059",
+    "low_birth_weight": 752
+  },
+  {
+    "births_known": 8669,
+    "county": "Rankin County, MS",
+    "fips": "28121",
+    "low_birth_weight": 926
+  },
+  {
+    "births_known": 120323,
+    "county": "Unidentified Counties, MS",
+    "fips": "28999",
+    "low_birth_weight": 15186
+  },
+  {
+    "births_known": 9628,
+    "county": "Boone County, MO",
+    "fips": "29019",
+    "low_birth_weight": 824
+  },
+  {
+    "births_known": 14681,
+    "county": "Clay County, MO",
+    "fips": "29047",
+    "low_birth_weight": 1168
+  },
+  {
+    "births_known": 5622,
+    "county": "Franklin County, MO",
+    "fips": "29071",
+    "low_birth_weight": 463
+  },
+  {
+    "births_known": 16320,
+    "county": "Greene County, MO",
+    "fips": "29077",
+    "low_birth_weight": 1365
+  },
+  {
+    "births_known": 42894,
+    "county": "Jackson County, MO",
+    "fips": "29095",
+    "low_birth_weight": 4268
+  },
+  {
+    "births_known": 7816,
+    "county": "Jasper County, MO",
+    "fips": "29097",
+    "low_birth_weight": 632
+  },
+  {
+    "births_known": 11871,
+    "county": "Jefferson County, MO",
+    "fips": "29099",
+    "low_birth_weight": 971
+  },
+  {
+    "births_known": 20613,
+    "county": "St. Charles County, MO",
+    "fips": "29183",
+    "low_birth_weight": 1532
+  },
+  {
+    "births_known": 51161,
+    "county": "St. Louis County, MO",
+    "fips": "29189",
+    "low_birth_weight": 5150
+  },
+  {
+    "births_known": 17224,
+    "county": "St. Louis city, MO",
+    "fips": "29510",
+    "low_birth_weight": 2162
+  },
+  {
+    "births_known": 144779,
+    "county": "Unidentified Counties, MO",
+    "fips": "29999",
+    "low_birth_weight": 11872
+  },
+  {
+    "births_known": 5348,
+    "county": "Missoula County, MT",
+    "fips": "30063",
+    "low_birth_weight": 410
+  },
+  {
+    "births_known": 9156,
+    "county": "Yellowstone County, MT",
+    "fips": "30111",
+    "low_birth_weight": 710
+  },
+  {
+    "births_known": 41056,
+    "county": "Unidentified Counties, MT",
+    "fips": "30999",
+    "low_birth_weight": 3127
+  },
+  {
+    "births_known": 39639,
+    "county": "Douglas County, NE",
+    "fips": "31055",
+    "low_birth_weight": 3608
+  },
+  {
+    "births_known": 18446,
+    "county": "Lancaster County, NE",
+    "fips": "31109",
+    "low_birth_weight": 1322
+  },
+  {
+    "births_known": 11958,
+    "county": "Sarpy County, NE",
+    "fips": "31153",
+    "low_birth_weight": 897
+  },
+  {
+    "births_known": 52057,
+    "county": "Unidentified Counties, NE",
+    "fips": "31999",
+    "low_birth_weight": 3685
+  },
+  {
+    "births_known": 123237,
+    "county": "Clark County, NV",
+    "fips": "32003",
+    "low_birth_weight": 11837
+  },
+  {
+    "births_known": 24783,
+    "county": "Washoe County, NV",
+    "fips": "32031",
+    "low_birth_weight": 2149
+  },
+  {
+    "births_known": 16657,
+    "county": "Unidentified Counties, NV",
+    "fips": "32999",
+    "low_birth_weight": 1523
+  },
+  {
+    "births_known": 20721,
+    "county": "Hillsborough County, NH",
+    "fips": "33011",
+    "low_birth_weight": 1464
+  },
+  {
+    "births_known": 6443,
+    "county": "Merrimack County, NH",
+    "fips": "33013",
+    "low_birth_weight": 416
+  },
+  {
+    "births_known": 13698,
+    "county": "Rockingham County, NH",
+    "fips": "33015",
+    "low_birth_weight": 862
+  },
+  {
+    "births_known": 5756,
+    "county": "Strafford County, NH",
+    "fips": "33017",
+    "low_birth_weight": 421
+  },
+  {
+    "births_known": 13463,
+    "county": "Unidentified Counties, NH",
+    "fips": "33999",
+    "low_birth_weight": 898
+  },
+  {
+    "births_known": 13732,
+    "county": "Atlantic County, NJ",
+    "fips": "34001",
+    "low_birth_weight": 1119
+  },
+  {
+    "births_known": 45006,
+    "county": "Bergen County, NJ",
+    "fips": "34003",
+    "low_birth_weight": 3354
+  },
+  {
+    "births_known": 23015,
+    "county": "Burlington County, NJ",
+    "fips": "34005",
+    "low_birth_weight": 1782
+  },
+  {
+    "births_known": 30155,
+    "county": "Camden County, NJ",
+    "fips": "34007",
+    "low_birth_weight": 2760
+  },
+  {
+    "births_known": 9057,
+    "county": "Cumberland County, NJ",
+    "fips": "34011",
+    "low_birth_weight": 877
+  },
+  {
+    "births_known": 49303,
+    "county": "Essex County, NJ",
+    "fips": "34013",
+    "low_birth_weight": 4492
+  },
+  {
+    "births_known": 14677,
+    "county": "Gloucester County, NJ",
+    "fips": "34015",
+    "low_birth_weight": 1149
+  },
+  {
+    "births_known": 45402,
+    "county": "Hudson County, NJ",
+    "fips": "34017",
+    "low_birth_weight": 3753
+  },
+  {
+    "births_known": 5294,
+    "county": "Hunterdon County, NJ",
+    "fips": "34019",
+    "low_birth_weight": 303
+  },
+  {
+    "births_known": 20494,
+    "county": "Mercer County, NJ",
+    "fips": "34021",
+    "low_birth_weight": 1635
+  },
+  {
+    "births_known": 42274,
+    "county": "Middlesex County, NJ",
+    "fips": "34023",
+    "low_birth_weight": 3439
+  },
+  {
+    "births_known": 31244,
+    "county": "Monmouth County, NJ",
+    "fips": "34025",
+    "low_birth_weight": 2151
+  },
+  {
+    "births_known": 24505,
+    "county": "Morris County, NJ",
+    "fips": "34027",
+    "low_birth_weight": 1515
+  },
+  {
+    "births_known": 51103,
+    "county": "Ocean County, NJ",
+    "fips": "34029",
+    "low_birth_weight": 2998
+  },
+  {
+    "births_known": 31338,
+    "county": "Passaic County, NJ",
+    "fips": "34031",
+    "low_birth_weight": 2884
+  },
+  {
+    "births_known": 15887,
+    "county": "Somerset County, NJ",
+    "fips": "34035",
+    "low_birth_weight": 1170
+  },
+  {
+    "births_known": 6880,
+    "county": "Sussex County, NJ",
+    "fips": "34037",
+    "low_birth_weight": 435
+  },
+  {
+    "births_known": 32925,
+    "county": "Union County, NJ",
+    "fips": "34039",
+    "low_birth_weight": 2440
+  },
+  {
+    "births_known": 5213,
+    "county": "Warren County, NJ",
+    "fips": "34041",
+    "low_birth_weight": 364
+  },
+  {
+    "births_known": 7052,
+    "county": "Unidentified Counties, NJ",
+    "fips": "34999",
+    "low_birth_weight": 551
+  },
+  {
+    "births_known": 32114,
+    "county": "Bernalillo County, NM",
+    "fips": "35001",
+    "low_birth_weight": 3116
+  },
+  {
+    "births_known": 12744,
+    "county": "Dona Ana County, NM",
+    "fips": "35013",
+    "low_birth_weight": 1098
+  },
+  {
+    "births_known": 6512,
+    "county": "Sandoval County, NM",
+    "fips": "35043",
+    "low_birth_weight": 582
+  },
+  {
+    "births_known": 6302,
+    "county": "San Juan County, NM",
+    "fips": "35045",
+    "low_birth_weight": 507
+  },
+  {
+    "births_known": 5542,
+    "county": "Santa Fe County, NM",
+    "fips": "35049",
+    "low_birth_weight": 616
+  },
+  {
+    "births_known": 43900,
+    "county": "Unidentified Counties, NM",
+    "fips": "35999",
+    "low_birth_weight": 4135
+  },
+  {
+    "births_known": 13858,
+    "county": "Albany County, NY",
+    "fips": "36001",
+    "low_birth_weight": 1256
+  },
+  {
+    "births_known": 84781,
+    "county": "Bronx County, NY",
+    "fips": "36005",
+    "low_birth_weight": 9053
+  },
+  {
+    "births_known": 8724,
+    "county": "Broome County, NY",
+    "fips": "36007",
+    "low_birth_weight": 738
+  },
+  {
+    "births_known": 5788,
+    "county": "Chautauqua County, NY",
+    "fips": "36013",
+    "low_birth_weight": 495
+  },
+  {
+    "births_known": 13018,
+    "county": "Dutchess County, NY",
+    "fips": "36027",
+    "low_birth_weight": 999
+  },
+  {
+    "births_known": 45532,
+    "county": "Erie County, NY",
+    "fips": "36029",
+    "low_birth_weight": 4166
+  },
+  {
+    "births_known": 8501,
+    "county": "Jefferson County, NY",
+    "fips": "36045",
+    "low_birth_weight": 704
+  },
+  {
+    "births_known": 167822,
+    "county": "Kings County, NY",
+    "fips": "36047",
+    "low_birth_weight": 13235
+  },
+  {
+    "births_known": 36773,
+    "county": "Monroe County, NY",
+    "fips": "36055",
+    "low_birth_weight": 3513
+  },
+  {
+    "births_known": 68177,
+    "county": "Nassau County, NY",
+    "fips": "36059",
+    "low_birth_weight": 5616
+  },
+  {
+    "births_known": 70194,
+    "county": "New York County, NY",
+    "fips": "36061",
+    "low_birth_weight": 5881
+  },
+  {
+    "births_known": 9576,
+    "county": "Niagara County, NY",
+    "fips": "36063",
+    "low_birth_weight": 867
+  },
+  {
+    "births_known": 11416,
+    "county": "Oneida County, NY",
+    "fips": "36065",
+    "low_birth_weight": 1081
+  },
+  {
+    "births_known": 23212,
+    "county": "Onondaga County, NY",
+    "fips": "36067",
+    "low_birth_weight": 2084
+  },
+  {
+    "births_known": 4803,
+    "county": "Ontario County, NY",
+    "fips": "36069",
+    "low_birth_weight": 351
+  },
+  {
+    "births_known": 27646,
+    "county": "Orange County, NY",
+    "fips": "36071",
+    "low_birth_weight": 1945
+  },
+  {
+    "births_known": 5626,
+    "county": "Oswego County, NY",
+    "fips": "36075",
+    "low_birth_weight": 505
+  },
+  {
+    "births_known": 120477,
+    "county": "Queens County, NY",
+    "fips": "36081",
+    "low_birth_weight": 11144
+  },
+  {
+    "births_known": 7554,
+    "county": "Rensselaer County, NY",
+    "fips": "36083",
+    "low_birth_weight": 608
+  },
+  {
+    "births_known": 24918,
+    "county": "Richmond County, NY",
+    "fips": "36085",
+    "low_birth_weight": 2042
+  },
+  {
+    "births_known": 31887,
+    "county": "Rockland County, NY",
+    "fips": "36087",
+    "low_birth_weight": 1853
+  },
+  {
+    "births_known": 4641,
+    "county": "St. Lawrence County, NY",
+    "fips": "36089",
+    "low_birth_weight": 351
+  },
+  {
+    "births_known": 10003,
+    "county": "Saratoga County, NY",
+    "fips": "36091",
+    "low_birth_weight": 661
+  },
+  {
+    "births_known": 8792,
+    "county": "Schenectady County, NY",
+    "fips": "36093",
+    "low_birth_weight": 835
+  },
+  {
+    "births_known": 77952,
+    "county": "Suffolk County, NY",
+    "fips": "36103",
+    "low_birth_weight": 6295
+  },
+  {
+    "births_known": 3237,
+    "county": "Tompkins County, NY",
+    "fips": "36109",
+    "low_birth_weight": 197
+  },
+  {
+    "births_known": 7349,
+    "county": "Ulster County, NY",
+    "fips": "36111",
+    "low_birth_weight": 557
+  },
+  {
+    "births_known": 49044,
+    "county": "Westchester County, NY",
+    "fips": "36119",
+    "low_birth_weight": 3810
+  },
+  {
+    "births_known": 83491,
+    "county": "Unidentified Counties, NY",
+    "fips": "36999",
+    "low_birth_weight": 6256
+  },
+  {
+    "births_known": 9638,
+    "county": "Alamance County, NC",
+    "fips": "37001",
+    "low_birth_weight": 951
+  },
+  {
+    "births_known": 5756,
+    "county": "Brunswick County, NC",
+    "fips": "37019",
+    "low_birth_weight": 488
+  },
+  {
+    "births_known": 11843,
+    "county": "Buncombe County, NC",
+    "fips": "37021",
+    "low_birth_weight": 1039
+  },
+  {
+    "births_known": 13341,
+    "county": "Cabarrus County, NC",
+    "fips": "37025",
+    "low_birth_weight": 1222
+  },
+  {
+    "births_known": 8300,
+    "county": "Catawba County, NC",
+    "fips": "37035",
+    "low_birth_weight": 731
+  },
+  {
+    "births_known": 6368,
+    "county": "Craven County, NC",
+    "fips": "37049",
+    "low_birth_weight": 582
+  },
+  {
+    "births_known": 25791,
+    "county": "Cumberland County, NC",
+    "fips": "37051",
+    "low_birth_weight": 2709
+  },
+  {
+    "births_known": 8862,
+    "county": "Davidson County, NC",
+    "fips": "37057",
+    "low_birth_weight": 864
+  },
+  {
+    "births_known": 20585,
+    "county": "Durham County, NC",
+    "fips": "37063",
+    "low_birth_weight": 1860
+  },
+  {
+    "births_known": 22142,
+    "county": "Forsyth County, NC",
+    "fips": "37067",
+    "low_birth_weight": 2300
+  },
+  {
+    "births_known": 13717,
+    "county": "Gaston County, NC",
+    "fips": "37071",
+    "low_birth_weight": 1462
+  },
+  {
+    "births_known": 28964,
+    "county": "Guilford County, NC",
+    "fips": "37081",
+    "low_birth_weight": 2971
+  },
+  {
+    "births_known": 9419,
+    "county": "Harnett County, NC",
+    "fips": "37085",
+    "low_birth_weight": 767
+  },
+  {
+    "births_known": 5046,
+    "county": "Henderson County, NC",
+    "fips": "37089",
+    "low_birth_weight": 438
+  },
+  {
+    "births_known": 10115,
+    "county": "Iredell County, NC",
+    "fips": "37097",
+    "low_birth_weight": 854
+  },
+  {
+    "births_known": 13948,
+    "county": "Johnston County, NC",
+    "fips": "37101",
+    "low_birth_weight": 1129
+  },
+  {
+    "births_known": 75396,
+    "county": "Mecklenburg County, NC",
+    "fips": "37119",
+    "low_birth_weight": 7211
+  },
+  {
+    "births_known": 10846,
+    "county": "New Hanover County, NC",
+    "fips": "37129",
+    "low_birth_weight": 1000
+  },
+  {
+    "births_known": 18865,
+    "county": "Onslow County, NC",
+    "fips": "37133",
+    "low_birth_weight": 1366
+  },
+  {
+    "births_known": 5746,
+    "county": "Orange County, NC",
+    "fips": "37135",
+    "low_birth_weight": 484
+  },
+  {
+    "births_known": 10238,
+    "county": "Pitt County, NC",
+    "fips": "37147",
+    "low_birth_weight": 1194
+  },
+  {
+    "births_known": 7819,
+    "county": "Randolph County, NC",
+    "fips": "37151",
+    "low_birth_weight": 696
+  },
+  {
+    "births_known": 9298,
+    "county": "Robeson County, NC",
+    "fips": "37155",
+    "low_birth_weight": 1100
+  },
+  {
+    "births_known": 7969,
+    "county": "Rowan County, NC",
+    "fips": "37159",
+    "low_birth_weight": 780
+  },
+  {
+    "births_known": 12594,
+    "county": "Union County, NC",
+    "fips": "37179",
+    "low_birth_weight": 1015
+  },
+  {
+    "births_known": 65213,
+    "county": "Wake County, NC",
+    "fips": "37183",
+    "low_birth_weight": 5059
+  },
+  {
+    "births_known": 8105,
+    "county": "Wayne County, NC",
+    "fips": "37191",
+    "low_birth_weight": 841
+  },
+  {
+    "births_known": 155290,
+    "county": "Unidentified Counties, NC",
+    "fips": "37999",
+    "low_birth_weight": 15418
+  },
+  {
+    "births_known": 11984,
+    "county": "Cass County, ND",
+    "fips": "38017",
+    "low_birth_weight": 868
+  },
+  {
+    "births_known": 37011,
+    "county": "Unidentified Counties, ND",
+    "fips": "38999",
+    "low_birth_weight": 2532
+  },
+  {
+    "births_known": 6041,
+    "county": "Allen County, OH",
+    "fips": "39003",
+    "low_birth_weight": 603
+  },
+  {
+    "births_known": 5010,
+    "county": "Ashtabula County, OH",
+    "fips": "39007",
+    "low_birth_weight": 370
+  },
+  {
+    "births_known": 21359,
+    "county": "Butler County, OH",
+    "fips": "39017",
+    "low_birth_weight": 1753
+  },
+  {
+    "births_known": 7953,
+    "county": "Clark County, OH",
+    "fips": "39023",
+    "low_birth_weight": 748
+  },
+  {
+    "births_known": 11010,
+    "county": "Clermont County, OH",
+    "fips": "39025",
+    "low_birth_weight": 848
+  },
+  {
+    "births_known": 4766,
+    "county": "Columbiana County, OH",
+    "fips": "39029",
+    "low_birth_weight": 401
+  },
+  {
+    "births_known": 64234,
+    "county": "Cuyahoga County, OH",
+    "fips": "39035",
+    "low_birth_weight": 6915
+  },
+  {
+    "births_known": 10649,
+    "county": "Delaware County, OH",
+    "fips": "39041",
+    "low_birth_weight": 752
+  },
+  {
+    "births_known": 8337,
+    "county": "Fairfield County, OH",
+    "fips": "39045",
+    "low_birth_weight": 640
+  },
+  {
+    "births_known": 86920,
+    "county": "Franklin County, OH",
+    "fips": "39049",
+    "low_birth_weight": 8087
+  },
+  {
+    "births_known": 8417,
+    "county": "Greene County, OH",
+    "fips": "39057",
+    "low_birth_weight": 628
+  },
+  {
+    "births_known": 51078,
+    "county": "Hamilton County, OH",
+    "fips": "39061",
+    "low_birth_weight": 5114
+  },
+  {
+    "births_known": 10334,
+    "county": "Lake County, OH",
+    "fips": "39085",
+    "low_birth_weight": 801
+  },
+  {
+    "births_known": 9279,
+    "county": "Licking County, OH",
+    "fips": "39089",
+    "low_birth_weight": 668
+  },
+  {
+    "births_known": 15690,
+    "county": "Lorain County, OH",
+    "fips": "39093",
+    "low_birth_weight": 1436
+  },
+  {
+    "births_known": 24046,
+    "county": "Lucas County, OH",
+    "fips": "39095",
+    "low_birth_weight": 2426
+  },
+  {
+    "births_known": 11484,
+    "county": "Mahoning County, OH",
+    "fips": "39099",
+    "low_birth_weight": 1245
+  },
+  {
+    "births_known": 8172,
+    "county": "Medina County, OH",
+    "fips": "39103",
+    "low_birth_weight": 516
+  },
+  {
+    "births_known": 5677,
+    "county": "Miami County, OH",
+    "fips": "39109",
+    "low_birth_weight": 386
+  },
+  {
+    "births_known": 30301,
+    "county": "Montgomery County, OH",
+    "fips": "39113",
+    "low_birth_weight": 2831
+  },
+  {
+    "births_known": 6746,
+    "county": "Portage County, OH",
+    "fips": "39133",
+    "low_birth_weight": 555
+  },
+  {
+    "births_known": 6711,
+    "county": "Richland County, OH",
+    "fips": "39139",
+    "low_birth_weight": 547
+  },
+  {
+    "births_known": 19502,
+    "county": "Stark County, OH",
+    "fips": "39151",
+    "low_birth_weight": 1663
+  },
+  {
+    "births_known": 26953,
+    "county": "Summit County, OH",
+    "fips": "39153",
+    "low_birth_weight": 2532
+  },
+  {
+    "births_known": 9763,
+    "county": "Trumbull County, OH",
+    "fips": "39155",
+    "low_birth_weight": 881
+  },
+  {
+    "births_known": 12061,
+    "county": "Warren County, OH",
+    "fips": "39165",
+    "low_birth_weight": 808
+  },
+  {
+    "births_known": 6948,
+    "county": "Wayne County, OH",
+    "fips": "39169",
+    "low_birth_weight": 454
+  },
+  {
+    "births_known": 6140,
+    "county": "Wood County, OH",
+    "fips": "39173",
+    "low_birth_weight": 411
+  },
+  {
+    "births_known": 144553,
+    "county": "Unidentified Counties, OH",
+    "fips": "39999",
+    "low_birth_weight": 10574
+  },
+  {
+    "births_known": 10249,
+    "county": "Canadian County, OK",
+    "fips": "40017",
+    "low_birth_weight": 737
+  },
+  {
+    "births_known": 13538,
+    "county": "Cleveland County, OK",
+    "fips": "40027",
+    "low_birth_weight": 1067
+  },
+  {
+    "births_known": 7992,
+    "county": "Comanche County, OK",
+    "fips": "40031",
+    "low_birth_weight": 623
+  },
+  {
+    "births_known": 54548,
+    "county": "Oklahoma County, OK",
+    "fips": "40109",
+    "low_birth_weight": 5010
+  },
+  {
+    "births_known": 43193,
+    "county": "Tulsa County, OK",
+    "fips": "40143",
+    "low_birth_weight": 3746
+  },
+  {
+    "births_known": 110414,
+    "county": "Unidentified Counties, OK",
+    "fips": "40999",
+    "low_birth_weight": 9167
+  },
+  {
+    "births_known": 18628,
+    "county": "Clackamas County, OR",
+    "fips": "41005",
+    "low_birth_weight": 1146
+  },
+  {
+    "births_known": 9342,
+    "county": "Deschutes County, OR",
+    "fips": "41017",
+    "low_birth_weight": 624
+  },
+  {
+    "births_known": 4895,
+    "county": "Douglas County, OR",
+    "fips": "41019",
+    "low_birth_weight": 349
+  },
+  {
+    "births_known": 10357,
+    "county": "Jackson County, OR",
+    "fips": "41029",
+    "low_birth_weight": 783
+  },
+  {
+    "births_known": 14837,
+    "county": "Lane County, OR",
+    "fips": "41039",
+    "low_birth_weight": 1009
+  },
+  {
+    "births_known": 7161,
+    "county": "Linn County, OR",
+    "fips": "41043",
+    "low_birth_weight": 469
+  },
+  {
+    "births_known": 19597,
+    "county": "Marion County, OR",
+    "fips": "41047",
+    "low_birth_weight": 1305
+  },
+  {
+    "births_known": 36277,
+    "county": "Multnomah County, OR",
+    "fips": "41051",
+    "low_birth_weight": 2676
+  },
+  {
+    "births_known": 30061,
+    "county": "Washington County, OR",
+    "fips": "41067",
+    "low_birth_weight": 2000
+  },
+  {
+    "births_known": 46203,
+    "county": "Unidentified Counties, OR",
+    "fips": "41999",
+    "low_birth_weight": 3311
+  },
+  {
+    "births_known": 4516,
+    "county": "Adams County, PA",
+    "fips": "42001",
+    "low_birth_weight": 285
+  },
+  {
+    "births_known": 59237,
+    "county": "Allegheny County, PA",
+    "fips": "42003",
+    "low_birth_weight": 5421
+  },
+  {
+    "births_known": 7481,
+    "county": "Beaver County, PA",
+    "fips": "42007",
+    "low_birth_weight": 553
+  },
+  {
+    "births_known": 22509,
+    "county": "Berks County, PA",
+    "fips": "42011",
+    "low_birth_weight": 1768
+  },
+  {
+    "births_known": 5708,
+    "county": "Blair County, PA",
+    "fips": "42013",
+    "low_birth_weight": 398
+  },
+  {
+    "births_known": 27811,
+    "county": "Bucks County, PA",
+    "fips": "42017",
+    "low_birth_weight": 1907
+  },
+  {
+    "births_known": 8558,
+    "county": "Butler County, PA",
+    "fips": "42019",
+    "low_birth_weight": 571
+  },
+  {
+    "births_known": 5816,
+    "county": "Cambria County, PA",
+    "fips": "42021",
+    "low_birth_weight": 531
+  },
+  {
+    "births_known": 5396,
+    "county": "Centre County, PA",
+    "fips": "42027",
+    "low_birth_weight": 281
+  },
+  {
+    "births_known": 27426,
+    "county": "Chester County, PA",
+    "fips": "42029",
+    "low_birth_weight": 1733
+  },
+  {
+    "births_known": 13243,
+    "county": "Cumberland County, PA",
+    "fips": "42041",
+    "low_birth_weight": 953
+  },
+  {
+    "births_known": 16373,
+    "county": "Dauphin County, PA",
+    "fips": "42043",
+    "low_birth_weight": 1556
+  },
+  {
+    "births_known": 31305,
+    "county": "Delaware County, PA",
+    "fips": "42045",
+    "low_birth_weight": 2710
+  },
+  {
+    "births_known": 12846,
+    "county": "Erie County, PA",
+    "fips": "42049",
+    "low_birth_weight": 1212
+  },
+  {
+    "births_known": 5765,
+    "county": "Fayette County, PA",
+    "fips": "42051",
+    "low_birth_weight": 563
+  },
+  {
+    "births_known": 8428,
+    "county": "Franklin County, PA",
+    "fips": "42055",
+    "low_birth_weight": 648
+  },
+  {
+    "births_known": 10042,
+    "county": "Lackawanna County, PA",
+    "fips": "42069",
+    "low_birth_weight": 867
+  },
+  {
+    "births_known": 34683,
+    "county": "Lancaster County, PA",
+    "fips": "42071",
+    "low_birth_weight": 2216
+  },
+  {
+    "births_known": 7798,
+    "county": "Lebanon County, PA",
+    "fips": "42075",
+    "low_birth_weight": 629
+  },
+  {
+    "births_known": 19438,
+    "county": "Lehigh County, PA",
+    "fips": "42077",
+    "low_birth_weight": 1661
+  },
+  {
+    "births_known": 15893,
+    "county": "Luzerne County, PA",
+    "fips": "42079",
+    "low_birth_weight": 1352
+  },
+  {
+    "births_known": 5484,
+    "county": "Lycoming County, PA",
+    "fips": "42081",
+    "low_birth_weight": 436
+  },
+  {
+    "births_known": 5010,
+    "county": "Mercer County, PA",
+    "fips": "42085",
+    "low_birth_weight": 433
+  },
+  {
+    "births_known": 6651,
+    "county": "Monroe County, PA",
+    "fips": "42089",
+    "low_birth_weight": 612
+  },
+  {
+    "births_known": 42131,
+    "county": "Montgomery County, PA",
+    "fips": "42091",
+    "low_birth_weight": 3184
+  },
+  {
+    "births_known": 13729,
+    "county": "Northampton County, PA",
+    "fips": "42095",
+    "low_birth_weight": 1094
+  },
+  {
+    "births_known": 94747,
+    "county": "Philadelphia County, PA",
+    "fips": "42101",
+    "low_birth_weight": 10435
+  },
+  {
+    "births_known": 6282,
+    "county": "Schuylkill County, PA",
+    "fips": "42107",
+    "low_birth_weight": 532
+  },
+  {
+    "births_known": 9591,
+    "county": "Washington County, PA",
+    "fips": "42125",
+    "low_birth_weight": 745
+  },
+  {
+    "births_known": 14159,
+    "county": "Westmoreland County, PA",
+    "fips": "42129",
+    "low_birth_weight": 1198
+  },
+  {
+    "births_known": 23803,
+    "county": "York County, PA",
+    "fips": "42133",
+    "low_birth_weight": 2045
+  },
+  {
+    "births_known": 74907,
+    "county": "Unidentified Counties, PA",
+    "fips": "42999",
+    "low_birth_weight": 5562
+  },
+  {
+    "births_known": 7253,
+    "county": "Kent County, RI",
+    "fips": "44003",
+    "low_birth_weight": 527
+  },
+  {
+    "births_known": 34296,
+    "county": "Providence County, RI",
+    "fips": "44007",
+    "low_birth_weight": 2823
+  },
+  {
+    "births_known": 4190,
+    "county": "Washington County, RI",
+    "fips": "44009",
+    "low_birth_weight": 251
+  },
+  {
+    "births_known": 4840,
+    "county": "Unidentified Counties, RI",
+    "fips": "44999",
+    "low_birth_weight": 340
+  },
+  {
+    "births_known": 9647,
+    "county": "Aiken County, SC",
+    "fips": "45003",
+    "low_birth_weight": 863
+  },
+  {
+    "births_known": 11551,
+    "county": "Anderson County, SC",
+    "fips": "45007",
+    "low_birth_weight": 1099
+  },
+  {
+    "births_known": 9349,
+    "county": "Beaufort County, SC",
+    "fips": "45013",
+    "low_birth_weight": 785
+  },
+  {
+    "births_known": 15123,
+    "county": "Berkeley County, SC",
+    "fips": "45015",
+    "low_birth_weight": 1432
+  },
+  {
+    "births_known": 24894,
+    "county": "Charleston County, SC",
+    "fips": "45019",
+    "low_birth_weight": 2352
+  },
+  {
+    "births_known": 9982,
+    "county": "Dorchester County, SC",
+    "fips": "45035",
+    "low_birth_weight": 970
+  },
+  {
+    "births_known": 7873,
+    "county": "Florence County, SC",
+    "fips": "45041",
+    "low_birth_weight": 1075
+  },
+  {
+    "births_known": 32661,
+    "county": "Greenville County, SC",
+    "fips": "45045",
+    "low_birth_weight": 2824
+  },
+  {
+    "births_known": 16541,
+    "county": "Horry County, SC",
+    "fips": "45051",
+    "low_birth_weight": 1412
+  },
+  {
+    "births_known": 16294,
+    "county": "Lexington County, SC",
+    "fips": "45063",
+    "low_birth_weight": 1519
+  },
+  {
+    "births_known": 6122,
+    "county": "Pickens County, SC",
+    "fips": "45077",
+    "low_birth_weight": 522
+  },
+  {
+    "births_known": 22670,
+    "county": "Richland County, SC",
+    "fips": "45079",
+    "low_birth_weight": 2650
+  },
+  {
+    "births_known": 20819,
+    "county": "Spartanburg County, SC",
+    "fips": "45083",
+    "low_birth_weight": 1838
+  },
+  {
+    "births_known": 6614,
+    "county": "Sumter County, SC",
+    "fips": "45085",
+    "low_birth_weight": 767
+  },
+  {
+    "births_known": 14861,
+    "county": "York County, SC",
+    "fips": "45091",
+    "low_birth_weight": 1272
+  },
+  {
+    "births_known": 62040,
+    "county": "Unidentified Counties, SC",
+    "fips": "45999",
+    "low_birth_weight": 7032
+  },
+  {
+    "births_known": 13865,
+    "county": "Minnehaha County, SD",
+    "fips": "46099",
+    "low_birth_weight": 1019
+  },
+  {
+    "births_known": 6984,
+    "county": "Pennington County, SD",
+    "fips": "46103",
+    "low_birth_weight": 501
+  },
+  {
+    "births_known": 35281,
+    "county": "Unidentified Counties, SD",
+    "fips": "46999",
+    "low_birth_weight": 2466
+  },
+  {
+    "births_known": 6563,
+    "county": "Blount County, TN",
+    "fips": "47009",
+    "low_birth_weight": 515
+  },
+  {
+    "births_known": 50727,
+    "county": "Davidson County, TN",
+    "fips": "47037",
+    "low_birth_weight": 4622
+  },
+  {
+    "births_known": 22284,
+    "county": "Hamilton County, TN",
+    "fips": "47065",
+    "low_birth_weight": 1950
+  },
+  {
+    "births_known": 26803,
+    "county": "Knox County, TN",
+    "fips": "47093",
+    "low_birth_weight": 2207
+  },
+  {
+    "births_known": 18266,
+    "county": "Montgomery County, TN",
+    "fips": "47125",
+    "low_birth_weight": 1625
+  },
+  {
+    "births_known": 22218,
+    "county": "Rutherford County, TN",
+    "fips": "47149",
+    "low_birth_weight": 1902
+  },
+  {
+    "births_known": 60907,
+    "county": "Shelby County, TN",
+    "fips": "47157",
+    "low_birth_weight": 7286
+  },
+  {
+    "births_known": 7465,
+    "county": "Sullivan County, TN",
+    "fips": "47163",
+    "low_birth_weight": 590
+  },
+  {
+    "births_known": 11514,
+    "county": "Sumner County, TN",
+    "fips": "47165",
+    "low_birth_weight": 932
+  },
+  {
+    "births_known": 6223,
+    "county": "Washington County, TN",
+    "fips": "47179",
+    "low_birth_weight": 490
+  },
+  {
+    "births_known": 11398,
+    "county": "Williamson County, TN",
+    "fips": "47187",
+    "low_birth_weight": 721
+  },
+  {
+    "births_known": 9190,
+    "county": "Wilson County, TN",
+    "fips": "47189",
+    "low_birth_weight": 682
+  },
+  {
+    "births_known": 155740,
+    "county": "Unidentified Counties, TN",
+    "fips": "47999",
+    "low_birth_weight": 13282
+  },
+  {
+    "births_known": 30135,
+    "county": "Bell County, TX",
+    "fips": "48027",
+    "low_birth_weight": 2762
+  },
+  {
+    "births_known": 130622,
+    "county": "Bexar County, TX",
+    "fips": "48029",
+    "low_birth_weight": 11592
+  },
+  {
+    "births_known": 23317,
+    "county": "Brazoria County, TX",
+    "fips": "48039",
+    "low_birth_weight": 1954
+  },
+  {
+    "births_known": 13578,
+    "county": "Brazos County, TX",
+    "fips": "48041",
+    "low_birth_weight": 1126
+  },
+  {
+    "births_known": 29535,
+    "county": "Cameron County, TX",
+    "fips": "48061",
+    "low_birth_weight": 2508
+  },
+  {
+    "births_known": 63157,
+    "county": "Collin County, TX",
+    "fips": "48085",
+    "low_birth_weight": 4773
+  },
+  {
+    "births_known": 9585,
+    "county": "Comal County, TX",
+    "fips": "48091",
+    "low_birth_weight": 699
+  },
+  {
+    "births_known": 182216,
+    "county": "Dallas County, TX",
+    "fips": "48113",
+    "low_birth_weight": 15458
+  },
+  {
+    "births_known": 55871,
+    "county": "Denton County, TX",
+    "fips": "48121",
+    "low_birth_weight": 4264
+  },
+  {
+    "births_known": 14645,
+    "county": "Ector County, TX",
+    "fips": "48135",
+    "low_birth_weight": 1359
+  },
+  {
+    "births_known": 13560,
+    "county": "Ellis County, TX",
+    "fips": "48139",
+    "low_birth_weight": 1019
+  },
+  {
+    "births_known": 55098,
+    "county": "El Paso County, TX",
+    "fips": "48141",
+    "low_birth_weight": 5331
+  },
+  {
+    "births_known": 46373,
+    "county": "Fort Bend County, TX",
+    "fips": "48157",
+    "low_birth_weight": 4145
+  },
+  {
+    "births_known": 19362,
+    "county": "Galveston County, TX",
+    "fips": "48167",
+    "low_birth_weight": 1768
+  },
+  {
+    "births_known": 8684,
+    "county": "Grayson County, TX",
+    "fips": "48181",
+    "low_birth_weight": 678
+  },
+  {
+    "births_known": 8249,
+    "county": "Gregg County, TX",
+    "fips": "48183",
+    "low_birth_weight": 769
+  },
+  {
+    "births_known": 10261,
+    "county": "Guadalupe County, TX",
+    "fips": "48187",
+    "low_birth_weight": 812
+  },
+  {
+    "births_known": 321578,
+    "county": "Harris County, TX",
+    "fips": "48201",
+    "low_birth_weight": 29671
+  },
+  {
+    "births_known": 16011,
+    "county": "Hays County, TX",
+    "fips": "48209",
+    "low_birth_weight": 1153
+  },
+  {
+    "births_known": 68700,
+    "county": "Hidalgo County, TX",
+    "fips": "48215",
+    "low_birth_weight": 6424
+  },
+  {
+    "births_known": 15735,
+    "county": "Jefferson County, TX",
+    "fips": "48245",
+    "low_birth_weight": 1731
+  },
+  {
+    "births_known": 12130,
+    "county": "Johnson County, TX",
+    "fips": "48251",
+    "low_birth_weight": 825
+  },
+  {
+    "births_known": 12973,
+    "county": "Kaufman County, TX",
+    "fips": "48257",
+    "low_birth_weight": 996
+  },
+  {
+    "births_known": 20351,
+    "county": "Lubbock County, TX",
+    "fips": "48303",
+    "low_birth_weight": 1818
+  },
+  {
+    "births_known": 16575,
+    "county": "McLennan County, TX",
+    "fips": "48309",
+    "low_birth_weight": 1469
+  },
+  {
+    "births_known": 15001,
+    "county": "Midland County, TX",
+    "fips": "48329",
+    "low_birth_weight": 1171
+  },
+  {
+    "births_known": 41990,
+    "county": "Montgomery County, TX",
+    "fips": "48339",
+    "low_birth_weight": 3113
+  },
+  {
+    "births_known": 21323,
+    "county": "Nueces County, TX",
+    "fips": "48355",
+    "low_birth_weight": 1944
+  },
+  {
+    "births_known": 9405,
+    "county": "Parker County, TX",
+    "fips": "48367",
+    "low_birth_weight": 606
+  },
+  {
+    "births_known": 7720,
+    "county": "Potter County, TX",
+    "fips": "48375",
+    "low_birth_weight": 743
+  },
+  {
+    "births_known": 8489,
+    "county": "Randall County, TX",
+    "fips": "48381",
+    "low_birth_weight": 717
+  },
+  {
+    "births_known": 15249,
+    "county": "Smith County, TX",
+    "fips": "48423",
+    "low_birth_weight": 1221
+  },
+  {
+    "births_known": 136826,
+    "county": "Tarrant County, TX",
+    "fips": "48439",
+    "low_birth_weight": 11870
+  },
+  {
+    "births_known": 9663,
+    "county": "Taylor County, TX",
+    "fips": "48441",
+    "low_birth_weight": 877
+  },
+  {
+    "births_known": 7356,
+    "county": "Tom Green County, TX",
+    "fips": "48451",
+    "low_birth_weight": 581
+  },
+  {
+    "births_known": 80069,
+    "county": "Travis County, TX",
+    "fips": "48453",
+    "low_birth_weight": 6068
+  },
+  {
+    "births_known": 21880,
+    "county": "Webb County, TX",
+    "fips": "48479",
+    "low_birth_weight": 1891
+  },
+  {
+    "births_known": 7608,
+    "county": "Wichita County, TX",
+    "fips": "48485",
+    "low_birth_weight": 621
+  },
+  {
+    "births_known": 40368,
+    "county": "Williamson County, TX",
+    "fips": "48491",
+    "low_birth_weight": 3039
+  },
+  {
+    "births_known": 287766,
+    "county": "Unidentified Counties, TX",
+    "fips": "48999",
+    "low_birth_weight": 23725
+  },
+  {
+    "births_known": 10281,
+    "county": "Cache County, UT",
+    "fips": "49005",
+    "low_birth_weight": 661
+  },
+  {
+    "births_known": 23661,
+    "county": "Davis County, UT",
+    "fips": "49011",
+    "low_birth_weight": 1795
+  },
+  {
+    "births_known": 73766,
+    "county": "Salt Lake County, UT",
+    "fips": "49035",
+    "low_birth_weight": 5711
+  },
+  {
+    "births_known": 60551,
+    "county": "Utah County, UT",
+    "fips": "49049",
+    "low_birth_weight": 4010
+  },
+  {
+    "births_known": 11707,
+    "county": "Washington County, UT",
+    "fips": "49053",
+    "low_birth_weight": 737
+  },
+  {
+    "births_known": 17409,
+    "county": "Weber County, UT",
+    "fips": "49057",
+    "low_birth_weight": 1418
+  },
+  {
+    "births_known": 32385,
+    "county": "Unidentified Counties, UT",
+    "fips": "49999",
+    "low_birth_weight": 2509
+  },
+  {
+    "births_known": 6795,
+    "county": "Chittenden County, VT",
+    "fips": "50007",
+    "low_birth_weight": 421
+  },
+  {
+    "births_known": 19100,
+    "county": "Unidentified Counties, VT",
+    "fips": "50999",
+    "low_birth_weight": 1437
+  },
+  {
+    "births_known": 12181,
+    "county": "Arlington County, VA",
+    "fips": "51013",
+    "low_birth_weight": 779
+  },
+  {
+    "births_known": 20394,
+    "county": "Chesterfield County, VA",
+    "fips": "51041",
+    "low_birth_weight": 1676
+  },
+  {
+    "births_known": 61848,
+    "county": "Fairfax County, VA",
+    "fips": "51059",
+    "low_birth_weight": 4368
+  },
+  {
+    "births_known": 18379,
+    "county": "Henrico County, VA",
+    "fips": "51087",
+    "low_birth_weight": 1587
+  },
+  {
+    "births_known": 23615,
+    "county": "Loudoun County, VA",
+    "fips": "51107",
+    "low_birth_weight": 1587
+  },
+  {
+    "births_known": 31114,
+    "county": "Prince William County, VA",
+    "fips": "51153",
+    "low_birth_weight": 2404
+  },
+  {
+    "births_known": 8033,
+    "county": "Spotsylvania County, VA",
+    "fips": "51177",
+    "low_birth_weight": 633
+  },
+  {
+    "births_known": 9119,
+    "county": "Stafford County, VA",
+    "fips": "51179",
+    "low_birth_weight": 756
+  },
+  {
+    "births_known": 11314,
+    "county": "Alexandria city, VA",
+    "fips": "51510",
+    "low_birth_weight": 763
+  },
+  {
+    "births_known": 13917,
+    "county": "Chesapeake city, VA",
+    "fips": "51550",
+    "low_birth_weight": 1281
+  },
+  {
+    "births_known": 7802,
+    "county": "Hampton city, VA",
+    "fips": "51650",
+    "low_birth_weight": 820
+  },
+  {
+    "births_known": 12425,
+    "county": "Newport News city, VA",
+    "fips": "51700",
+    "low_birth_weight": 1260
+  },
+  {
+    "births_known": 15241,
+    "county": "Norfolk city, VA",
+    "fips": "51710",
+    "low_birth_weight": 1693
+  },
+  {
+    "births_known": 14664,
+    "county": "Richmond city, VA",
+    "fips": "51760",
+    "low_birth_weight": 1632
+  },
+  {
+    "births_known": 25395,
+    "county": "Virginia Beach city, VA",
+    "fips": "51810",
+    "low_birth_weight": 2189
+  },
+  {
+    "births_known": 187164,
+    "county": "Unidentified Counties, VA",
+    "fips": "51999",
+    "low_birth_weight": 16164
+  },
+  {
+    "births_known": 12594,
+    "county": "Benton County, WA",
+    "fips": "53005",
+    "low_birth_weight": 814
+  },
+  {
+    "births_known": 27635,
+    "county": "Clark County, WA",
+    "fips": "53011",
+    "low_birth_weight": 1900
+  },
+  {
+    "births_known": 6114,
+    "county": "Cowlitz County, WA",
+    "fips": "53015",
+    "low_birth_weight": 434
+  },
+  {
+    "births_known": 115351,
+    "county": "King County, WA",
+    "fips": "53033",
+    "low_birth_weight": 8250
+  },
+  {
+    "births_known": 13913,
+    "county": "Kitsap County, WA",
+    "fips": "53035",
+    "low_birth_weight": 963
+  },
+  {
+    "births_known": 53931,
+    "county": "Pierce County, WA",
+    "fips": "53053",
+    "low_birth_weight": 3826
+  },
+  {
+    "births_known": 6831,
+    "county": "Skagit County, WA",
+    "fips": "53057",
+    "low_birth_weight": 426
+  },
+  {
+    "births_known": 48602,
+    "county": "Snohomish County, WA",
+    "fips": "53061",
+    "low_birth_weight": 3389
+  },
+  {
+    "births_known": 29164,
+    "county": "Spokane County, WA",
+    "fips": "53063",
+    "low_birth_weight": 2019
+  },
+  {
+    "births_known": 14857,
+    "county": "Thurston County, WA",
+    "fips": "53067",
+    "low_birth_weight": 964
+  },
+  {
+    "births_known": 9947,
+    "county": "Whatcom County, WA",
+    "fips": "53073",
+    "low_birth_weight": 556
+  },
+  {
+    "births_known": 16887,
+    "county": "Yakima County, WA",
+    "fips": "53077",
+    "low_birth_weight": 1132
+  },
+  {
+    "births_known": 57756,
+    "county": "Unidentified Counties, WA",
+    "fips": "53999",
+    "low_birth_weight": 3901
+  },
+  {
+    "births_known": 7694,
+    "county": "Berkeley County, WV",
+    "fips": "54003",
+    "low_birth_weight": 683
+  },
+  {
+    "births_known": 8369,
+    "county": "Kanawha County, WV",
+    "fips": "54039",
+    "low_birth_weight": 929
+  },
+  {
+    "births_known": 68976,
+    "county": "Unidentified Counties, WV",
+    "fips": "54999",
+    "low_birth_weight": 6686
+  },
+  {
+    "births_known": 14860,
+    "county": "Brown County, WI",
+    "fips": "55009",
+    "low_birth_weight": 1089
+  },
+  {
+    "births_known": 27894,
+    "county": "Dane County, WI",
+    "fips": "55025",
+    "low_birth_weight": 2037
+  },
+  {
+    "births_known": 4999,
+    "county": "Fond du Lac County, WI",
+    "fips": "55039",
+    "low_birth_weight": 356
+  },
+  {
+    "births_known": 8391,
+    "county": "Kenosha County, WI",
+    "fips": "55059",
+    "low_birth_weight": 644
+  },
+  {
+    "births_known": 5575,
+    "county": "La Crosse County, WI",
+    "fips": "55063",
+    "low_birth_weight": 385
+  },
+  {
+    "births_known": 7109,
+    "county": "Marathon County, WI",
+    "fips": "55073",
+    "low_birth_weight": 487
+  },
+  {
+    "births_known": 58709,
+    "county": "Milwaukee County, WI",
+    "fips": "55079",
+    "low_birth_weight": 6517
+  },
+  {
+    "births_known": 10482,
+    "county": "Outagamie County, WI",
+    "fips": "55087",
+    "low_birth_weight": 697
+  },
+  {
+    "births_known": 10565,
+    "county": "Racine County, WI",
+    "fips": "55101",
+    "low_birth_weight": 986
+  },
+  {
+    "births_known": 9027,
+    "county": "Rock County, WI",
+    "fips": "55105",
+    "low_birth_weight": 747
+  },
+  {
+    "births_known": 5561,
+    "county": "Sheboygan County, WI",
+    "fips": "55117",
+    "low_birth_weight": 421
+  },
+  {
+    "births_known": 4434,
+    "county": "Walworth County, WI",
+    "fips": "55127",
+    "low_birth_weight": 293
+  },
+  {
+    "births_known": 6197,
+    "county": "Washington County, WI",
+    "fips": "55131",
+    "low_birth_weight": 409
+  },
+  {
+    "births_known": 18727,
+    "county": "Waukesha County, WI",
+    "fips": "55133",
+    "low_birth_weight": 1243
+  },
+  {
+    "births_known": 8450,
+    "county": "Winnebago County, WI",
+    "fips": "55139",
+    "low_birth_weight": 628
+  },
+  {
+    "births_known": 100589,
+    "county": "Unidentified Counties, WI",
+    "fips": "55999",
+    "low_birth_weight": 6555
+  },
+  {
+    "births_known": 30474,
+    "county": "Unidentified Counties, WY",
+    "fips": "56999",
+    "low_birth_weight": 2882
+  }
+]

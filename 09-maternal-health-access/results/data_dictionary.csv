@@ -1,0 +1,14 @@
+variable,definition,source
+fips,5-character county FIPS code,CDC WONDER / HRSA AHRF
+low_birth_weight_pct,"Births below 2,500 grams as a percent of births with known weight, pooled 2020-2024",CDC WONDER
+late_or_no_prenatal_pct,"Prenatal care beginning after month 3 or no prenatal care, percent of known records",CDC WONDER
+tobacco_use_pct,"Maternal tobacco use during pregnancy, percent of known records",CDC WONDER
+maternal_age_15_19_pct,"Births to mothers age 15-19, percent of age-classified births",CDC WONDER
+maternal_age_35_plus_pct,"Births to mothers age 35-54, percent of age-classified births",CDC WONDER
+poverty_pct,"Persons below the federal poverty level, ACS 2019-2023 (%)",HRSA AHRF
+uninsured_under65_pct,"Persons under 65 without health insurance, 2022 (%)",HRSA AHRF
+obgyn_per_100k,"Nonfederal general OB-GYN physicians in patient care per 100,000 residents, 2023",HRSA AHRF
+midwives_per_100k,"Advanced practice nurse midwives with an NPI per 100,000 residents, 2024",HRSA AHRF
+obstetric_hospitals_per_100k,"Short-term general hospitals with obstetric care per 100,000 residents, 2023",HRSA AHRF
+log_population_density,"Natural log of 1 plus population per square mile, 2020",HRSA AHRF
+primary_care_hpsa,Indicator that all or part of the county had a primary care HPSA code in 2025,HRSA AHRF
